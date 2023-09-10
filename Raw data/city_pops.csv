@@ -1,0 +1,222 @@
+"","cities.city","cities.country","city_pop"
+"1","Tirana","Albania",456857
+"2","Algiers","Algeria",3717392
+"3","Luanda","Angola",8736265
+"4","Buenos Aires","Argentina",17525362
+"5","Córdoba (ARG)","Argentina",3758487
+"6","Mar de la Plata","Argentina",540433
+"7","Rio Grande","Argentina",87439
+"8","Rosario","Argentina",1302813
+"9","San Antonio de Areco","Argentina",25548
+"10","Melbourne","Australia",147745
+"11","Sydney","Australia",219371
+"12","Wien","Austria",1902260
+"13","Bruges","Belgium",284092
+"14","Brussels","Belgium",1207816
+"15","Ghent","Belgium",576377
+"16","Leuven","Belgium",531990
+"17","Liège","Belgium",1127411
+"18","La Paz","Bolivia",2949145
+"19","Sucre","Bolivia",297570
+"20","Araraquara","Brazil",237835
+"21","Belo Horizonte","Brazil",2530805
+"22","Curitiba","Brazil",1947537
+"23","Porto Alegre","Brazil",1485440
+"24","Recife","Brazil",1657075
+"25","Rio de Janeiro","Brazil",17290021
+"26","São Paulo","Brazil",46238794
+"27","Bobo-Dioulasso","Burkina Faso",856670
+"28","Ouagadougou","Burkina Faso",2581564
+"29","Bamenda","Cameroon",416886
+"30","Douala","Cameroon",3229612
+"31","Yaoundé","Cameroon",3155507
+"32","Guelph","Canada",140257
+"33","Montreal","Canada",1941038
+"34","Toronto","Canada",2928864
+"35","Vancouver","Canada",663192
+"36","Ilha do Sal","Cape Verde",26256
+"37","Praia","Cape Verde",170798
+"38","N'Djamena","Chad",1835862
+"39","Beijing","China",20531672
+"40","Chongqing","China",30133816
+"41","Guanghzou","China",13199183
+"42","Shanghai","China",24084357
+"43","Bogota","Colombia",8078581
+"44","Medellin","Colombia",61898
+"45","Pointe-Noire","Congo",574879
+"148","Brazzaville","Congo",1411659
+"46","Santa Ana","Costa Rica",60296
+"111","Abidjan","Côte d'Ivoire",5674534
+"47","Zagreb","Croatia",821209
+"48","Copenhagen","Denmark",631311
+"49","Kolding","Denmark",91714
+"50","Quito","Ecuador",2683396
+"51","San Salvador","El Salvador",1780067
+"52","Addis Ababa","Ethiopia",5731651
+"53","Bordeaux","France",788959
+"54","Grenoble-Alpes Métropole","France",721923
+"55","Lyon","France",1638979
+"56","Marseille","France",901925
+"57","Montpellier","France",646825
+"58","Montreuil","France",151719
+"59","Mouans-Sartoux","France",15590
+"60","Nantes","France",731384
+"61","Paris","France",2168433
+"62","Rennes","France",507971
+"63","Strasbourg","France",179365
+"64","Toulouse","France",1012143
+"65","Banjul","Gambia",439240
+"66","Berlin","Germany",3565915
+"67","Cologne","Germany",984729
+"68","Frankfurt","Germany",687959
+"69","Accra","Ghana",2516401
+"70","Tamale","Ghana",440381
+"71","Athens","Greece",517398
+"72","Thessaloniki","Greece",216552
+"73","Guatemala City","Guatemala",3424670
+"74","Tegucigalpa","Honduras",1139345
+"75","Pune","India",10236407
+"76","Bandung","Indonesia",3340113
+"77","Surakarta","Indonesia",509655
+"78","Herzliya","Israel",110250
+"79","Kfar-Saba","Israel",215325
+"80","Ramat Gan","Israel",182690
+"81","Tel Aviv","Israel",1438349
+"82","Ancona","Italy",102303
+"83","Aosta","Italy",29662
+"84","Bari","Italy",313202
+"85","Bergamo","Italy",125917
+"86","Bologna","Italy",405104
+"87","Cagliari","Italy",149532
+"88","Capannori","Italy",48757
+"89","Catania","Italy",320
+"90","Castel del Giudice","Italy",323468
+"91","Chieri","Italy",38117
+"92","Cremona","Italy",75810
+"93","Florence","Italy",1033555
+"94","Foggia","Italy",154735
+"95","Genoa","Italy",585042
+"96","Lecco","Italy",48470
+"97","Livorno","Italy",159268
+"98","Lucca","Italy",93719
+"99","Milan","Italy",1448671
+"100","Modena","Italy",192928
+"101","Molfetta","Italy",56472
+"102","Palermo","Italy",677043
+"103","Parma","Italy",206692
+"104","Provincia di Lucca","Italy",93719
+"105","Rome","Italy",2936659
+"106","Sacile","Italy",20839
+"107","Trento","Italy",123006
+"108","Turin","Italy",896478
+"109","Udine","Italy",99420
+"110","Venice","Italy",256307
+"112","Kyoto","Japan",1456325
+"113","Osaka","Japan",2662676
+"114","Tokyo","Japan",14142076
+"115","Toyoma","Japan",402725
+"116","Nur-Sultan","Kazakhstan",878465
+"117","Nairobi","Kenya",5040505
+"118","Bishkek","Kyrgyzstan",944034
+"119","Riga","Latvia",843462
+"120","Antananarivo","Madagascar",1433728
+"121","Bamako","Mali",2408186
+"122","Nouakchott","Mauritania",1173024
+"123","Guadalajara","Mexico",1428862
+"124","Mérida","Mexico",1045031
+"125","Mexico City","Mexico",9403123
+"126","Chisinau","Moldova",688450
+"127","Ulaanbaatar","Mongolia",1459562
+"128","Maputo","Mozambique",1180040
+"129","Pemba","Mozambique",207308
+"130","Quelimane","Mozambique",364114
+"131","Windhoek","Namibia",454953
+"132","Almere","Netherlands",199756
+"133","Amsterdam","Netherlands",816726
+"134","Ede","Netherlands",112058
+"135","Rotterdam","Netherlands",634157
+"136","The Hague","Netherlands",513030
+"137","Utrecht","Netherlands",331355
+"138","Wellington","New Zealand",211879
+"139","Agadez","Niger",213267
+"140","Gaya","Niger",198751
+"141","Niamey","Niger",1375187
+"142","Betlehem","Palestine",52325
+"143","Chanchamayo","Peru",28005
+"144","Lima","Peru",10326626
+"145","Warsaw","Poland",1757843
+"146","Funchal","Portugal",20102
+"147","Torres Vedras","Portugal",16393
+"149","Bucharest","Romania",2012240
+"150","Cheboksary","Russia",44279
+"151","Kazan","Russia",1157977
+"152","Moscow","Russia",11402590
+"153","Nizhny Novgorod","Russia",921142
+"154","Samara","Russia",1104956
+"155","Dakar","Senegal",3507618
+"156","Ljubljana","Slovenia",296512
+"157","Mogadishu","Somalia",1564641
+"158","Cape Town","South Africa",4054253
+"159","eThekwini (Durban)","South Africa",3714125
+"160","Johannesburg","South Africa",5021379
+"161","Daegu","South Korea",2427997
+"162","Seoul","South Korea",9710338
+"163","Wanju","South Korea",95811
+"164","Yeosu","South Korea",267995
+"165","Barcelona","Spain",1373809
+"166","Bilbao","Spain",270090
+"167","Cádiz","Spain",82973
+"168","Dénia","Spain",57667
+"169","Donosti/ San Sebastian","Spain",223299
+"170","Fuenlabrada","Spain",101797
+"171","Godella","Spain",25103
+"172","Granollers","Spain",65101
+"173","Madrid","Spain",3249100
+"174","Malaga","Spain",678520
+"175","Menorca","Spain",38198
+"176","Mieres","Spain",41115
+"177","Montilla","Spain",19028
+"178","Oviedo","Spain",150410
+"179","Pamplona/Iruna","Spain",139553
+"180","Rivas Vaciamadrid","Spain",52175
+"181","Santiago de Compostela","Spain",117008
+"182","Segovia","Spain",10925
+"183","Seville","Spain",623762
+"184","Valencia","Spain",666416
+"185","Valladolid","Spain",230548
+"186","Villanueva de la Cañada","Spain",30755
+"187","Vitoria-Gasteiz","Spain",196827
+"188","Zaragoza","Spain",552824
+"189","Colombo","Sri Lanka",374952
+"190","Basel","Switzerland",161948
+"191","Geneva","Switzerland",147932
+"192","Lausanne","Switzerland",94666
+"193","Zurich","Switzerland",463972
+"194","Arusha","Tanzania",951631
+"195","Bangkok","Thailand",9017877
+"196","Tunis","Tunisia",30076
+"197","Carthage","Tunisia",1384117
+"198","Mezitli","Turkey",768249
+"199","Dubai","United Arab Emirates",3364888
+"200","Birmingham","United Kingdom",1124753
+"201","Brighton & Hove","United Kingdom",277065
+"202","Bristol","United Kingdom",448581
+"203","Glasgow","United Kingdom",618204
+"204","Greater Manchester Authority","United Kingdom",2777190
+"205","London","United Kingdom",8787718
+"206","Austin","United States",1086835
+"207","Baltimore","United States",638642
+"208","Chicago","United States",2785453
+"209","Los Angeles","United States",4146464
+"210","Madison","United States",316605
+"211","Miami","United States",502914
+"212","Minneapolis","United States",497592
+"213","New Haven","United States",148078
+"214","New Port Richey","United States",17752
+"215","New York","United States",8786052
+"216","Pittsburgh","United States",408651
+"217","San Francisco","United States",1002129
+"218","Washington","United States",940098
+"219","West Sacramento","United States",61084
+"220","Kitwe","Zambia",745257
+"221","Lusaka","Zambia",2107009

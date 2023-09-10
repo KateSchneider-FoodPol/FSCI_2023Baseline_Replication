@@ -1,0 +1,30 @@
+Food Systems Countdown to 2030 Initiative 2022 
+Created: 9 Sept 2022
+Last modified: 9 Sept 2022
+Kerstin Damerau, kd435@cornell.edu
+Purpose: Code to generate minimum species richness dataset
+
+QGIS version: 3.26.1-Buenos Aires
+QGIS code revision: b609df9ed4
+Qt version: 5.15.2
+Python version: 3.9.5
+GDAL version: 3.3.2
+GEOS version: 3.9.1-CAPI-1.14.2
+PROJ version: Rel. 8.1.1, September 1st, 2021
+PDAL version: 2.3.0 (git-version: Release)
+
+Raster calculator:
+ 
+Input parameters:
+{ 'CELLSIZE' : None, 'CRS' : QgsCoordinateReferenceSystem('EPSG:4326'), 'EXPRESSION' : '"Livestock_8_richness@1" + "sr_2010_spam_v2r0_42c@1"', 'EXTENT' : None, 'LAYERS' : ['/…/Livestock_8_richness.tif/Livestock_8_richness.tif'], 'OUTPUT' : '/…/tsr.tif' }
+
+Results:
+{'OUTPUT': '/…/tsr.tif'}
+
+Zonal histogram:
+
+Input parameters:
+{ 'COLUMN_PREFIX' : 'HISTO_', 'INPUT_RASTER' : '/…/tsr.tif', 'INPUT_VECTOR' : '/…/world-administrative-boundaries/world-administrative-boundaries.shp', 'OUTPUT' : '/…/global.hist.tsr.csv', 'RASTER_BAND' : 1 }
+
+Results:
+{'OUTPUT': '/…/global.hist.tsr.csv'}

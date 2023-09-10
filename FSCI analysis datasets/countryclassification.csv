@@ -1,0 +1,290 @@
+country,ISO,incgrp,wb_region,disp_area,UN_status_detail,UNmemberstate,UN_status,territoryof,ISO_governing,UN_contregion_code,UN_continental_region,UN_subregion_code,UN_subregion,UN_intermedregion_code,UN_intermediary_region,m49_code,fsci_regions
+Aksai Chin,,,,YES,Sovereignty unsettled,0,Occupied territory,,XXX,,,,,,,,
+Arunachal Pradesh,,,,YES,Sovereignty unsettled,0,Occupied territory,,XXX,,,,,,,,
+Ashmore and Cartier Islands,,,,NO,AU Territory,0,"Territory, region, or administrated by a state",AU Territory,AUS,,,,,,,,
+Azores Islands,,,,NO,PT Territory,0,Occupied territory,,PRT,,,,,,,,
+Baker Island,,,,NO,US Territory,0,"Territory, region, or administrated by a state",US Territory,USA,,,,,,,,
+Bassas da India,,,,NO,FR Territory,0,"Territory, region, or administrated by a state",FR Territory,FRA,,,,,,,,
+Bird Island,,,,NO,VE Territory,0,"Territory, region, or administrated by a state",VE Territory,VEN,,,,,,,,
+China/India,,,,YES,Sovereignty unsettled,0,Occupied territory,,XXX,,,,,,,,
+Clipperton Island,,,,NO,FR Territory,0,"Territory, region, or administrated by a state",FR Territory,FRA,,,,,,,,
+Europa Island,,,,NO,FR Territory,0,"Territory, region, or administrated by a state",FR Territory,FRA,,,,,,,,
+Glorioso Island,,,,NO,FR Territory,0,"Territory, region, or administrated by a state",FR Territory,FRA,,,,,,,,
+Hala'ib triangle,,,,YES,Sovereignty unsettled,0,Occupied territory,,XXX,,,,,,,,
+Howland Island,,,,NO,US Territory,0,"Territory, region, or administrated by a state",US Territory,USA,,,,,,,,
+Ilemi triangle,,,,YES,Sovereignty unsettled,0,Occupied territory,,XXX,,,,,,,,
+Jammu and Kashmir,,,,YES,Sovereignty unsettled,0,Occupied territory,,XXX,,,,,,,,
+Jarvis Island,,,,NO,US Territory,0,"Territory, region, or administrated by a state",US Territory,USA,,,,,,,,
+Johnston Atoll,,,,NO,US Territory,0,"Territory, region, or administrated by a state",US Territory,USA,,,,,,,,
+Juan de Nova Island,,,,NO,FR Territory,0,"Territory, region, or administrated by a state",FR Territory,FRA,,,,,,,,
+Kingman Reef,,,,NO,US Territory,0,"Territory, region, or administrated by a state",US Territory,USA,,,,,,,,
+Kuril islands,,,,YES,Sovereignty unsettled,0,Occupied territory,,XXX,,,,,,,,
+Ma'tan al-Sarra,,,,YES,Sovereignty unsettled,0,Occupied territory,,XXX,,,,,,,,
+Madeira Islands,,,,NO,PT Territory,0,Occupied territory,,PRT,,,,,,,,
+Midway Island,,,,NO,US Territory,0,"Territory, region, or administrated by a state",US Territory,USA,,,,,,,,
+Navassa Island,,,,NO,US Territory,0,"Territory, region, or administrated by a state",US Territory,USA,,,,,,,,
+Netherlands Antilles,,,,NO,NL Territory,0,,,NLD,,,,,,,,
+Palmyra Atoll,,,,NO,US Territory,0,"Territory, region, or administrated by a state",US Territory,USA,,,,,,,,
+Paracel Islands,,,,YES,Sovereignty unsettled,0,Occupied territory,,XXX,,,,,,,,
+Scarborough Reef,,,,YES,Sovereignty unsettled,0,Occupied territory,,XXX,,,,,,,,
+Senkaku Islands,,,,YES,Sovereignty unsettled,0,Occupied territory,,XXX,,,,,,,,
+Spratly Islands,,,,YES,Sovereignty unsettled,0,Occupied territory,,XXX,,,,,,,,
+Tromelin Island,,,,NO,FR Territory,0,"Territory, region, or administrated by a state",FR Territory,FRA,,,,,,,,
+Wake Island,,,,NO,US Territory,0,"Territory, region, or administrated by a state",US Territory,USA,,,,,,,,
+Aruba,ABW,High income,Latin America & Caribbean,NO,NL Self-Governing Territory,0,"Territory, region, or administrated by a state",NL Self-Governing Territory,NLD,019,Americas,419,Latin America and the Caribbean,029,Caribbean,533,Latin America & Caribbean
+Afghanistan,AFG,Low income,South Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,034,Southern Asia,,,004,Southern Asia
+Angola,AGO,Lower middle income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,017,Middle Africa,024,Sub-Saharan Africa
+Anguilla,AIA,,,NO,UK Non-Self-Governing Territory,0,Permanent observer to the UN,,GBR,019,Americas,419,Latin America and the Caribbean,029,Caribbean,660,Latin America & Caribbean
+Albania,ALB,Upper middle income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,039,Southern Europe,,,008,Northern America and Europe
+Andorra,AND,High income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,039,Southern Europe,,,020,Northern America and Europe
+United Arab Emirates,ARE,High income,Middle East & North Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,145,Western Asia,,,784,Northern Africa & Western Asia
+Argentina,ARG,Upper middle income,Latin America & Caribbean,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,419,Latin America and the Caribbean,005,South America,032,Latin America & Caribbean
+Armenia,ARM,Upper middle income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,145,Western Asia,,,051,Northern Africa & Western Asia
+American Samoa,ASM,Upper middle income,East Asia & Pacific,NO,US Non-Self-Governing Territory,0,"Territory, region, or administrated by a state",US Non-Self-Governing Territory,USA,009,Oceania,061,Polynesia,,,016,Oceania
+Antarctica,ATA,,,NO,,0,,,,,,,,,,010,
+French Southern and Antarctic Territories,ATF,,,NO,FR Territory,0,"Territory, region, or administrated by a state",FR Territory,FRA,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,260,Sub-Saharan Africa
+Antigua and Barbuda,ATG,High income,Latin America & Caribbean,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,419,Latin America and the Caribbean,029,Caribbean,028,Latin America & Caribbean
+Australia,AUS,High income,East Asia & Pacific,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,009,Oceania,053,Australia and New Zealand,,,036,Oceania
+Austria,AUT,High income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,155,Western Europe,,,040,Northern America and Europe
+Azerbaijan,AZE,Upper middle income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,145,Western Asia,,,031,Northern Africa & Western Asia
+Burundi,BDI,Low income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,108,Sub-Saharan Africa
+Belgium,BEL,High income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,155,Western Europe,,,056,Northern America and Europe
+Benin,BEN,Lower middle income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,011,Western Africa,204,Sub-Saharan Africa
+Burkina Faso,BFA,Low income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,011,Western Africa,854,Sub-Saharan Africa
+Bangladesh,BGD,Lower middle income,South Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,034,Southern Asia,,,050,Southern Asia
+Bulgaria,BGR,Upper middle income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,151,Eastern Europe,,,100,Northern America and Europe
+Bahrain,BHR,High income,Middle East & North Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,,Asia,145,Western Asia,,,048,Northern Africa & Western Asia
+Bahamas,BHS,High income,Latin America & Caribbean,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,419,Latin America and the Caribbean,029,Caribbean,044,Latin America & Caribbean
+Bosnia and Herzegovina,BIH,Upper middle income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,039,Southern Europe,,,070,Northern America and Europe
+Belarus,BLR,Upper middle income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,151,Eastern Europe,,,112,Northern America and Europe
+Belize,BLZ,Upper middle income,Latin America & Caribbean,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,419,Latin America and the Caribbean,013,Central America,084,Latin America & Caribbean
+Bermuda,BMU,High income,North America,NO,UK Non-Self-Governing Territory,0,Permanent observer to the UN,,GBR,019,Americas,021,Northern America,,,060,Northern America and Europe
+Bolivia (Plurinational State of),BOL,Lower middle income,Latin America & Caribbean,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,419,Latin America and the Caribbean,005,South America,068,Latin America & Caribbean
+Brazil,BRA,Upper middle income,Latin America & Caribbean,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,419,Latin America and the Caribbean,005,South America,076,Latin America & Caribbean
+Barbados,BRB,High income,Latin America & Caribbean,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,419,Latin America and the Caribbean,029,Caribbean,052,Latin America & Caribbean
+Brunei Darussalam,BRN,High income,East Asia & Pacific,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,035,South-eastern Asia,,,096,South-eastern Asia
+Bhutan,BTN,Lower middle income,South Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,034,Southern Asia,,,064,Southern Asia
+Bouvet Island,BVT,,,NO,NO Territory,0,"Territory, region, or administrated by a state",NO Territory,NOR,019,Americas,419,Latin America and the Caribbean,005,South America,074,Latin America & Caribbean
+Botswana,BWA,Upper middle income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,018,Southern Africa,072,Sub-Saharan Africa
+Central African Republic,CAF,Low income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,017,Middle Africa,140,Sub-Saharan Africa
+Canada,CAN,High income,North America,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,021,Northern America,,,124,Northern America and Europe
+Cocos (Keeling) Islands,CCK,,,NO,AU Territory,0,"Territory, region, or administrated by a state",AU Territory,AUS,009,Oceania,053,Australia and New Zealand,,,166,Oceania
+Switzerland,CHE,High income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,155,Western Europe,,,756,Northern America and Europe
+Chile,CHL,High income,Latin America & Caribbean,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,419,Latin America and the Caribbean,005,South America,152,Latin America & Caribbean
+China,CHN,Upper middle income,East Asia & Pacific,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,030,Eastern Asia,,,156,Eastern Asia
+Côte D'Ivoire,CIV,Lower middle income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,011,Western Africa,384,Sub-Saharan Africa
+Cameroon,CMR,Lower middle income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,017,Middle Africa,120,Sub-Saharan Africa
+Democratic Republic of the Congo,COD,Low income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,017,Middle Africa,180,Sub-Saharan Africa
+Congo,COG,Lower middle income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,017,Middle Africa,178,Sub-Saharan Africa
+Cook Islands,COK,,,NO,NZ Territory,0,"Territory, region, or administrated by a state",NZ Territory,NZL,009,Oceania,061,Polynesia,,,184,Oceania
+Colombia,COL,Upper middle income,Latin America & Caribbean,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,419,Latin America and the Caribbean,005,South America,170,Latin America & Caribbean
+Comoros,COM,Lower middle income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,174,Sub-Saharan Africa
+Cabo Verde,CPV,Lower middle income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,011,Western Africa,132,Sub-Saharan Africa
+Costa Rica,CRI,Upper middle income,Latin America & Caribbean,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,419,Latin America and the Caribbean,013,Central America,188,Latin America & Caribbean
+Cuba,CUB,Upper middle income,Latin America & Caribbean,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,419,Latin America and the Caribbean,029,Caribbean,192,Latin America & Caribbean
+Curaçao,CUW,High income,Latin America & Caribbean,,,0,,,,019,Americas,419,Latin America and the Caribbean,029,Caribbean,531,Latin America & Caribbean
+Christmas Island,CXR,,,NO,AU Territory,0,"Territory, region, or administrated by a state",AU Territory,AUS,009,Oceania,053,Australia and New Zealand,,,162,Oceania
+Cayman Islands,CYM,High income,Latin America & Caribbean,NO,UK Non-Self-Governing Territory,0,Permanent observer to the UN,,GBR,019,Americas,419,Latin America and the Caribbean,029,Caribbean,136,Latin America & Caribbean
+Cyprus,CYP,High income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,145,Western Asia,,,196,Northern Africa & Western Asia
+Czechia,CZE,High income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,151,Eastern Europe,,,203,Northern America and Europe
+Germany,DEU,High income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,155,Western Europe,,,276,Northern America and Europe
+Djibouti,DJI,Lower middle income,Middle East & North Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,262,Sub-Saharan Africa
+Dominica,DMA,Upper middle income,Latin America & Caribbean,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,419,Latin America and the Caribbean,029,Caribbean,212,Latin America & Caribbean
+Denmark,DNK,High income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,154,Northern Europe,,,208,Northern America and Europe
+Dominican Republic,DOM,Upper middle income,Latin America & Caribbean,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,419,Latin America and the Caribbean,029,Caribbean,214,Latin America & Caribbean
+Algeria,DZA,Lower middle income,Middle East & North Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,015,Northern Africa,,,012,Northern Africa & Western Asia
+Ecuador,ECU,Upper middle income,Latin America & Caribbean,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,419,Latin America and the Caribbean,005,South America,218,Latin America & Caribbean
+Egypt,EGY,Lower middle income,Middle East & North Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,015,Northern Africa,,,818,Northern Africa & Western Asia
+Eritrea,ERI,Low income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,232,Sub-Saharan Africa
+Western Sahara,ESH,,,NO,Non-Self-Governing Territory,0,"Territory, region, or administrated by a state",Non-Self-Governing Territory,XXX,002,Africa,015,Northern Africa,,,732,Northern Africa & Western Asia
+Spain,ESP,High income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,039,Southern Europe,,,724,Northern America and Europe
+Estonia,EST,High income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,154,Northern Europe,,,233,Northern America and Europe
+Ethiopia,ETH,Low income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,231,Sub-Saharan Africa
+Finland,FIN,High income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,154,Northern Europe,,,246,Northern America and Europe
+Fiji,FJI,Upper middle income,East Asia & Pacific,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,009,Oceania,054,Melanesia,,,242,Oceania
+Falkland Islands (Malvinas),FLK,,,NO,UK Non-Self-Governing Territory,0,Permanent observer to the UN,,GBR,019,Americas,419,Latin America and the Caribbean,005,South America,238,Latin America & Caribbean
+France,FRA,High income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,155,Western Europe,,,250,Northern America and Europe
+Faroe Islands,FRO,High income,Europe & Central Asia,NO,DK Territory,0,"Territory, region, or administrated by a state",DK Territory,DNK,150,Europe,154,Northern Europe,,,234,Northern America and Europe
+Micronesia (Federated States of),FSM,Lower middle income,East Asia & Pacific,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,009,Oceania,057,Micronesia,,,583,Oceania
+Gabon,GAB,Upper middle income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,017,Middle Africa,266,Sub-Saharan Africa
+United Kingdom of Great Britain and Northern Ireland,GBR,High income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,154,Northern Europe,,,826,Northern America and Europe
+Georgia,GEO,Upper middle income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,145,Western Asia,,,268,Northern Africa & Western Asia
+Guernsey,GGY,,,NO,UK Territory,0,Sovereignty unsettled,,GBR,150,Europe,154,Northern Europe,830,Channel Islands,831,Northern America and Europe
+Ghana,GHA,Lower middle income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,011,Western Africa,288,Sub-Saharan Africa
+Gibraltar,GIB,High income,Europe & Central Asia,NO,UK Non-Self-Governing Territory,0,Permanent observer to the UN,,GBR,150,Europe,039,Southern Europe,,,292,Northern America and Europe
+Guinea,GIN,Low income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,011,Western Africa,324,Sub-Saharan Africa
+Guadeloupe,GLP,,,NO,FR Territory,0,"Territory, region, or administrated by a state",FR Territory,FRA,019,Americas,419,Latin America and the Caribbean,029,Caribbean,312,Latin America & Caribbean
+Gambia (Republic of The),GMB,Low income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,011,Western Africa,270,Sub-Saharan Africa
+Guinea-Bissau,GNB,Low income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,011,Western Africa,624,Sub-Saharan Africa
+Equatorial Guinea,GNQ,Upper middle income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,017,Middle Africa,226,Sub-Saharan Africa
+Greece,GRC,High income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,039,Southern Europe,,,300,Northern America and Europe
+Grenada,GRD,Upper middle income,Latin America & Caribbean,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,419,Latin America and the Caribbean,029,Caribbean,308,Latin America & Caribbean
+Greenland,GRL,High income,Europe & Central Asia,NO,DK Self-Governing Territory,0,"Territory, region, or administrated by a state",DK Self-Governing Territory,DNK,019,Americas,021,Northern America,,,304,Northern America and Europe
+Guatemala,GTM,Upper middle income,Latin America & Caribbean,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,419,Latin America and the Caribbean,013,Central America,320,Latin America & Caribbean
+French Guiana,GUF,,,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,419,Latin America and the Caribbean,005,South America,254,Latin America & Caribbean
+Guam,GUM,High income,East Asia & Pacific,NO,US Non-Self-Governing Territory,0,"Territory, region, or administrated by a state",US Non-Self-Governing Territory,USA,009,Oceania,057,Micronesia,,,316,Oceania
+Guyana,GUY,Upper middle income,Latin America & Caribbean,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,419,Latin America and the Caribbean,005,South America,328,Latin America & Caribbean
+Hong Kong,HKG,High income,East Asia & Pacific,NO,CN Special Administrative Region,0,"Territory, region, or administrated by a state",CN Special Administrative Region,CHN,142,Asia,030,Eastern Asia,,,344,Eastern Asia
+Heard Island and McDonald Islands,HMD,,,NO,AU Territory,0,"Territory, region, or administrated by a state",AU Territory,AUS,009,Oceania,053,Australia and New Zealand,,,334,Oceania
+Honduras,HND,Lower middle income,Latin America & Caribbean,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,419,Latin America and the Caribbean,013,Central America,340,Latin America & Caribbean
+Croatia,HRV,High income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,039,Southern Europe,,,191,Northern America and Europe
+Haiti,HTI,Lower middle income,Latin America & Caribbean,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,419,Latin America and the Caribbean,029,Caribbean,332,Latin America & Caribbean
+Hungary,HUN,High income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,151,Eastern Europe,,,348,Northern America and Europe
+Indonesia,IDN,Lower middle income,East Asia & Pacific,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,035,South-eastern Asia,,,360,South-eastern Asia
+Isle of Man,IMN,High income,Europe & Central Asia,NO,UK territory,0,Sovereignty unsettled,,GBR,150,Europe,154,Northern Europe,,,833,Northern America and Europe
+India,IND,Lower middle income,South Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,034,Southern Asia,,,356,Southern Asia
+British Indian Ocean Territory,IOT,,,NO,UK Territory,0,Sovereignty unsettled,,GBR,,,,,,,,
+Ireland,IRL,High income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,154,Northern Europe,,,372,Northern America and Europe
+Iran (Islamic Republic of),IRN,Lower middle income,Middle East & North Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,034,Southern Asia,,,364,Southern Asia
+Iraq,IRQ,Upper middle income,Middle East & North Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,145,Western Asia,,,368,Northern Africa & Western Asia
+Iceland,ISL,High income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,154,Northern Europe,,,352,Northern America and Europe
+Israel,ISR,High income,Middle East & North Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,145,Western Asia,,,376,Northern Africa & Western Asia
+Italy,ITA,High income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,039,Southern Europe,,,380,Northern America and Europe
+Jamaica,JAM,Upper middle income,Latin America & Caribbean,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,419,Latin America and the Caribbean,029,Caribbean,388,Latin America & Caribbean
+Jersey,JEY,,,NO,UK Territory,0,Sovereignty unsettled,,GBR,150,Europe,154,Northern Europe,830,Channel Islands,832,Northern America and Europe
+Jordan,JOR,Upper middle income,Middle East & North Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,145,Western Asia,,,400,Northern Africa & Western Asia
+Japan,JPN,High income,East Asia & Pacific,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,030,Eastern Asia,,,392,Eastern Asia
+Kazakhstan,KAZ,Upper middle income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,143,Central Asia,,,398,Central Asia
+Kenya,KEN,Lower middle income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,404,Sub-Saharan Africa
+Kyrgyzstan,KGZ,Lower middle income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,143,Central Asia,,,417,Central Asia
+Cambodia,KHM,Lower middle income,East Asia & Pacific,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,035,South-eastern Asia,,,116,South-eastern Asia
+Kiribati,KIR,Lower middle income,East Asia & Pacific,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,009,Oceania,057,Micronesia,,,296,Oceania
+Saint Kitts and Nevis,KNA,High income,Latin America & Caribbean,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,419,Latin America and the Caribbean,029,Caribbean,659,Latin America & Caribbean
+Republic of Korea,KOR,High income,East Asia & Pacific,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,030,Eastern Asia,,,410,Eastern Asia
+Kuwait,KWT,High income,Middle East & North Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,145,Western Asia,,,414,Northern Africa & Western Asia
+Lao People's Democratic Republic,LAO,Lower middle income,East Asia & Pacific,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,035,South-eastern Asia,,,418,South-eastern Asia
+Lebanon,LBN,Lower middle income,Middle East & North Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,145,Western Asia,,,422,Northern Africa & Western Asia
+Liberia,LBR,Low income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,011,Western Africa,430,Sub-Saharan Africa
+Libya,LBY,Upper middle income,Middle East & North Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,015,Northern Africa,,,434,Northern Africa & Western Asia
+Saint Lucia,LCA,Upper middle income,Latin America & Caribbean,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,419,Latin America and the Caribbean,029,Caribbean,662,Latin America & Caribbean
+Liechtenstein,LIE,High income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,155,Western Europe,,,438,Northern America and Europe
+Sri Lanka,LKA,Lower middle income,South Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,034,Southern Asia,,,144,Southern Asia
+Lesotho,LSO,Lower middle income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,018,Southern Africa,426,Sub-Saharan Africa
+Lithuania,LTU,High income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,154,Northern Europe,,,440,Northern America and Europe
+Luxembourg,LUX,High income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,155,Western Europe,,,442,Northern America and Europe
+Latvia,LVA,High income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,154,Northern Europe,,,428,Northern America and Europe
+Macau,MAC,High income,East Asia & Pacific,NO,CN Special Administrative Region,0,"Territory, region, or administrated by a state",CN Special Administrative Region,CHN,142,Asia,030,Eastern Asia,,,446,Eastern Asia
+St. Martin (French part),MAF,High income,Latin America & Caribbean,,,0,,,,019,Americas,419,Latin America and the Caribbean,029,Caribbean,663,Latin America & Caribbean
+Morocco,MAR,Lower middle income,Middle East & North Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,015,Northern Africa,,,504,Northern Africa & Western Asia
+Monaco,MCO,High income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,155,Western Europe,,,492,Northern America and Europe
+Republic of Moldova,MDA,Upper middle income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,151,Eastern Europe,,,498,Northern America and Europe
+Madagascar,MDG,Low income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,450,Sub-Saharan Africa
+Maldives,MDV,Upper middle income,South Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,034,Southern Asia,,,462,Southern Asia
+Mexico,MEX,Upper middle income,Latin America & Caribbean,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,419,Latin America and the Caribbean,013,Central America,484,Latin America & Caribbean
+Marshall Islands,MHL,Upper middle income,East Asia & Pacific,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,009,Oceania,057,Micronesia,,,584,Oceania
+North Macedonia,MKD,Upper middle income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,039,Southern Europe,,,807,Northern America and Europe
+Mali,MLI,Low income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,011,Western Africa,466,Sub-Saharan Africa
+Malta,MLT,High income,Middle East & North Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,039,Southern Europe,,,470,Northern America and Europe
+Myanmar,MMR,Lower middle income,East Asia & Pacific,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,035,South-eastern Asia,,,104,South-eastern Asia
+Montenegro,MNE,Upper middle income,Europe & Central Asia,NO,Member State,1,Member state,,,150,Europe,039,Southern Europe,,,499,Northern America and Europe
+Mongolia,MNG,Lower middle income,East Asia & Pacific,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,030,Eastern Asia,,,496,Eastern Asia
+Northern Mariana Islands,MNP,High income,East Asia & Pacific,NO,US Territory,0,"Territory, region, or administrated by a state",US Territory,USA,009,Oceania,057,Micronesia,,,580,Oceania
+Mozambique,MOZ,Low income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,508,Sub-Saharan Africa
+Mauritania,MRT,Lower middle income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,011,Western Africa,478,Sub-Saharan Africa
+Montserrat,MSR,,,NO,UK Non-Self-Governing Territory,0,Permanent observer to the UN,,GBR,019,Americas,419,Latin America and the Caribbean,029,Caribbean,500,Latin America & Caribbean
+Martinique,MTQ,,,NO,FR Territory,0,"Territory, region, or administrated by a state",FR Territory,FRA,019,Americas,419,Latin America and the Caribbean,029,Caribbean,474,Latin America & Caribbean
+Mauritius,MUS,Upper middle income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,480,Sub-Saharan Africa
+Malawi,MWI,Low income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,454,Sub-Saharan Africa
+Malaysia,MYS,Upper middle income,East Asia & Pacific,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,035,South-eastern Asia,,,458,South-eastern Asia
+Mayotte,MYT,,,NO,FR Territory,0,"Territory, region, or administrated by a state",FR Territory,FRA,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,175,Sub-Saharan Africa
+Namibia,NAM,Upper middle income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,018,Southern Africa,516,Sub-Saharan Africa
+New Caledonia,NCL,High income,East Asia & Pacific,NO,FR Non-Self-Governing Territory,0,"Territory, region, or administrated by a state",FR Non-Self-Governing Territory,FRA,009,Oceania,054,Melanesia,,,540,Oceania
+Niger,NER,Low income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,011,Western Africa,562,Sub-Saharan Africa
+Norfolk Island,NFK,,,NO,AU Territory,0,"Territory, region, or administrated by a state",AU Territory,AUS,009,Oceania,053,Australia and New Zealand,,,574,Oceania
+Nigeria,NGA,Lower middle income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,011,Western Africa,566,Sub-Saharan Africa
+Nicaragua,NIC,Lower middle income,Latin America & Caribbean,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,419,Latin America and the Caribbean,013,Central America,558,Latin America & Caribbean
+Niue,NIU,,,NO,NZ Territory,0,"Territory, region, or administrated by a state",NZ Territory,NZL,009,Oceania,061,Polynesia,,,570,Oceania
+Netherlands,NLD,High income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,155,Western Europe,,,528,Northern America and Europe
+Norway,NOR,High income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,154,Northern Europe,,,578,Northern America and Europe
+Nepal,NPL,Lower middle income,South Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,034,Southern Asia,,,524,Southern Asia
+Nauru,NRU,High income,East Asia & Pacific,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,009,Oceania,057,Micronesia,,,520,Oceania
+New Zealand,NZL,High income,East Asia & Pacific,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,009,Oceania,053,Australia and New Zealand,,,554,Oceania
+Oman,OMN,High income,Middle East & North Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,145,Western Asia,,,512,Northern Africa & Western Asia
+Pakistan,PAK,Lower middle income,South Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,034,Southern Asia,,,586,Southern Asia
+Panama,PAN,High income,Latin America & Caribbean,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,419,Latin America and the Caribbean,013,Central America,591,Latin America & Caribbean
+Pitcairn,PCN,,,NO,UK Non-Self-Governing Territory,0,Permanent observer to the UN,,GBR,009,Oceania,061,Polynesia,,,612,Oceania
+Peru,PER,Upper middle income,Latin America & Caribbean,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,419,Latin America and the Caribbean,005,South America,604,Latin America & Caribbean
+Philippines,PHL,Lower middle income,East Asia & Pacific,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,035,South-eastern Asia,,,608,South-eastern Asia
+Palau,PLW,Upper middle income,East Asia & Pacific,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,009,Oceania,057,Micronesia,,,585,Oceania
+Papua New Guinea,PNG,Lower middle income,East Asia & Pacific,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,009,Oceania,054,Melanesia,,,598,Oceania
+Poland,POL,High income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,151,Eastern Europe,,,616,Northern America and Europe
+Puerto Rico,PRI,High income,Latin America & Caribbean,NO,US Territory,0,"Territory, region, or administrated by a state",US Territory,USA,019,Americas,419,Latin America and the Caribbean,029,Caribbean,630,Latin America & Caribbean
+Dem People's Rep of Korea,PRK,Low income,East Asia & Pacific,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,030,Eastern Asia,,,408,Eastern Asia
+Portugal,PRT,High income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,039,Southern Europe,,,620,Northern America and Europe
+Paraguay,PRY,Upper middle income,Latin America & Caribbean,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,419,Latin America and the Caribbean,005,South America,600,Latin America & Caribbean
+Gaza Strip,PSE,Lower middle income,Middle East & North Africa,NO,Occupied Palestinian Territory,0,"Territory, region, or administrated by a state",Occupied Palestinian Territory,XXX,,,,,,,,
+"Palestine, State of",PSE,Lower middle income,Middle East & North Africa,NO,Occupied Palestinian Territory,0,,,XXX,142,Asia,145,Western Asia,,,275,Northern Africa & Western Asia
+West Bank,PSE,Lower middle income,Middle East & North Africa,NO,Occupied Palestinian Territory,0,"Territory, region, or administrated by a state",Occupied Palestinian Territory,XXX,,,,,,,,
+French Polynesia,PYF,High income,East Asia & Pacific,NO,FR Territory,0,"Territory, region, or administrated by a state",FR Territory,FRA,009,Oceania,061,Polynesia,,,258,Oceania
+Qatar,QAT,High income,Middle East & North Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,145,Western Asia,,,634,Northern Africa & Western Asia
+Reunion,REU,,,NO,FR Territory,0,"Territory, region, or administrated by a state",FR Territory,FRA,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,638,Sub-Saharan Africa
+Romania,ROU,High income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,151,Eastern Europe,,,642,Northern America and Europe
+Russian Federation,RUS,Upper middle income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,151,Eastern Europe,,,643,Northern America and Europe
+Rwanda,RWA,Low income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,646,Sub-Saharan Africa
+Saudi Arabia,SAU,High income,Middle East & North Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,145,Western Asia,,,682,Northern Africa & Western Asia
+Sudan,SDN,Low income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,015,Northern Africa,,,729,Northern Africa & Western Asia
+Senegal,SEN,Lower middle income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,011,Western Africa,686,Sub-Saharan Africa
+Singapore,SGP,High income,East Asia & Pacific,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,035,South-eastern Asia,,,702,South-eastern Asia
+South Georgia and the South Sandwich Islands,SGS,,,NO,UK Territory,0,Sovereignty unsettled,,GBR,019,Americas,419,Latin America and the Caribbean,005,South America,239,Latin America & Caribbean
+Saint Helena,SHN,,,NO,UK Non-Self-Governing Territory,0,Permanent observer to the UN,,GBR,002,Africa,202,Sub-Saharan Africa,011,Western Africa,654,Sub-Saharan Africa
+Svalbard and Jan Mayen Islands,SJM,,,NO,NO Territory,0,"Territory, region, or administrated by a state",NO Territory,NOR,150,Europe,154,Northern Europe,,,744,Northern America and Europe
+Solomon Islands,SLB,Lower middle income,East Asia & Pacific,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,009,Oceania,054,Melanesia,,,090,Oceania
+Sierra Leone,SLE,Low income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,011,Western Africa,694,Sub-Saharan Africa
+El Salvador,SLV,Lower middle income,Latin America & Caribbean,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,419,Latin America and the Caribbean,013,Central America,222,Latin America & Caribbean
+San Marino,SMR,High income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,039,Southern Europe,,,674,Northern America and Europe
+Somalia,SOM,Low income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,706,Sub-Saharan Africa
+Saint Pierre et Miquelon,SPM,,,NO,FR Territory,0,"Territory, region, or administrated by a state",FR Territory,FRA,019,Americas,021,Northern America,,,666,Northern America and Europe
+Serbia,SRB,Upper middle income,Europe & Central Asia,NO,Member State,1,Member state,,,150,Europe,039,Southern Europe,,,688,Northern America and Europe
+South Sudan,SSD,Low income,Sub-Saharan Africa,NO,Member State,1,Member state,,,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,728,Sub-Saharan Africa
+Sao Tome and Principe,STP,Lower middle income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,017,Middle Africa,678,Sub-Saharan Africa
+Suriname,SUR,Upper middle income,Latin America & Caribbean,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,419,Latin America and the Caribbean,005,South America,740,Latin America & Caribbean
+Slovakia,SVK,High income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,151,Eastern Europe,,,703,Northern America and Europe
+Slovenia,SVN,High income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,039,Southern Europe,,,705,Northern America and Europe
+Sweden,SWE,High income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,154,Northern Europe,,,752,Northern America and Europe
+Eswatini,SWZ,Lower middle income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,018,Southern Africa,748,Sub-Saharan Africa
+Sint Maarten (Dutch part),SXM,High income,Latin America & Caribbean,,,0,,,,019,Americas,419,Latin America and the Caribbean,029,Caribbean,534,Latin America & Caribbean
+Seychelles,SYC,High income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,690,Sub-Saharan Africa
+Syrian Arab Republic,SYR,Low income,Middle East & North Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,145,Western Asia,,,760,Northern Africa & Western Asia
+Turks and Caicos Islands,TCA,High income,Latin America & Caribbean,NO,UK Non-Self-Governing Territory,0,Permanent observer to the UN,,GBR,019,Americas,419,Latin America and the Caribbean,029,Caribbean,796,Latin America & Caribbean
+Chad,TCD,Low income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,017,Middle Africa,148,Sub-Saharan Africa
+Togo,TGO,Low income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,011,Western Africa,768,Sub-Saharan Africa
+Thailand,THA,Upper middle income,East Asia & Pacific,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,035,South-eastern Asia,,,764,South-eastern Asia
+Tajikistan,TJK,Lower middle income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,143,Central Asia,,,762,Central Asia
+Tokelau,TKL,,,NO,NZ Non-Self-Governing Territory,0,"Territory, region, or administrated by a state",NZ Non-Self-Governing Territory,NZL,009,Oceania,061,Polynesia,,,772,Oceania
+Turkmenistan,TKM,Upper middle income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,143,Central Asia,,,795,Central Asia
+Timor-Leste,TLS,Lower middle income,East Asia & Pacific,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,035,South-eastern Asia,,,626,South-eastern Asia
+Tonga,TON,Upper middle income,East Asia & Pacific,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,009,Oceania,061,Polynesia,,,776,Oceania
+Trinidad and Tobago,TTO,High income,Latin America & Caribbean,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,419,Latin America and the Caribbean,029,Caribbean,780,Latin America & Caribbean
+Tunisia,TUN,Lower middle income,Middle East & North Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,015,Northern Africa,,,788,Northern Africa & Western Asia
+Türkiye,TUR,Upper middle income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,145,Western Asia,,,792,Northern Africa & Western Asia
+Tuvalu,TUV,Upper middle income,East Asia & Pacific,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,009,Oceania,061,Polynesia,,,798,Oceania
+Taiwan,TWN,High income,East Asia & Pacific,NO,CN Province,0,"Territory, region, or administrated by a state",CN Province,CHN,142,Asia,030,Eastern Asia,,,158,Eastern Asia
+United Republic of Tanzania,TZA,Lower middle income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,834,Sub-Saharan Africa
+Uganda,UGA,Low income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,800,Sub-Saharan Africa
+Ukraine,UKR,Lower middle income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,150,Europe,151,Eastern Europe,,,804,Northern America and Europe
+Uruguay,URY,High income,Latin America & Caribbean,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,419,Latin America and the Caribbean,005,South America,858,Latin America & Caribbean
+United States of America,USA,High income,North America,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,021,Northern America,,,840,Northern America and Europe
+Uzbekistan,UZB,Lower middle income,Europe & Central Asia,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,143,Central Asia,,,860,Central Asia
+Saint Vincent and the Grenadines,VCT,Upper middle income,Latin America & Caribbean,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,419,Latin America and the Caribbean,029,Caribbean,670,Latin America & Caribbean
+"Venezuela, Bolivarian Republic of",VEN,,Latin America & Caribbean,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,019,Americas,419,Latin America and the Caribbean,005,South America,862,Latin America & Caribbean
+British Virgin Islands,VGB,High income,Latin America & Caribbean,NO,UK Non-Self-Governing Territory,0,Permanent observer to the UN,,GBR,019,Americas,419,Latin America and the Caribbean,029,Caribbean,092,Latin America & Caribbean
+United States Virgin Islands,VIR,High income,Latin America & Caribbean,NO,US Non-Self-Governing Territory,0,"Territory, region, or administrated by a state",US Non-Self-Governing Territory,USA,019,Americas,419,Latin America and the Caribbean,029,Caribbean,850,Latin America & Caribbean
+Viet Nam,VNM,Lower middle income,East Asia & Pacific,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,035,South-eastern Asia,,,704,South-eastern Asia
+Vanuatu,VUT,Lower middle income,East Asia & Pacific,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,009,Oceania,054,Melanesia,,,548,Oceania
+Wallis and Futuna,WLF,,,NO,FR Territory,0,"Territory, region, or administrated by a state",FR Territory,FRA,009,Oceania,061,Polynesia,,,876,Oceania
+Samoa,WSM,Lower middle income,East Asia & Pacific,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,009,Oceania,061,Polynesia,,,882,Oceania
+Kosovo,XKX,Upper middle income,Europe & Central Asia,,,0,,,,,,,,,,,
+Yemen,YEM,Low income,Middle East & North Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,142,Asia,145,Western Asia,,,887,Northern Africa & Western Asia
+South Africa,ZAF,Upper middle income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,018,Southern Africa,710,Sub-Saharan Africa
+Zambia,ZMB,Low income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,894,Sub-Saharan Africa
+Zimbabwe,ZWE,Lower middle income,Sub-Saharan Africa,NO,Member State,1,"Territory, region, or administrated by a state",Member State,,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,716,Sub-Saharan Africa
+Channel Islands,_CH,High income,Europe & Central Asia,,,0,,,,,,,,,,,
+Kosovo,,,,,,0,,,,150,Europe,039,Southern Europe,,,412,Northern America and Europe
+"United Republic of Tanzania, Zanzibar",,,,,,0,,,,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,836,Sub-Saharan Africa
+Åland Islands,ALA,,,,,0,,,,150,Europe,154,Northern Europe,,,248,Northern America and Europe
+"Bonaire, Sint Eustatius and Saba",BES,,,,,0,,,,019,Americas,419,Latin America and the Caribbean,029,Caribbean,535,Latin America & Caribbean
+Saint Barthélemy,BLM,,,,,0,,,,019,Americas,419,Latin America and the Caribbean,029,Caribbean,652,Latin America & Caribbean
+Chagos Archipelago,IOT,,,,,0,,,,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,086,Sub-Saharan Africa
+United States Minor Outlying Islands,UMI,,,,,0,,,,009,Oceania,057,Micronesia,,,581,Oceania
+Holy See,VAT,,,,,0,,,,150,Europe,039,Southern Europe,,,336,Northern America and Europe
+Sark,XSQ,,,,,0,,,,150,Europe,154,Northern Europe,830,Channel Islands,680,Northern America and Europe

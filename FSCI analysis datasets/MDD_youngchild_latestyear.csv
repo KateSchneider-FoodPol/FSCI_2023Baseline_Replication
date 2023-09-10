@@ -1,0 +1,102 @@
+ISO,country,year,source1,source2,MDD_iycf,MDD_iycf_m,MDD_iycf_f,MDD_iycf_u,MDD_iycf_r
+AFG,Afghanistan,2015,DHS,"Afghanistan Demographic and Health Survey 2015. Kabul, Afghanistan: Central Statistics Organization",22.0586,21.22918,22.92883,32.53535,18.61039
+AGO,Angola,2015,DHS,"Inquérito de Indicadores Múltiplos e de Saúde em Angola 2015-2016. Luanda, Angola e Rockville, Maryland, EUA: INE, MINSA, MINPLAN e ICF International.",29.06923,29.36631,28.77168,33.08379,22.90421
+ALB,Albania,2017,DHS,"Albania Demographic and Health Survey 2017-18. Tirana, Albania: Institute of Statistics, Institute of Public Health, and ICF",52.49851,54.74532,50.27948,49.94749,55.93674
+ARM,Armenia,2016,DHS,"Armenia Demographic and Health Survey 2015-16. Rockville, Maryland, USA: National Statistical Service, Ministry of Health, and ICF",36.30882,36.47897,36.14818,38.42852,33.46664
+AZE,Azerbaijan,2006,DHS,"Azerbaijan Demographic and Health Survey 2006. Demographic and Health Surveys. Calverton, Maryland, USA: State Statistical Committee and Macro International Inc., 2008",34.83471,34.72641,34.96621,39.52731,29.62893
+BDI,Burundi,2016,DHS,"Troisième Enquête Démographique et de Santé. Bujumbura, Burundi : ISTEEBU, MSPLS, et ICF",18.48604,19.03006,17.92906,42.8429,16.24106
+BEN,Benin,2018,DHS,"Enquête Démographique et de Santé au Bénin, 2017-2018. Cotonou, Bénin et Rockville, Maryland, USA : INSAE et ICF",25.88009,25.82348,25.93911,24.12663,26.99319
+BFA,Burkina Faso,2019,SMART,"Enquete Nutritionnelle Nationale, Burkina Faso 2019",35.60064,35.4977,35.70759,,
+BGD,Bangladesh,2019,MICS,"Bangladesh Multiple Indicator Cluster Survey 2019, Survey Findings Report. Dhaka, Bangladesh: Bangladesh Bureau of Statistics (BBS)",33.84741,35.31599,32.26913,41.53316,31.78584
+BLR,Belarus,2019,MICS,"2019 Belarus Multiple Indicator Cluster Survey, Survey Findings Report. Republic of Belarus, Minsk: National Statistical Committee of the Republic of Belarus and United Nations Children’s Fund (UNICEF).",69.58461,68.31247,70.84453000000001,69.39645,70.06707
+BLZ,Belize,2015,MICS,"Belize Multiple Indicator Cluster Survey, 2015-2016, Final Report. Belmopan, Belize: Statistical Institute of Belize and UNICEF Belize.",57.82964,57.51983,58.15228,61.12374,55.56298
+BOL,Bolivia (Plurinational State of),2016,DHS-Style,Bolivia Encuesta de Demografia y Salud - EDSA 2016: Indicadores Priorizados,70.48437,70.76649,70.20455,74.80978,60.83376
+BTN,Bhutan,2015,NNS,"National Nutrition Survey 2015, Nutrition Programme Department of Public Health Ministry of Health Bhutan",15.50018,10.22027,20.73348,20.08643,12.09582
+CAF,Central African Republic,2010,MICS,"Suivi de la situation des enfants, des femmes et des hommes. Enquête par grappes à indicateurs multiples - MICS couplée avec la sérologie VIH, RCA, 2010: Rapport final. Bangui, RCA: ICASEES, 2012.",26.60048,25.75246,27.46589,36.45886,21.54467
+CHN,China,2013,Other,"China National Nutrition and Health Survey, 2013",36.88,36.76,37.01,50.45,23.62
+CIV,Côte D'Ivoire,2016,MICS,"Enquête par grappes à indicateurs multiples - Côte d’Ivoire 2016, Rapport Final, Septembre 2017",22.67782,23.26309,22.09787,26.99758,19.62943
+CMR,Cameroon,2018,DHS,"Enquête Démographique et de Santé du Cameroun 2018. Yaoundé, Cameroun et Rockville, Maryland, USA : INS et ICF. 2020",19.76963,19.87511,19.65447,26.11756,14.99004
+COD,Democratic Republic of the Congo,2017,MICS,"Enquête par grappes à indicateurs multiples, 2017-2018, rapport de résultats de l’enquête. Kinshasa, République Démocratique du Congo",15.22435,15.64318,14.81348,20.42057,11.96657
+COG,Congo,2014,MICS,"Enquête par grappes à indicateurs multiples (MICS5 2014-2015), Rapport final. Brazzaville, Congo : Institut National de la Statistique et UNICEF.",13.74747,15.20039,12.22261,13.1183,14.81375
+COL,Colombia,2016,NNS,Colombia National Survey of the Nutritional Situation 2015,68.63525,68.20281,69.06773,70.48033,63.43021
+COM,Comoros,2012,DHS,"Enquête démographique et de santé et à indicateurs multiples aux Comores 2012. Demograohic and Health Surveys and MICS. Rockville, MD 20850, USA : DGSP et ICF International, 2014",21.52624,18.77838,24.46705,28.56751,18.68707
+CRI,Costa Rica,2018,MICS,"Encuesta de Mujeres, Niñez y Adolescencia (EMNA), Informe de resultados de la encuesta. San José, Costa Rica. 2019",75.64828,75.86937,75.43868999999999,75.44112,76.18644
+CUB,Cuba,2019,MICS,"Cuba Encuesta de Indicadores Múltiples por Conglomerados 2019, Informe de resultados de la encuesta. La Habana, Cuba: Dirección de Registros Médicos y Estadísticas de Salud.",57.92567,57.5844,58.28705,61.49598,52.10755
+DOM,Dominican Republic,2014,MICS,"Encuesta Nacional de Hogares de Propósitos Múltiples (ENHOGAR-MICS) 2014. New York, United States: United Nations Children's Fund (UNICEF), 2016.",51.30798,50.03923,52.56508,52.0535,49.22979
+DZA,Algeria,2019,MICS,Enquête par grappes à indicateurs multiples [MICS] 2019,39.35625,40.01488,38.68607,41.28061,36.98745
+ECU,Ecuador,2019,Other,"Encuesta Nacional de Salud y Nutrición Ecuador, (ENSANUT-ECU) 2018",52.9857,53.58086,52.34987,54.30991,50.4266
+EGY,Egypt,2014,DHS,"Egypt demographic and health survey 2014. Demographic and Health Surveys. Cairo, Egypt and Rockville, Maryland, USA: Ministry of Health and Population and ICF International, 2015.",34.69011,34.46354,34.9415,33.67867,35.15416
+ETH,Ethiopia,2019,IDHS,"Ethiopia Mini Demographic and Health  Survey 2019: Final Report. Rockville, Maryland, USA: EPHI and ICF, 2021.",13.49443,14.0134,12.92714,16.35102,12.37073
+GAB,Gabon,2012,DHS,"Enquête démographique et de santé du Gabon 2012. Demographic and Health Surveys. Calverton, Maryland, et Libreville, Gabon : DGS et ICF International, 2013",17.82716,18.3331,17.30004,18.49223,14.38493
+GEO,Georgia,2018,MICS,"Georgia Multiple Indicator Cluster Survey 2018, Survey Findings Report. Tbilisi, Georgia: National Statistics Office of Georgia.",52.58951,49.70507,55.40452,55.96681,47.39795
+GHA,Ghana,2017,MICS,"Multiple Indicator Cluster Survey (MICS2017/18), Survey Findings Report. Accra, Ghana: GSS",26.05488,25.53088,26.59207,33.09402,20.66351
+GIN,Guinea,2018,DHS,"Enquête Démographique et de Santé en Guinée 2018. Conakry, Guinée, et Rockville, Maryland, USA : INS et ICF",13.80959,13.73485,13.88874,20.47969,10.9031
+GMB,Gambia (Republic of The),2020,DHS,"The Gambia Demographic and Health Survey 2019- 20. Banjul, The Gambia and Rockville, Maryland, USA: GBoS and ICF",22.82907,23.36013,22.25136,24.90219,18.87828
+GNB,Guinea-Bissau,2019,MICS,"Inquérito aos Indicadores Múltiplos (MICS5) 2018-2019, Relatório Final. Bissau, Guiné-Bissau: Ministério da Economia e Finanças e Direcção Geral do Plano/ Instituto Nacional de Estatística (INE).",8.089145,8.499320000000001,7.674693,12.2755,6.627015
+GTM,Guatemala,2015,DHS,"Encuesta Nacional de Salud Materno Infantil 2014-2015. Ciudad de Guatemala, Guatemala, 2015.",59.31613,59.88085,58.71396,66.83485,55.24516
+GUY,Guyana,2014,MICS,"Guyana Multiple Indicator Cluster Survey 2014, Final Report. Georgetown, Guyana: Bureau of Statistics, Ministry of Public Health and UNICEF",52.42071,54.4646,50.46204,57.96564,50.58471
+HND,Honduras,2012,DHS,"Encuesta nacional de salud y demografía 2011-2012. Demographic and Health Surveys. Tegucigalpa, Honduras: SS, INE e ICF International, 2013",60.72642,61.17238,60.22083,64.51488000000001,57.50319
+HTI,Haiti,2017,DHS,"Enquête Mortalité, Morbidité et Utilisation des Services (EMMUS-VI 2016-2017) Pétion-Ville, Haïti, et Rockville, Maryland, USA : IHE et ICF",19.17632,18.22826,20.12299,24.38231,16.55806
+IDN,Indonesia,2017,DHS,"Indonesia Demographic and Health Survey 2017. Jakarta, Indonesia: BKKBN, BPS, Kemenkes, and ICF.",53.92532,52.60462,55.3511,58.91389,49.10792
+IND,India,2017,NNS,Comprehensive National Nutrition Survey (CNNS) National Report. New Delhi,16.39,16.31,16.48,19.84,15.25
+IRQ,Iraq,2018,MICS,"Iraq Multiple Indicator Cluster Survey 2018, Survey Findings Report. Baghdad, Iraq: CSO & KRSO",44.58257,45.41029,43.69729,46.62467,39.97073
+JOR,Jordan,2017,DHS,"Jordan Population and Family and Health Survey  2017-18. Amman, Jordan, and Rockville, Maryland, USA: DOS and ICF",34.95321,36.09966,33.60614,35.04268,34.28795
+KAZ,Kazakhstan,2015,MICS,"2015 Kazakhstan Multiple Indicator Cluster Survey, Final Report. Astana, Kazakhstan: The Statistics Committee of the Ministry of National Economy of the Republic of Kazakhstan, 2016.",48.98081,49.71148,48.18196,53.12326,45.19128
+KEN,Kenya,2014,DHS,"Kenya demographic and health Survey (2014 KDHS): Final Report. Demongraphic and Health Surveys. Nairobi, Kenya: KNBS, Ministry of Health, NACC, KEMRI, NCPD, 2015",36.30892,36.52683,36.08114,50.41773,28.33219
+KGZ,Kyrgyzstan,2018,MICS,"Kyrgyzstan Multiple Indicator Cluster Survey 2018, Survey Findings Report. Bishkek, Kyrgyzstan: National Statistical Committee of the Kyrgyz Republic and UNICEF.",59.76541,59.02107,60.58595,62.23804,58.59866
+KHM,Cambodia,2014,DHS,"Cambodia Demographic and Health Survey 2014. Phnom Penh, Cambodia, and Rockville, Maryland, USA: National Institute of Statistics, Directorate General for Health, and ICF International.",40.42555,40.32937,40.52439,56.07456,37.87388
+KIR,Kiribati,2018,MICS,Kiribati 2018-2019 Social Development Indicator Survey,9.30185,10.29074,8.177562,12.03008,6.004407
+LAO,Lao People's Democratic Republic,2017,MICS-DHS,"Lao Social Indicator Survey II 2017, Survey Findings Report. Vientiane, Lao PDR: Lao Statistics Bureau and UNICEF",35.6975,36.6858,34.58052,50.96864,29.60556
+LBR,Liberia,2019,DHS,"Liberia Demographic and Health Survey 2019-20. Monrovia, Liberia and Rockville, Maryland, USA/ Liberia Institute of Statistics and Geo-Information Services (LISGIS), Ministry of Health [Liberia], and ICF. 2021.",8.607430000000001,8.026401999999999,9.158937999999999,10.73591,6.208081
+LKA,Sri Lanka,2016,DHS-Style,Sri Lanka Demographic and Health Survey 2016,78.44467,79.02167,77.85500999999999,78.45946000000001,78.49975999999999
+LSO,Lesotho,2018,MICS,"Lesotho Multiple Indicator Cluster Survey 2018, Survey Findings Report. Maseru, Lesotho: Bureau of Statistics.",16.69523,17.31117,16.01863,26.03572,12.0695
+MDA,Republic of Moldova,2005,DHS,"Moldova demographic and health survey 2005. Demographic and Health Surveys. Calverton, Maryland: NCPM of the Ministry of Health and Social Protection and ORC Macro, 2006",69.70462000000001,72.14252,67.01416,74.21548,66.67113000000001
+MDG,Madagascar,2018,MICS,"Enquête par grappes à indicateurs multiples-MICS Madagascar 2018, Rapport final. Antananarivo, Madagascar : INSTAT et UNICEF 2019",24.69239,27.07142,22.03254,38.73732,21.28507
+MDV,Maldives,2017,DHS,"Maldives Demographic and Health Survey 2016-17. Malé, Maldives, and Rockville, Maryland, USA: MOH and ICF",71.37907,72.07401,70.63394,72.59081,70.71561
+MEX,Mexico,2015,MICS,"Encuesta Nacional de Niños, Niñas y Mujeres en México 2015 - Encuesta de Indicadores Múltiples por Conglomerados 2015, Resultados Principales, 2016",59.44374,54.37854,64.11272,59.979,57.92266
+MHL,Marshall Islands,2017,MICS-Style,"Republic of the Marshall Islands Integrated Child Health and Nutrition Survey 2017, Final Report. Majuro, Republic of the Marshall Islands: RMI Ministry of Health and Human Services, RMI Economic, Policy Planning and Statistic Office, 2017",34.14451,34.73269,33.45697,36.53531,22.41897
+MKD,North Macedonia,2019,MICS,"2018-2019 North Macedonia Multiple Indicator Cluster Survey, Survey  Findings  Report. Skopje, North Macedonia: State Statistical Office and UNICEF.",54.19245,53.12154,55.3691,52.7422,56.55811
+MLI,Mali,2019,SMART,"Enquête Nationale Nutritionnelle Anthropométrique et de Mortalité rétrospective suivant la méthodologie SMART, Mali 2019",22.23837,22.41815,22.04481,,
+MMR,Myanmar,2016,DHS,Myanmar Demographic and Health Survey 2015-16: Final Report. 2016,21.32968,23.24876,19.09084,29.45317,18.56783
+MNE,Montenegro,2018,MICS,"2018 Montenegro multiple indicator cluster survey (MICS): Final report. Podgorica, Montenegro: MONSTAT and UNICEF, 2019",66.02309,66.98209,64.76105,69.13914,59.31356
+MNG,Mongolia,2020,MICS Plus,"Mongolia 2020 MICS Plus, Wave 2",45,43,47,50,30
+MOZ,Mozambique,2011,DHS,"Moçambique inquérito demográfico e de Saúde 2011. Demographic and Health Surveys. Calverton, Maryland, USA: MISAU, INE e ICFI, 2013",28.03905,27.08357,28.9501,26.83002,28.48357
+MRT,Mauritania,2015,MICS,"Mauritanie Enquête par Grappes à Indicateurs Multiples (MICS) 2015 - Rapport Final, Mars 2017",28.28629,26.73195,29.78737,38.4507,19.35598
+MWI,Malawi,2015,DHS,"Malawi Demographic and Health Survey 2015-16. Zomba, Malawi, and Rockville, Maryland, USA. NSO and ICF.",22.76509,22.01656,23.53532,38.98626,20.24225
+NAM,Namibia,2013,DHS,"The Namibia demographic and health survey 2013. Demographic and Health Surveys. Windhoek, Namibia, and Rockville, Maryland, USA: MoHSS and ICF International, 2014",24.89023,22.25985,27.29702,39.04982,12.82625
+NER,Niger,2019,SMART,"Enquête nationale de nutrition avec la méthodologie SMART - 2019, Niger",16.98178,15.60292,18.53426,,
+NGA,Nigeria,2018,DHS,"Nigeria Demographic and Health Survey 2018. Abuja, Nigeria, and Rockville, Maryland, USA: NPC and ICF. 2019",22.64696,22.62906,22.66604,29.00648,18.60099
+NPL,Nepal,2019,MICS,"Nepal Multiple Indicator Cluster Survey 2019, Survey Findings Report. Kathmandu, Nepal: Central Bureau of Statistics and UNICEF Nepal.",39.70955,41.42262,37.67385,40.26277,38.64516
+PAK,Pakistan,2018,DHS,"Pakistan Demographic and Health Survey 2017-18. Islamabad, Pakistan, and Rockville, Maryland, USA: NIPS and ICF",14.97243,13.98747,16.04042,19.21159,12.83724
+PER,Peru,2019,DHS-Style,Encuesta Demográfica y de Salud Familiar-ENDES 2019 Nacional y Departamental,83.97279,83.54664,84.4192,86.48799,76.81824
+PHL,Philippines,2008,DHS,"National Demographic and Health Survey 2008. Calverton, Maryland: NSO/Philippines and ICF Macro",53.53235,52.66589,54.49307,55.74144,51.36195
+PNG,Papua New Guinea,2017,DHS,"Papua New Guinea Demographic and Health Survey 2016-18. Port Moresby, Papua New Guinea, and Rockville, Maryland, USA: NSO and ICF. 2019",32.1836,32.71183,31.58567,45.69474,30.45848
+PRK,Dem People's Rep of Korea,2017,MICS,"DPR Korea Multiple Indicator Cluster Survey 2017, Survey Findings Report. Pyongyang, DPR Korea: Central Bureau of Statistics and UNICEF",46.7,48.9,44.4,53.4,37.1
+PRY,Paraguay,2016,MICS,Encuesta de Indicadores Multiples por Conglomerados MICS Paraguay 2016,52.0675,52.02811,52.11313,54.83609,47.79121
+PSE,"Palestine, State of",2020,MICS,"Palestinian Multiple Indicator Cluster Survey 2019-2020,  Survey Findings Report, Ramallah, Palestine.",44.65833,45.0522,44.24212,42.97725,52.95744
+RWA,Rwanda,2018,CFSVA,"Comprehensive Food Security and Vulnerability Analysis, Rwanda 2018",30.09441,29.66973,30.53909,50.77337,24.56025
+SDN,Sudan,2014,MICS,"Multiple Indicator Cluster Survey 2014 of Sudan, Final Report. Khartoum, Sudan: UNICEF and Central Bureau of Statistics (CBS), February 2016.",23.97122,23.84683,24.10286,35.73753,19.66341
+SEN,Senegal,2019,CDHS,"Sénégal : Enquête Démographique et de Santé Continue (EDS-Continue 2019). Rockville, Maryland, USA : ANSD et ICF",19.33213,18.12234,20.47161,23.30621,16.92417
+SLE,Sierra Leone,2019,DHS,"Sierra Leone Demographic and Health Survey 2019. Freetown, Sierra Leone, and Rockville, Maryland, USA: Stats SL and ICF",25.06937,23.20227,26.95897,27.46783,23.80893
+SLV,El Salvador,2014,MICS,"Encuesta nacional de salud 2014 - Encuesta de indicadores multiples por conglomerados 2014, Resultados principales. San Salvador, El Salvador: Ministerio de Salud e Instituto Nacional de Salud.",72.85091,73.23336999999999,72.46359,76.26636999999999,68.19101999999999
+SRB,Serbia,2019,MICS,"Serbia Multiple Indicator Cluster Survey 2019, Survey Findings Reports. Belgrade, Serbia: Statistical Office of the Republic of Serbia and UNICEF",85.88482,87.75735,83.3433,87.92731000000001,83.2075
+STP,Sao Tome and Principe,2019,MICS,"Inquérito de Indicadores Múltiplos 2019, Relatório final. São Tomé, São Tomé e Príncipe: Instituto Nacional de Estatística e Fundo das Nações Unidas para a Infância",32.26844,32.07494,32.47644,34.8989,27.79377
+SUR,Suriname,2018,MICS,"Suriname Multiple Indicator Cluster Survey 2018, Survey Findings Report. Paramaribo, Suriname: Ministry of Social Affairs and Public Housing",28.11235,25.42454,31.18711,31.56197,21.00601
+SWZ,Eswatini,2014,MICS,"Swaziland Multiple Indicator Cluster Survey 2014. Final Report. Mbabane, Swaziland, Central Statistical Office and UNICEF",47.70291,48.03901,47.36597,55.85086,45.05975
+TCD,Chad,2019,MICS,"MICS6-Tchad, 2019, Rapport final. N’Djamena, Tchad.",23.35319,23.93535,22.75249,28.40034,22.36726
+TGO,Togo,2017,MICS,"MICS6 TOGO, 2017, Rapport final. Lomé, Togo",18.60724,18.58177,18.63228,21.92961,16.35548
+THA,Thailand,2019,MICS,"Thailand Multiple Indicator Cluster Survey 2019, Survey Findings Report. Bangkok, Thailand: National Statistical Office of Thailand.",69.24312999999999,69.44817999999999,69.01759,68.74285999999999,69.50363
+TJK,Tajikistan,2017,DHS,"Tajikistan Demographic and Health Survey 2017. Dushanbe, Republic of Tajikistan, and Rockville, Maryland, USA: Statistical Agency under the President of the Republic of Tajikistan (SA)",22.50753,22.07323,22.98295,25.10844,21.89048
+TKM,Turkmenistan,2019,MICS,"Multiple Indicator Cluster Survey, 2019. Survey Report. Ashgabat, Turkmenistan, State Committee for Statistics of Turkmenistan and UNICEF.",69.38209999999999,69.47857,69.27015,68.17301,70.15998
+TLS,Timor-Leste,2020,NNS,Timor-Leste Food and Nutrition Survey 2020,39.83708,40.0097,39.648,45.61521,36.83868
+TON,Tonga,2019,MICS,"Tonga Multiple Indicator Cluster Survey 2019, Survey Findings Report. Nuku’alofa, Tonga: Tonga Statistics Department",53.49138,54.85608,52.27135,48.40133,55.0674
+TUN,Tunisia,2018,MICS,"Enquête par grappes à indicateurs multiples (MICS), 2018, Rapport Final. Tunisie: le Ministère du Développement de l’Investissement et de la Coopération Internationale (MDICI)",63.16132,64.24968,61.91122,66.31798000000001,57.9062
+TZA,United Republic of Tanzania,2015,DHS,"Tanzania demographic and health survey  2015-16. Demographic and Health Surveys. Dar es Salaam, Tanzania: NBS and ICF International, 2016",21.47856,21.18428,21.77865,32.8752,17.24081
+UGA,Uganda,2016,DHS,"Uganda Demographic and Health Survey 2016. Kampala, Uganda and Rockville, Maryland, USA: UBOS and ICF. 2018",25.7356,25.9477,25.5179,29.47267,24.6542
+URY,Uruguay,2018,Other,"Encuesta de Nutrición, Desarrollo Infantil y Salud (ENDIS), Tercera Ola Uruguay 2018",69.81179,71.58436,67.88213,,
+UZB,Uzbekistan,2017,NNS,"Uzbekistan 2017 Nutrition Survey, Tashkent, Uzbekistan, UNICEF 2019",23.25422,25.80784,20.42574,21.2272,23.9472
+VNM,Viet Nam,2014,MICS,Monitoring the situation of children and women: Viet Nam Multiple Indicator Cluster Survey 2014,58.89371,58.12074,59.77219,60.94514,58.01824
+YEM,Yemen,2013,DHS,"Yemen National Health and Demographic Survey 2013. Rockville, Maryland, USA: MOPHP, CSO, PAPFAM, and ICF International, 2014.",21.29736,19.77793,22.86296,36.73654,15.80229
+ZAF,South Africa,2016,DHS,"South Africa Demographic and Health Survey 2016. Pretoria, South Africa, and Rockville, Maryland, USA: NDoH, Stats SA, SAMRC, and ICF",39.90548,38.25671,41.70271,44.1557,33.47812
+ZMB,Zambia,2018,DHS,"Zambia Demographic and Health Survey 2018. Lusaka, Zambia, and Rockville, Maryland, USA: Zambia Statistics Agency, Ministry of Health, and ICF",23.22173,23.55026,22.88857,36.70776,16.14683
+ZWE,Zimbabwe,2019,MICS,"Zimbabwe Multiple Indicator  Cluster Survey 2019, Survey Findings Report. Harare, Zimbabwe: ZIMSTAT and UNICEF",16.7184,15.19033,18.27806,25.73833,12.7649

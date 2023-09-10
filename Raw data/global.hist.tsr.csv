@@ -1,0 +1,257 @@
+status,color_code,region,iso3,continent,name,iso_3166_1_,french_shor,HISTO_NODATA,HISTO_1,HISTO_2,HISTO_3,HISTO_4,HISTO_5,HISTO_6,HISTO_7,HISTO_8,HISTO_9,HISTO_10,HISTO_11,HISTO_12,HISTO_13,HISTO_14,HISTO_15,HISTO_16,HISTO_17,HISTO_18,HISTO_19,HISTO_20,HISTO_21,HISTO_22,HISTO_23,HISTO_24,HISTO_25,HISTO_26,HISTO_27,HISTO_28,HISTO_29,HISTO_30,HISTO_31,HISTO_32,HISTO_33,HISTO_34,HISTO_35,HISTO_36,HISTO_37,HISTO_38
+Member State,SMR,Southern Europe,SMR,Europe,San Marino,SM,Saint-Marin,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,SYR,Western Asia,SYR,Asia,Syrian Arab Republic,SY,République arabe syrienne,1161,0,0,0,0,0,0,32,13,31,45,34,23,19,16,18,27,35,33,68,46,34,115,90,127,138,244,128,142,54,0,0,0,0,0,0,0,0,0
+Member State,LVA,Northern Europe,LVA,Europe,Latvia,LV,Lettonie,100,0,0,0,0,0,0,0,4,0,6,39,6,0,1,8,12,53,703,438,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,CPV,Western Africa,CPV,Africa,Cape Verde,CV,Cabo Verde,7,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,0,0,0,0,0,7,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,ZMB,Eastern Africa,ZMB,Africa,Zambia,ZM,Zambie,2303,1,0,14,23,45,21,53,65,105,52,123,223,227,353,550,780,838,982,802,700,307,328,84,9,11,31,1,5,0,1,2,0,2,0,0,0,1,2
+Member State,BRN,South-Eastern Asia,BRN,Asia,Brunei Darussalam,BN,Brunéi Darussalam,29,0,0,0,0,0,0,0,0,0,3,0,0,1,0,0,1,16,15,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,IRN,Southern Asia,IRN,Asia,Iran (Islamic Republic of),IR,Iran,10245,1,9,5,7,5,9,394,336,688,507,1683,1330,866,498,464,574,460,375,300,297,194,243,493,580,664,749,500,422,393,1,0,0,0,0,0,0,0,0
+Member State,ITA,Southern Europe,ITA,Europe,Italy,IT,Italie,329,1,2,2,2,2,20,18,111,79,75,54,56,84,68,73,72,89,87,108,82,117,233,327,283,350,308,358,271,415,529,158,7,0,0,0,0,0,0
+Member State,LKA,Southern Asia,LKA,Asia,Sri Lanka,LK,Sri Lanka,20,1,0,1,2,0,0,0,0,9,14,8,3,5,4,12,19,17,26,93,16,26,51,57,71,38,62,126,101,7,0,0,0,0,0,0,0,0,0
+Member State,MHL,Micronesia,MHL,Oceania,Marshall Islands,MH,Îles Marshall,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UK Non-Self-Governing Territory,GBR,Caribbean,VGB,Americas,British Virgin Islands,VG,British Virgin Islands,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,ARE,Western Asia,ARE,Asia,United Arab Emirates,AE,Émirats arabes unis,525,0,0,0,1,0,1,0,32,45,46,135,61,23,36,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,KWT,Western Asia,KWT,Asia,Kuwait,KW,Koweït,177,0,0,0,0,0,0,0,0,1,0,3,9,15,8,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,AUS,Australia and New Zealand,AUS,Oceania,Australia,AU,Australie,83311,8,80,4,17,26,57,99,322,546,175,174,315,579,541,589,837,1304,1960,1388,1038,1514,1544,1128,807,472,393,389,238,150,127,38,0,0,0,0,0,0,0
+Member State,MKD,Southern Europe,MKD,Europe,The former Yugoslav Republic of Macedonia,MK,Macédoine du Nord,46,0,3,1,0,3,1,0,2,10,18,8,21,12,13,27,17,10,10,14,12,14,21,22,28,36,24,13,8,0,1,1,0,0,0,0,0,0,0
+Member State,BEN,Western Africa,BEN,Africa,Benin,BJ,Bénin,146,0,0,0,1,0,0,0,4,4,5,4,13,8,15,5,32,43,61,62,112,83,204,259,173,100,25,12,3,0,0,0,0,0,0,0,0,0,0
+Member State,PRY,South America,PRY,Americas,Paraguay,PY,Paraguay,1478,0,0,2,0,0,0,0,3,25,30,7,59,21,60,140,146,279,168,346,108,250,193,95,142,184,167,327,224,346,213,50,0,0,0,0,0,0,0
+NO Territory,NOR,,BVT,Antarctica,Bouvet Island,BV,Bouvet Island,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,AND,Southern Europe,AND,Europe,Andorra,AD,Andorre,7,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,PER,South America,PER,Americas,Peru,PE,Pérou,9594,8,15,38,7,2,22,129,422,565,607,606,518,550,577,271,198,142,164,173,242,105,146,138,39,19,4,2,3,5,0,1,1,5,2,0,0,0,0
+Member State,IDN,South-Eastern Asia,IDN,Asia,Indonesia,ID,Indonésie,4799,13,15,20,34,50,28,55,91,131,317,246,289,471,300,347,335,694,652,762,1044,1315,2072,2634,2115,1227,1184,562,211,34,0,0,0,0,0,0,0,0,0
+US Territory,USA,Caribbean,,Americas,Guantanamo,,Guantanamo,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,MWI,Eastern Africa,MWI,Africa,Malawi,MW,Malawi,259,16,31,17,4,13,20,104,38,56,18,0,0,0,20,82,27,34,30,17,22,33,1,3,12,5,8,16,157,6,172,111,95,0,0,0,0,0,0
+Member State,FJI,Melanesia,FJI,Oceania,Fiji,FJ,Fidji,175,0,0,0,0,0,1,0,0,5,1,1,0,1,0,0,0,1,0,0,0,1,0,3,0,5,24,2,0,0,0,0,0,0,0,0,0,0,0
+Member State,LIE,Western Europe,LIE,Europe,Liechtenstein,LI,Liechtenstein,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,KIR,Micronesia,KIR,Oceania,Kiribati,KI,Kiribati,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,CRI,Central America,CRI,Americas,Costa Rica,CR,Costa Rica,78,1,4,1,4,3,6,7,11,12,22,23,51,56,82,46,57,32,61,38,9,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,SLB,Melanesia,SLB,Oceania,Solomon Islands,SB,Îles Salomon,318,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,COG,Middle Africa,COG,Africa,Congo,CG,Congo,2245,0,0,0,0,0,0,0,0,0,0,0,1,2,2,8,10,1,1,7,7,170,445,40,7,17,52,273,181,518,47,1,0,1,0,0,0,0,0
+Member State,TKM,Central Asia,TKM,Asia,Turkmenistan,TM,Turkménistan,7197,0,5,4,3,0,3,0,1,59,117,98,56,56,80,131,127,155,229,8,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Member State,LCA,Caribbean,LCA,Americas,Saint Lucia,LC,Sainte-Lucie,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,SLV,Central America,SLV,Americas,El Salvador,SV,El Salvador,2,0,0,0,0,0,0,0,0,0,0,10,3,2,1,1,0,1,0,2,3,18,5,10,8,62,44,66,15,0,0,0,0,0,0,0,0,0,0
+UK Non-Self-Governing Territory,GBR,Polynesia,PCN,Oceania,Pitcairn Island,PN,Pitcairn Island,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,KNA,Caribbean,KNA,Americas,Saint Kitts and Nevis,KN,Saint-Kitts-et-Nevis,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR Territory,FRA,,ATF,Antarctica,French Southern and Antarctic Territories,TF,French Southern and Antarctic Territories,129,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,CHL,South America,CHL,Americas,Chile,CL,Chili,8681,22,10,7,2,1,3,23,282,91,142,104,71,34,82,180,253,186,227,199,105,105,111,77,30,20,29,92,0,0,0,0,0,0,0,0,0,0,0
+Member State,GIN,Western Africa,GIN,Africa,Guinea,GN,Guinée,328,0,0,0,0,0,0,1,10,10,0,0,0,0,2,2,2,28,45,20,7,2,11,162,283,63,110,269,304,378,617,183,73,0,0,0,0,0,0
+Member State,SVN,Southern Europe,SVN,Europe,Slovenia,SI,Slovénie,72,0,0,0,0,1,0,0,1,0,0,5,1,1,12,16,11,16,13,25,45,77,6,33,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,BHS,Caribbean,BHS,Americas,Bahamas,BS,Bahamas,143,0,0,0,0,0,0,2,0,0,0,0,0,0,0,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,ARG,South America,ARG,Americas,Argentina,AR,Argentine,19503,89,61,49,39,29,36,26,831,1537,1215,957,1111,1408,1494,2188,2390,1819,1335,1200,1039,706,458,294,159,58,26,13,5,2,2,0,0,0,0,0,0,0,0
+UK Territory,IOT,Eastern Africa,IOT,Africa,British Indian Ocean Territory,IO,British Indian Ocean Territory,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ Territory,NZL,Polynesia,COK,Oceania,Cook Islands,CK,Îles Cook,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,TCD,Middle Africa,TCD,Africa,Chad,TD,Tchad,10491,0,0,0,0,0,0,0,6,10,10,13,19,73,88,174,580,277,345,418,503,430,591,346,410,329,283,54,0,0,0,0,0,0,0,0,0,0,0
+Member State,TTO,Caribbean,TTO,Americas,Trinidad and Tobago,TT,Trinité-et-Tobago,10,0,0,1,0,0,0,0,0,1,3,3,4,0,0,0,0,0,0,0,0,0,0,0,10,13,13,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,ALB,Southern Europe,ALB,Europe,Albania,AL,Albanie,6,0,2,1,1,1,0,0,4,1,8,6,10,18,21,24,29,44,54,70,69,43,30,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,SVK,Eastern Europe,SVK,Europe,Slovakia,SK,Slovaquie,63,1,2,1,1,0,0,3,4,9,3,7,4,5,19,25,32,55,68,63,32,28,130,153,26,5,7,16,76,21,0,0,0,0,0,0,0,0,0
+Member State,ARM,Western Asia,ARM,Asia,Armenia,AM,Arménie,47,0,0,0,1,0,1,0,1,3,7,11,16,20,61,33,11,31,46,66,61,31,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,NLD,Western Europe,NLD,Europe,Netherlands,NL,Pays-Bas,24,0,0,0,0,3,1,1,1,2,6,20,63,87,13,1,2,17,132,233,15,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UK Non-Self-Governing Territory,GBR,Southern Europe,GIB,Europe,Gibraltar,GI,Gibraltar,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,MLI,Western Africa,MLI,Africa,Mali,ML,Mali,10407,0,0,0,0,0,0,0,4,1,6,10,26,14,34,116,74,34,172,506,613,178,94,141,198,176,164,367,629,850,335,206,0,0,0,0,0,0,0
+Member State,ERI,Eastern Africa,ERI,Africa,Eritrea,ER,Érythrée,803,0,0,0,0,0,0,0,25,22,17,21,18,39,47,39,84,185,64,22,13,17,14,12,3,4,0,0,0,0,1,0,0,0,0,0,0,0,0
+Member State,IRL,Northern Europe,IRL,Europe,Ireland,IE,Irlande,121,0,0,1,0,1,0,4,2,12,8,10,11,70,848,130,106,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,UGA,Eastern Africa,UGA,Africa,Uganda,UG,Ouganda,411,5,5,28,4,8,11,35,44,13,14,28,44,42,80,142,69,30,45,42,69,7,20,24,39,81,73,95,127,130,220,300,243,156,83,67,2,0,0
+Member State,UZB,Central Asia,UZB,Asia,Uzbekistan,UZ,Ouzbékistan,5180,0,4,0,0,1,6,1,2,15,19,23,20,67,13,21,39,68,43,347,84,111,36,146,36,49,19,39,137,282,150,0,0,0,0,0,0,0,0
+DK Territory,DNK,Northern America,GRL,Americas,Greenland,GL,Greenland,95182,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR Territory,FRA,Eastern Africa,,Africa,Glorioso Islands,,Glorioso Islands,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,CAN,Northern America,CAN,Americas,Canada,CA,Canada,225117,17,31,15,27,36,61,118,462,666,439,716,1075,1446,897,1039,1329,2170,3208,2340,2051,560,149,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UK Territory,GBR,Northern Europe,,Europe,Guernsey,,Guernsey,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,GTM,Central America,GTM,Americas,Guatemala,GT,Guatemala,140,0,2,3,5,3,0,4,19,18,78,47,41,38,34,39,60,79,78,93,134,177,125,69,23,10,6,0,0,0,0,0,0,0,0,0,0,0,0
+Sovereignty unsettled,XXX,South-Eastern Asia,,Asia,Paracel Islands,,Paracel Islands,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,Northern Africa,,Africa,Abyei,,Abyei,71,0,0,0,0,0,0,0,0,6,1,6,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,ETH,Eastern Africa,ETH,Africa,Ethiopia,ET,Éthiopie,6868,6,4,1,2,3,8,14,63,65,60,63,105,193,149,140,153,129,191,278,386,411,627,380,295,219,236,259,298,342,313,232,265,315,148,117,43,0,0
+Member State,COM,Eastern Africa,COM,Africa,Comoros,KM,Comores,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,POL,Eastern Europe,POL,Europe,Poland,PL,Pologne,101,0,0,0,1,0,1,1,1,2,4,21,6,25,37,27,50,102,93,415,256,401,1446,2062,830,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,KGZ,Central Asia,KGZ,Asia,Kyrgyzstan,KG,Kirghizistan,1404,2,6,4,2,3,15,1,122,232,159,110,104,95,83,69,86,61,63,56,52,81,55,28,75,77,50,3,0,1,0,0,0,0,0,0,0,0,0
+Member State,PLW,Micronesia,PLW,Oceania,Palau,PW,Palaos,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,SUR,South America,SUR,Americas,Suriname,SR,Suriname,1604,0,0,0,0,0,0,18,8,4,3,3,5,3,3,11,5,4,0,2,2,6,7,6,10,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,TUV,Polynesia,TUV,Oceania,Tuvalu,TV,Tuvalu,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Occupied Territory (under review),XXX,Western Asia,PSE,Asia,Gaza Strip,PS,État de Palestine,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,VCT,Caribbean,VCT,Americas,Saint Vincent and the Grenadines,VC,Saint-Vincent-et-les Grenadines,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,QAT,Western Asia,QAT,Asia,Qatar,QA,Qatar,44,0,0,0,0,0,0,3,16,3,8,20,18,26,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,JOR,Western Asia,JOR,Asia,Jordan,JO,Jordanie,911,0,0,0,0,1,4,32,52,28,33,17,30,20,19,5,29,19,12,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,BIH,Southern Europe,BIH,Europe,Bosnia & Herzegovina,BA,Bosnie-Herzégovine,169,0,0,0,0,0,0,0,4,0,0,1,5,11,32,54,58,32,27,65,105,20,64,47,118,20,3,1,0,0,0,0,0,0,0,0,0,0,0
+Member State,ROU,Eastern Europe,ROU,Europe,Romania,RO,Roumanie,401,0,0,1,0,0,2,0,1,16,16,27,32,14,28,43,61,70,112,109,51,16,96,108,368,245,583,715,563,245,37,0,0,0,0,0,0,0,0
+Member State,BLR,Eastern Europe,BLR,Europe,Belarus,BY,Bélarus,119,2,0,0,0,0,7,0,7,2,4,5,14,38,46,11,5,11,75,256,1097,1007,776,567,3,3,4,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,TZA,Eastern Africa,TZA,Africa,United Republic of Tanzania,TZ,République-Unie de Tanzanie,3829,18,6,2,8,5,11,39,63,52,69,71,62,101,99,157,476,557,486,851,763,1070,626,575,650,172,233,11,2,21,2,0,0,0,0,0,0,0,0
+Member State,SDN,Northern Africa,SDN,Africa,Sudan,SD,Soudan,16234,9,4,1,2,16,6,188,228,314,1069,1895,1558,571,159,185,2,1,3,1,0,0,1,0,6,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+Member State,ECU,South America,ECU,Americas,Ecuador,EC,Équateur,1524,6,17,6,4,5,6,13,42,51,52,70,57,55,93,98,34,16,37,41,30,22,50,53,35,61,84,66,68,47,36,49,25,50,32,25,26,4,0
+Member State,MEX,Central America,MEX,Americas,Mexico,MX,Mexique,10013,9,15,20,14,16,26,39,1133,1719,2181,2116,1824,1629,1358,956,642,373,521,299,96,35,10,17,7,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,FSM,Micronesia,FSM,Oceania,Micronesia (Federated States of),FM,Micronésie,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,BRA,South America,BRA,Americas,Brazil,BR,Brésil,45696,81,51,53,65,81,94,122,328,819,913,1141,1662,2057,3364,4923,5155,5321,5538,5339,5360,3982,3289,2148,1544,1015,687,473,223,214,46,33,8,0,0,5,0,0,0
+FR Territory,FRA,Eastern Africa,REU,Africa,Reunion,RE,Reunion,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR Territory,FRA,Polynesia,PYF,Oceania,French Polynesia,PF,French Polynesia,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,CAF,Middle Africa,CAF,Africa,Central African Republic,CF,République centrafricaine,3465,0,7,16,1,0,0,12,14,92,19,24,30,49,247,236,169,53,105,208,138,97,149,284,299,65,91,158,143,307,597,208,0,0,4,0,0,0,0
+Member State,HTI,Caribbean,HTI,Americas,Haiti,HT,Haïti,16,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,3,1,7,2,10,8,28,14,43,62,58,30,43,8,0,0,0,0,0,0,0
+US Territory,USA,Northern America,,Americas,Midway Is.,,Midway Is.,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR Territory,FRA,Caribbean,GLP,Americas,Guadeloupe,GP,Guadeloupe,1,0,0,1,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,1,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,SAU,Western Asia,SAU,Asia,Saudi Arabia,SA,Arabie saoudite,21143,0,0,0,1,0,4,9,21,12,38,55,628,303,809,346,323,751,224,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN Province,CHN,Eastern Asia,TWN,Asia,Taiwan,TW,Taiwan,460,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PT Territory,PRT,Southern Europe,PRT,Europe,Azores Islands,PT,Portugal,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,HRV,Southern Europe,HRV,Europe,Croatia,HR,Croatie,115,0,0,0,0,0,1,1,4,2,6,2,16,5,10,32,9,18,12,36,17,49,39,65,95,203,178,2,0,0,0,0,0,0,0,0,0,0,0
+Member State,MNE,Southern Europe,MNE,Europe,Montenegro,ME,Monténégro,4,0,1,7,6,4,2,0,3,4,5,9,17,28,44,9,9,28,9,10,0,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,VNM,South-Eastern Asia,VNM,Asia,Vietnam,VN,Viet Nam,264,1,0,1,1,2,0,3,1,30,31,31,30,46,57,68,54,47,54,62,57,115,287,439,396,592,651,433,141,28,34,0,0,0,0,0,0,0,0
+US Territory,USA,Northern America,,Americas,Jarvis Island,,Jarvis Island,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NO Territory,NOR,Northern Europe,SJM,Europe,Svalbard and Jan Mayen Islands,SJ,Svalbard and Jan Mayen Islands,3734,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,GUY,South America,GUY,Americas,Guyana,GY,Guyana,1787,0,0,0,0,0,0,0,0,0,1,1,8,8,31,6,11,36,10,11,6,16,30,42,126,91,222,29,0,0,0,0,0,0,0,0,0,0,0
+Adm. by SDN,SDN,Northern Africa,,Africa,Hala'ib Triangle,,Hala'ib Triangle,183,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,AFG,Southern Asia,AFG,Asia,Afghanistan,AF,Afghanistan,1916,1,5,3,1,0,35,558,389,132,176,341,345,379,522,610,790,606,630,649,510,263,136,6,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Member State,MUS,Eastern Africa,MUS,Africa,Mauritius,MU,Maurice,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,1,8,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,JPN,Eastern Asia,JPN,Asia,Japan,JP,Japon,752,0,12,13,6,9,15,15,51,118,206,167,125,160,246,507,439,460,362,417,369,329,267,186,135,36,62,1,0,0,0,0,0,0,0,0,0,0,0
+Member State,STP,Middle Africa,STP,Africa,Sao Tome and Principe,ST,Sao Tomé-et-Principe,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,GAB,Middle Africa,GAB,Africa,Gabon,GA,Gabon,1525,0,0,0,0,0,0,0,1,0,0,4,4,0,11,10,33,145,164,62,147,151,252,273,157,112,0,0,2,0,1,0,0,0,0,0,0,0,0
+AU Territory,AUS,South-Eastern Asia,CCK,Asia,Cocos (Keeling) Islands,CC,Cocos (Keeling) Islands,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,CZE,Eastern Europe,CZE,Europe,Czech Republic,CZ,République tchèque,222,0,0,0,0,0,0,1,20,7,0,0,2,6,3,6,24,43,52,288,307,14,64,358,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,TUN,Northern Africa,TUN,Africa,Tunisia,TN,Tunisie,943,0,0,0,0,1,1,1,20,31,36,32,34,37,39,53,43,91,90,98,68,64,115,189,99,99,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,COL,South America,COL,Americas,Colombia,CO,Colombie,6089,41,50,41,38,51,97,119,126,349,531,368,476,758,845,628,715,565,474,277,265,202,110,49,31,15,3,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,MMR,South-Eastern Asia,MMR,Asia,Myanmar,MM,Myanmar,2659,16,5,6,4,1,1,2,21,164,94,112,93,56,37,38,223,574,883,348,43,104,293,68,100,221,199,202,325,491,527,146,312,1,0,0,1,0,0
+Member State,LAO,South-Eastern Asia,LAO,Asia,Lao People's Democratic Republic,LA,République démocratique populaire lao,1107,0,0,0,0,0,0,0,0,0,0,0,1,0,3,1,0,3,12,31,69,134,243,275,266,256,238,117,55,35,0,0,0,0,0,0,0,0,0
+Member State,TLS,South-Eastern Asia,TLS,Asia,Timor-Leste,TL,Timor-Leste,8,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,7,13,51,74,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,HND,Central America,HND,Americas,Honduras,HN,Honduras,216,4,0,0,1,0,1,0,103,4,3,2,14,9,27,10,14,6,11,26,51,138,312,176,83,64,84,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,NGA,Western Africa,NGA,Africa,Nigeria,NG,Nigéria,319,0,4,0,1,4,4,18,8,17,43,34,31,242,152,145,281,254,1349,710,674,972,912,1536,1912,576,390,82,97,1,1,1,0,0,0,0,0,0,0
+Member State,GMB,Western Africa,GMB,Africa,Gambia,GM,Gambie,7,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,40,78,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,BWA,Southern Africa,BWA,Africa,Botswana,BW,Botswana,6347,0,0,0,0,2,0,1,132,1,1,17,44,112,196,63,117,231,28,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sovereignty unsettled JammuK-China,XXY,Eastern Asia,,Asia,Aksai Chin,,Aksai Chin,430,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,MCO,Western Europe,MCO,Europe,Monaco,MC,Monaco,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU Territory,AUS,Australia and New Zealand,NFK,Oceania,Norfolk Island,NF,Norfolk Island,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,BFA,Western Africa,BFA,Africa,Burkina Faso,BF,Burkina Faso,377,0,0,0,0,0,0,0,3,2,6,14,24,11,47,32,52,32,257,290,172,242,370,332,252,75,390,230,47,2,2,2,0,0,0,0,0,0,0
+Member State,UKR,Eastern Europe,UKR,Europe,Ukraine,UA,Ukraine,211,4,3,5,1,1,2,0,9,2,15,4,13,17,21,34,23,46,90,107,74,161,136,145,343,1854,4591,2309,356,3,0,0,0,0,0,0,0,0,0
+Member State,ISL,Northern Europe,ISL,Europe,Iceland,IS,Islande,2266,9,4,0,0,0,0,40,387,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,NRU,Micronesia,NRU,Oceania,Nauru,NR,Nauru,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,NAM,Southern Africa,NAM,Africa,Namibia,NA,Namibie,8485,29,1,0,4,2,26,7,74,50,51,91,119,370,189,228,209,194,194,39,27,0,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,NPL,Southern Asia,NPL,Asia,Nepal,NP,Népal,210,32,31,3,7,4,2,11,44,69,104,148,120,34,50,120,127,100,62,38,21,21,20,16,14,17,35,29,39,71,129,102,49,32,12,21,0,0,0
+UK Territory,GBR,Northern Europe,IMY,Europe,Isle of Man,,Isle of Man,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,MDA,Eastern Europe,MDA,Europe,"Moldova, Republic of",MD,République de Moldova,0,0,0,0,0,0,0,0,3,0,95,0,3,23,0,2,0,0,13,15,7,44,147,66,48,59,44,6,1,0,0,0,0,0,0,0,0,0,0
+Member State,THA,South-Eastern Asia,THA,Asia,Thailand,TH,Thaïlande,623,1,5,3,3,1,3,10,13,24,11,8,18,62,56,54,104,149,120,120,118,262,296,446,584,772,650,582,386,286,158,96,23,21,36,31,49,32,0
+US Non-Self-Governing Territory,ASM,Polynesia,ASM,Oceania,American Samoa,AS,American Samoa,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,SWZ,Southern Africa,SWZ,Africa,Swaziland,SZ,Eswatini,6,0,0,0,0,0,0,0,0,0,0,0,0,0,12,2,5,8,20,61,26,16,23,15,5,19,10,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,LBN,Western Asia,LBN,Asia,Lebanon,LB,Liban,8,0,0,0,0,0,0,0,1,0,3,1,3,1,5,9,8,5,6,10,5,11,8,28,21,6,4,0,0,0,0,0,0,0,0,0,0,0,0
+FR Non-Self-Governing Territory,FRA,Melanesia,NCL,Oceania,New Caledonia,NC,New Caledonia,196,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,2,15,2,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,ZAF,Southern Africa,ZAF,Africa,South Africa,ZA,Afrique du Sud,5889,0,1,0,1,2,2,6,398,167,43,237,113,163,230,390,361,501,547,742,777,715,814,827,1151,851,729,300,227,95,0,0,0,0,0,0,0,0,0
+Member State,MDV,Southern Asia,MDV,Asia,Maldives,MV,Maldives,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,PRK,Eastern Asia,PRK,Asia,Democratic People's Republic of Korea,KP,République populaire démocratique de Corée,110,0,0,0,1,0,0,1,2,1,41,29,8,55,68,101,37,101,18,78,131,17,38,108,715,197,0,0,0,0,0,0,0,0,0,0,0,0,0
+UK Non-Self-Governing Territory,GBR,South America,FLK,Americas,Falkland Islands (Malvinas),FK,Falkland Islands (Malvinas),215,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,PAK,Southern Asia,PAK,Asia,Pakistan,PK,Pakistan,2451,8,5,4,2,9,2,76,251,794,484,751,544,791,726,428,554,325,293,288,237,282,90,395,277,111,87,104,93,145,45,1,0,0,0,0,0,0,0
+Member State,KHM,South-Eastern Asia,KHM,Asia,Cambodia,KH,Cambodge,661,1,1,0,0,0,0,0,5,15,21,7,7,4,17,29,17,45,47,78,163,219,272,235,114,55,80,78,8,0,0,0,0,0,0,0,0,0,0
+Member State,HUN,Eastern Europe,HUN,Europe,Hungary,HU,Hongrie,238,0,1,0,0,0,0,0,3,1,5,1,1,2,6,0,8,7,2,5,8,47,25,74,15,456,249,89,281,64,1,0,0,0,0,0,0,0,0
+Member State,VUT,Melanesia,VUT,Oceania,Vanuatu,VU,Vanuatu,151,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,DJI,Eastern Africa,DJI,Africa,Djibouti,DJ,Djibouti,216,0,0,0,0,0,0,4,28,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,GEO,Western Asia,GEO,Asia,Georgia,GE,Géorgie,280,0,0,1,1,2,2,4,4,15,34,74,101,56,129,140,58,27,27,64,22,42,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL Territory,ABW,Caribbean,ABW,Americas,Aruba,AW,Aruba,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Permanent Observer to the UN,VAT,Southern Europe,VAT,Europe,Holy See,VA,Saint-Siège,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,MAR,Northern Africa,MAR,Africa,Morocco,MA,Maroc,2040,1,0,0,2,1,0,22,174,260,319,334,490,276,313,379,288,229,186,38,35,41,35,60,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,PRT,Southern Europe,PRT,Europe,Portugal,PT,Portugal,6,1,0,0,0,0,0,5,2,4,8,2,11,4,4,4,4,78,22,42,133,129,166,76,85,94,311,128,23,1,0,0,0,0,0,0,0,0,0
+Member State,BLZ,Central America,BLZ,Americas,Belize,BZ,Belize,228,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,2,1,0,0,0,3,4,26,3,0,0,0,0,0,0,0,0,0
+Member State,LUX,Western Europe,LUX,Europe,Luxembourg,LU,Luxembourg,0,0,0,0,0,0,0,0,0,4,1,0,1,2,0,19,1,0,18,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,EST,Northern Europe,EST,Europe,Estonia,EE,Estonie,173,0,0,0,0,0,0,1,8,3,2,4,2,1,12,168,61,213,207,157,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,JAM,Caribbean,JAM,Americas,Jamaica,JM,Jamaïque,11,0,0,0,0,0,0,0,0,1,0,2,0,1,3,0,0,0,0,0,0,0,0,0,0,1,4,5,11,53,43,0,0,0,0,0,0,0,0
+Member State,CHE,Western Europe,CHE,Europe,Switzerland,CH,Suisse,312,1,0,1,0,0,0,0,10,13,30,9,5,27,15,37,38,36,55,20,24,42,19,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,GNQ,Middle Africa,GNQ,Africa,Equatorial Guinea,GQ,Guinée équatoriale,47,1,0,1,4,0,12,0,14,1,8,2,62,1,92,30,32,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,AUT,Western Europe,AUT,Europe,Austria,AT,Autriche,548,0,1,0,1,0,2,0,43,43,11,17,28,13,43,19,46,96,74,10,7,187,149,41,6,61,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,NER,Western Africa,NER,Africa,Niger,NE,Niger,10362,0,1,1,1,0,0,0,26,32,38,125,207,120,122,183,107,120,124,129,141,139,231,240,450,795,357,106,259,22,60,0,0,0,0,0,0,0,0
+Adm. by EGY,EGY,Northern Africa,,Africa,Ma'tan al-Sarra,,Ma'tan al-Sarra,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,KAZ,Central Asia,KAZ,Asia,Kazakhstan,KZ,Kazakhstan,29948,25,40,17,10,8,31,22,187,476,365,353,321,540,1144,827,738,833,1847,4843,3976,1810,410,163,144,181,111,18,25,0,4,1,0,0,0,0,0,0,0
+UK Territory,GBR,Northern Europe,,Europe,Jersey,,Jersey,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NL Territory,NLD,Caribbean,ANT,Americas,Netherlands Antilles,,Netherlands Antilles,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,FRA,Western Europe,FRA,Europe,France,FR,France,390,9,3,2,0,0,0,41,132,33,29,53,54,73,111,126,184,178,410,573,345,586,1157,1543,842,837,373,824,357,0,0,0,0,0,0,0,0,0,0
+US Territory,USA,Micronesia,MNP,Oceania,Northern Mariana Islands,MP,Northern Mariana Islands,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,SRB,Southern Europe,SRB,Europe,Serbia,RS,Serbie,44,4,1,0,0,0,0,2,24,19,20,14,65,15,6,26,27,65,84,28,55,36,81,74,45,135,453,108,0,0,0,0,0,0,0,0,0,0,0
+Sovereignty unsettled,RUS,Eastern Asia,,Asia,Kuril Islands,,Kuril Islands,79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US Non-Self-Governing Territory,GUM,Micronesia,GUM,Oceania,Guam,GU,Guam,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,DZA,Northern Africa,DZA,Africa,Algeria,DZ,Algérie,27166,7,12,10,14,3,3,4,135,272,147,201,160,172,145,203,210,312,347,297,247,250,226,104,62,40,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,URY,South America,URY,Americas,Uruguay,UY,Uruguay,289,4,0,0,0,0,0,26,40,19,16,15,24,12,6,7,13,41,229,322,312,138,68,86,129,260,321,90,0,0,0,0,0,0,0,0,0,0,0
+Member State,PAN,Central America,PAN,Americas,Panama,PA,Panama,309,0,0,0,1,3,1,1,0,2,5,0,1,5,5,4,10,31,24,26,22,32,23,35,40,67,62,69,58,32,10,4,0,0,0,0,0,0,0
+Member State,TGO,Western Africa,TGO,Africa,Togo,TG,Togo,22,0,0,0,0,0,0,0,0,0,1,0,0,1,2,9,1,4,11,19,10,20,6,1,3,187,51,29,41,35,34,124,2,69,0,0,0,0,0
+Member State,CMR,Middle Africa,CMR,Africa,Cameroon,CM,Cameroun,1339,0,0,0,1,1,5,7,42,7,18,28,25,57,70,156,162,115,130,49,150,138,227,350,395,297,305,379,283,237,330,116,51,1,0,0,0,0,0
+UK Non-Self-Governing Territory,GBR,Caribbean,CYM,Americas,Cayman Islands,KY,Cayman Islands,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,USA,Northern America,USA,Americas,United States of America,US,États-Unis d'Amérique,75243,124,361,77,95,75,202,544,2198,4433,5215,5741,7831,8284,8927,11275,9654,7939,6086,3337,2063,671,226,115,12,38,0,0,0,0,0,0,0,0,0,0,0,0,0
+Non-Self-Governing Territory,ESH,Northern Africa,ESH,Africa,Western Sahara,EH,Western Sahara,3428,1,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,GRD,Caribbean,GRD,Americas,Grenada,GD,Grenade,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ Non-Self-Governing Territory,TKL,Polynesia,TKL,Oceania,Tokelau,TK,Tokelau,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CN Special Administrative Region,CHN,Eastern Asia,HKG,Asia,Hong Kong,HK,Hong Kong,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,DOM,Caribbean,DOM,Americas,Dominican Republic,DO,République dominicaine,25,2,1,6,3,9,3,6,3,1,4,12,9,7,14,11,5,4,3,8,16,26,67,45,106,53,55,40,36,12,5,0,0,0,0,0,0,0,0
+FR Territory,FRA,Eastern Africa,MYT,Africa,Mayotte,YT,Mayotte,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,YEM,Western Asia,YEM,Asia,Yemen,YE,Yémen,3454,1,1,0,0,1,12,80,39,32,57,120,90,200,171,158,162,110,144,143,126,107,158,94,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,SGP,South-Eastern Asia,SGP,Asia,Singapore,SG,Singapour,1,0,0,0,1,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,TUR,Western Asia,TUR,Asia,Turkey,TR,Turquie,538,3,1,3,2,0,1,3,19,37,19,57,116,175,214,279,386,453,443,446,575,789,908,1026,1417,1098,798,591,600,601,93,4,0,0,0,0,0,0,0
+Member State,MLT,Southern Europe,MLT,Europe,Malta,MT,Malte,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,RUS,Eastern Europe,RUS,Europe,Russian Federation,RU,Fédération de Russie,362267,82,79,36,40,51,57,176,2052,1869,1128,1260,1819,1735,1588,2956,3871,4168,2347,2732,2523,2391,2446,3227,2267,2273,4795,9434,2445,3,0,0,0,0,0,0,0,0,0
+Member State,ZWE,Eastern Africa,ZWE,Africa,Zimbabwe,ZW,Zimbabwe,373,0,0,4,18,68,16,16,35,92,147,108,150,102,105,223,192,230,195,158,177,198,99,149,95,179,217,367,351,283,195,168,64,24,15,2,0,0,0
+Member State,LTU,Northern Europe,LTU,Europe,Lithuania,LT,Lituanie,39,1,0,0,0,0,0,0,11,3,5,6,6,11,1,3,16,29,210,543,410,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,FIN,Northern Europe,FIN,Europe,Finland,FI,Finlande,4297,24,15,17,19,50,81,119,66,61,328,229,361,619,1581,521,630,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,LSO,Southern Africa,LSO,Africa,Lesotho,LS,Lesotho,56,0,0,0,0,0,0,0,2,64,84,45,16,1,26,47,59,6,1,1,0,0,0,1,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+AU Territory,AUS,South-Eastern Asia,CXR,Asia,Christmas Island,CX,Christmas Island,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,MRT,Western Africa,MRT,Africa,Mauritania,MR,Mauritanie,11192,0,0,0,0,0,0,0,0,2,0,5,14,48,109,314,135,86,135,447,281,163,13,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Member State,AZE,Western Asia,AZE,Asia,Azerbaijan,AZ,Azerbaïdjan,1468,7,3,2,1,1,0,3,4,29,50,76,75,60,74,89,82,105,90,127,57,17,39,52,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Member State,BDI,Eastern Africa,BDI,Africa,Burundi,BI,Burundi,12,1,0,2,2,0,0,0,0,6,1,8,1,2,4,9,15,13,55,2,7,23,21,8,18,33,33,19,7,4,0,6,0,0,1,0,0,0,0
+Member State,PHL,South-Eastern Asia,PHL,Asia,Philippines,PH,Philippines,150,1,11,4,2,7,1,10,29,50,39,60,67,62,56,59,37,34,44,37,38,51,55,68,85,152,194,295,360,439,366,255,224,165,3,0,0,0,0
+Member State,TJK,Central Asia,TJK,Asia,Tajikistan,TJ,Tadjikistan,2103,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,1,0,0,1,0,2,1,1,0,2,0,0,0,3,2,0,0,0,0,0,0,0,0
+Member State,MDG,Eastern Africa,MDG,Africa,Madagascar,MG,Madagascar,1137,0,3,2,1,0,0,81,356,160,55,49,86,70,114,164,189,309,372,394,429,574,508,464,393,448,403,280,170,112,30,0,0,0,0,0,0,0,0
+DK Territory,DNK,Northern Europe,FRO,Europe,Faroe Islands,FO,Faroe Islands,38,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US Non-Self-Governing Territory,USA,Caribbean,VIR,Americas,United States Virgin Islands,VI,United States Virgin Islands,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,GBR,Northern Europe,GBR,Europe,U.K. of Great Britain and Northern Ireland,GB,Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,1744,0,0,8,1,3,0,0,16,242,110,62,66,68,89,215,315,164,696,1036,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Adm. by KEN,SDN,Northern Africa,,Africa,Ilemi Triangle,,Ilemi Triangle,47,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,GRC,Southern Europe,GRC,Europe,Greece,GR,Grèce,109,2,4,4,3,0,0,1,6,10,8,4,7,10,20,27,48,54,68,94,109,133,141,164,149,111,100,96,56,84,109,98,90,30,6,0,0,0,0
+Member State,SSD,Middle Africa,SSD,Africa,South Sudan,SS,Soudan du Sud,2422,0,0,0,0,0,5,21,32,29,34,54,148,105,240,268,239,168,197,247,354,673,614,408,603,237,293,0,0,0,1,0,1,0,0,0,0,0,0
+Member State,BHR,Western Asia,BHR,Asia,Bahrain,BH,Bahreïn,2,0,0,0,0,0,0,1,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sovereignty unsettled,IND,Eastern Asia,,Asia,Arunachal Pradesh,,Arunachal Pradesh,679,1,0,0,0,0,0,8,44,19,11,8,6,3,2,1,4,12,6,8,5,2,34,34,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+Member State,BGR,Eastern Europe,BGR,Europe,Bulgaria,BG,Bulgarie,129,1,0,0,1,1,0,1,1,1,2,0,13,6,11,30,29,10,16,37,47,40,62,95,35,37,181,474,369,98,21,4,3,0,0,0,0,0,0
+Member State,SEN,Western Africa,SEN,Africa,Senegal,SN,Sénégal,482,0,0,0,1,0,1,1,8,3,6,8,49,70,98,196,148,203,146,212,38,186,102,332,58,24,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,SYC,Eastern Africa,SYC,Africa,Seychelles,SC,Seychelles,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+US Territory,USA,Caribbean,PRI,Americas,Puerto Rico,PR,Puerto Rico,8,0,0,0,0,0,0,4,2,7,0,0,0,1,0,0,4,5,8,27,36,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Occupied Territory,XXX,Western Asia,PSE,Asia,West Bank,PS,État de Palestine,80,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sovereignty unsettled,XXX,South-Eastern Asia,,Asia,Spratly Islands,,Spratly Islands,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NZ Territory,NZL,Polynesia,NIU,Oceania,Niue,NU,Nioué,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UK Non-Self-Governing Territory,BMU,Northern America,BMU,Americas,Bermuda,BM,Bermuda,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,SOM,Eastern Africa,SOM,Africa,Somalia,SO,Somalie,5367,0,0,0,0,0,0,0,97,69,9,39,121,225,502,162,387,62,183,30,140,60,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,BRB,Caribbean,BRB,Americas,Barbados,BB,Barbade,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,ESP,Southern Europe,ESP,Europe,Spain,ES,Espagne,289,0,1,5,2,1,1,5,27,19,52,35,70,87,95,130,126,183,287,390,182,304,373,260,334,447,637,720,736,794,549,220,254,111,0,0,0,0,0
+Member State,COD,Middle Africa,COD,Africa,Democratic Republic of the Congo,CD,République démocratique du Congo,14328,6,5,1,1,1,1,0,264,14,35,6,9,41,21,70,98,122,171,275,501,569,918,863,1298,1256,764,257,151,141,237,172,286,887,1921,833,590,176,22
+Member State,GNB,Western Africa,GNB,Africa,Guinea-Bissau,GW,Guinée-Bissau,47,0,2,0,0,0,0,0,0,7,0,0,0,0,2,0,3,2,9,26,12,76,98,93,10,3,0,1,1,0,0,0,0,0,0,0,0,0,0
+CN Special Administrative Region,CHN,Eastern Asia,MAC,Asia,Macao,MO,Macao,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,PNG,Melanesia,PNG,Oceania,Papua New Guinea,PG,Papouasie-Nouvelle-Guinée,3814,2,0,0,0,0,1,1,6,7,12,9,12,84,91,26,21,59,95,272,114,85,441,156,123,22,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,CYP,Western Asia,CYP,Asia,Cyprus,CY,Chypre,7,0,0,0,0,0,0,0,0,2,3,0,3,4,2,0,0,2,8,13,10,18,21,6,12,9,7,0,0,0,0,0,0,0,0,0,0,0,0
+AU Territory,AUS,,HMD,Antarctica,Heard Island and McDonald Islands,HM,Heard Island and McDonald Islands,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sovereignty unsettled,XXZ,Eastern Asia,,Asia,Jammu-Kashmir,,Jammu-Kashmir,2124,3,2,2,2,2,1,0,77,30,64,76,63,46,22,30,3,15,6,13,13,17,5,0,1,8,3,1,2,0,0,1,0,0,0,0,0,0,0
+UK Territory,GBR,,,Antarctica,South Georgia & the South Sandwich Islands,,South Georgia & the South Sandwich Islands,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,MNG,Eastern Asia,MNG,Asia,Mongolia,MN,Mongolie,23069,73,68,63,89,13,4,187,567,433,420,1170,379,23,2,2,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FR Territory,FRA,South America,GUF,Americas,French Guiana,GF,French Guiana,924,0,0,0,0,0,1,0,3,3,0,0,0,0,0,7,6,8,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,MOZ,Eastern Africa,MOZ,Africa,Mozambique,MZ,Mozambique,2888,1,5,2,0,1,14,12,15,31,11,17,27,12,12,19,55,32,98,146,203,483,693,527,744,741,913,880,493,299,144,119,4,0,0,0,0,0,0
+Member State,NIC,Central America,NIC,Americas,Nicaragua,NI,Nicaragua,307,0,2,0,0,1,1,2,29,30,19,24,26,13,23,13,23,37,57,119,142,200,144,156,10,39,74,22,14,11,0,0,0,0,0,0,0,0,0
+Member State,LBR,Western Africa,LBR,Africa,Liberia,LR,Libéria,235,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,8,17,22,114,1,5,78,149,487,0,1,0,0,2,1,0,0,0,0,0,0,0
+Member State,OMN,Western Asia,OMN,Asia,Oman,OM,Oman,3328,0,0,1,0,1,2,1,0,25,35,2,46,289,64,48,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,RWA,Eastern Africa,RWA,Africa,Rwanda,RW,Rwanda,10,1,1,1,0,3,8,4,0,18,4,11,2,4,13,33,92,8,23,1,13,9,3,1,0,1,6,23,0,0,0,0,0,0,0,0,0,0,0
+UK Non-Self-Governing Territory,GBR,Caribbean,MSR,Americas,Montserrat,MS,Montserrat,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,KOR,Eastern Asia,KOR,Asia,Republic of Korea,KR,République de Corée,120,0,1,2,4,3,1,1,4,19,15,48,48,24,38,49,75,16,16,14,20,34,59,85,119,139,202,160,70,32,0,0,0,0,0,0,0,0,0
+Member State,VEN,South America,VEN,Americas,Venezuela,VE,Venezuela,3983,124,86,170,181,81,120,123,283,360,451,535,467,579,656,565,498,377,305,241,158,92,111,94,54,34,15,6,1,0,0,0,0,0,0,0,0,0,0
+Member State,IND,Southern Asia,IND,Asia,India,IN,Inde,1306,48,84,18,19,13,10,33,349,464,752,691,540,549,611,572,544,846,872,628,885,880,1494,1350,1675,1282,1611,2489,2762,2913,2907,2775,2322,2177,708,322,168,78,14
+Member State,EGY,Northern Africa,EGY,Africa,Egypt,EG,Égypte,11151,0,15,39,0,2,1,93,119,167,101,103,29,161,96,88,22,39,17,103,36,9,21,150,31,33,29,33,22,21,5,46,57,10,0,0,0,0,0
+Member State,DMA,Caribbean,DMA,Americas,Dominica,DM,Dominique,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,TON,Polynesia,TON,Oceania,Tonga,TO,Tonga,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,DEU,Western Europe,DEU,Europe,Germany,DE,Allemagne,427,0,2,0,0,0,1,3,17,290,71,28,10,26,61,189,459,408,1735,822,1318,493,228,15,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,SLE,Western Africa,SLE,Africa,Sierra Leone,SL,Sierra Leone,13,1,0,1,0,0,0,0,1,0,0,0,0,0,3,3,2,1,5,5,2,13,43,82,35,67,171,217,158,39,0,0,1,0,0,0,0,0,0
+Member State,CIV,Western Africa,CIV,Africa,Côte d'Ivoire,CI,Côte d'Ivoire,368,1,0,0,1,0,0,0,0,0,0,2,1,1,4,9,10,20,8,23,27,60,177,158,160,60,63,63,163,134,203,556,823,583,111,5,0,0,0
+Member State,BTN,Southern Asia,BTN,Asia,Bhutan,BT,Bhoutan,224,4,8,8,4,2,12,15,52,34,23,29,22,17,19,11,18,7,5,0,2,1,0,0,1,2,2,0,1,0,0,1,0,0,0,0,0,0,0
+Member State,WSM,Polynesia,WSM,Oceania,Samoa,WS,Samoa,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,BEL,Western Europe,BEL,Europe,Belgium,BE,Belgique,26,0,0,0,6,1,0,0,1,39,26,9,0,11,36,17,27,42,63,92,76,39,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,BGD,Southern Asia,BGD,Asia,Bangladesh,BD,Bangladesh,74,0,1,0,15,1,0,2,1,106,75,151,456,177,40,3,3,39,26,6,54,32,11,22,95,34,70,59,68,52,35,3,40,0,0,0,0,0,0
+Member State,ISR,Western Asia,ISR,Asia,Israel,IL,Israël,128,1,2,0,0,0,0,0,0,5,0,0,5,27,0,1,0,1,2,2,1,0,8,2,7,8,22,56,6,0,0,0,0,0,0,0,0,0,0
+Member State,NOR,Northern Europe,NOR,Europe,Norway,NO,Norvège,5885,13,21,36,6,3,7,49,355,737,647,285,140,109,146,156,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,ATG,Caribbean,ATG,Americas,Antigua & Barbuda,AG,Antigua-et-Barbuda,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UK Non-Self-Governing Territory,AIA,Caribbean,AIA,Americas,Anguilla,AI,Anguilla,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,LBY,Northern Africa,LBY,Africa,Libyan Arab Jamahiriya,LY,Libye,19716,3,0,0,9,42,87,142,17,30,56,48,52,67,64,132,198,209,82,77,84,103,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,DNK,Northern Europe,DNK,Europe,Denmark,DK,Danemark,31,0,0,0,3,2,2,4,4,3,6,3,4,11,84,121,79,290,132,111,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,SWE,Northern Europe,SWE,Europe,Sweden,SE,Suède,7195,3,13,5,4,13,14,24,113,252,106,126,544,258,425,462,579,656,517,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UK Non-Self-Governing Territory,GBR,Caribbean,TCA,Americas,Turks and Caicos Islands,TC,Turks and Caicos Islands,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,BOL,South America,BOL,Americas,Bolivia,BO,Bolivie (État plurinational de),6730,1,3,17,19,13,56,27,29,76,213,268,562,381,338,216,219,335,221,532,356,297,454,308,232,168,358,656,57,36,44,37,21,7,0,0,0,0,0
+Member State,CHN,Eastern Asia,CHN,Asia,China,CN,Chine,64949,14,30,22,23,30,15,13,1452,2207,2461,2162,1916,2071,1965,1895,2086,2099,2407,2999,3750,3890,4606,4842,4554,4249,3871,3709,3047,2515,2162,1664,1182,911,529,160,20,0,0
+Member State,GHA,Western Africa,GHA,Africa,Ghana,GH,Ghana,274,16,7,2,1,12,12,23,90,35,24,25,73,28,87,153,162,277,367,347,578,158,63,3,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Member State,IRQ,Western Asia,IRQ,Asia,Iraq,IQ,Iraq,3856,0,5,0,4,1,0,0,3,18,27,37,47,11,18,29,25,42,67,86,96,86,184,369,353,114,151,230,107,62,38,3,0,0,0,0,0,0,0
+Member State,AGO,Middle Africa,AGO,Africa,Angola,AO,Angola,7121,0,0,0,0,0,1,6,11,13,24,22,36,28,52,115,134,768,961,949,840,887,663,627,792,206,496,224,0,1,0,0,0,1,2,4,1,0,0
+Member State,CUB,Caribbean,CUB,Americas,Cuba,CU,Cuba,113,0,2,1,0,0,0,0,1,15,3,2,13,7,5,3,63,21,5,5,46,23,3,4,28,24,29,213,740,0,0,0,0,0,0,0,0,0,0
+FR Territory,FRA,Caribbean,MTQ,Americas,Martinique,MQ,Martinique,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,MYS,South-Eastern Asia,MYS,Asia,Malaysia,MY,Malaisie,690,0,2,1,5,4,4,6,9,13,26,52,59,89,168,226,191,371,435,298,375,255,271,227,45,28,3,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,KEN,Eastern Africa,KEN,Africa,Kenya,KE,Kenya,4450,8,26,6,1,6,7,38,70,45,78,119,108,146,112,118,86,79,131,145,240,222,87,103,113,97,60,34,42,11,7,4,3,0,0,0,0,0,0
+PT Territory,PRT,Southern Europe,,Europe,Madeira Islands,,Madeira Islands,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Member State,NZL,Australia and New Zealand,NZL,Oceania,New Zealand,NZ,Nouvelle-Zélande,1178,139,23,58,17,13,8,12,351,207,346,711,261,135,417,188,83,41,2,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

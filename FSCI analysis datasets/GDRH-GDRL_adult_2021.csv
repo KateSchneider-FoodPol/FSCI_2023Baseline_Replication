@@ -1,0 +1,42 @@
+ISO,country,year,GDR_H_score,GDR_H_score_LCI,GDR_H_score_UCI,GDR_L_score,GDR_L_score_LCI,GDR_L_score_UCI,wb_region,incgrp
+BEN,Benin,2021,2.88,2.71,3.05,1.24,1.09,1.39,Sub-Saharan Africa,Lower middle income
+BFA,Burkina Faso,2021,2.83,2.62,3.04,1,.86,1.14,Sub-Saharan Africa,Low income
+BGD,Bangladesh,2021,2.87,2.73,3.01,1.48,1.35,1.61,South Asia,Lower middle income
+BOL,Bolivia (Plurinational State of),2021,4.69,4.51,4.87,2.68,2.49,2.87,Latin America & Caribbean,Lower middle income
+CHL,Chile,2021,4.12,3.9,4.33,3.26,2.92,3.59,Latin America & Caribbean,High income
+CHN,China,2021,4.62,4.51,4.72,2.39,2.3,2.48,East Asia & Pacific,Upper middle income
+CMR,Cameroon,2021,3.08,2.91,3.24,1.56,1.4,1.72,Sub-Saharan Africa,Lower middle income
+COL,Colombia,2021,3.5,3.36,3.64,2.6,2.44,2.76,Latin America & Caribbean,Upper middle income
+ECU,Ecuador,2021,4.14,3.97,4.31,2.12,1.97,2.27,Latin America & Caribbean,Upper middle income
+EGY,Egypt,2021,3.05,2.93,3.17,1.6,1.46,1.74,Middle East & North Africa,Lower middle income
+GAB,Gabon,2021,2.82,2.64,3,2.2,2.04,2.36,Sub-Saharan Africa,Upper middle income
+GHA,Ghana,2021,2.95,2.79,3.11,1.45,1.28,1.61,Sub-Saharan Africa,Lower middle income
+GRC,Greece,2021,3.25,3.11,3.39,2.26,2.12,2.4,Europe & Central Asia,High income
+IDN,Indonesia,2021,4.68,4.43,4.93,3.13,2.89,3.37,East Asia & Pacific,Lower middle income
+IND,India,2021,3.34,3.19,3.49,1.49,1.35,1.62,South Asia,Lower middle income
+ISR,Israel,2021,4.03,3.82,4.24,3.04,2.78,3.3,Middle East & North Africa,High income
+JOR,Jordan,2021,2.86,2.73,3,2.36,2.22,2.5,Middle East & North Africa,Upper middle income
+KAZ,Kazakhstan,2021,3.52,3.36,3.68,3.89,3.68,4.1,Europe & Central Asia,Upper middle income
+KEN,Kenya,2021,3.99,3.79,4.18,1.58,1.41,1.74,Sub-Saharan Africa,Lower middle income
+KHM,Cambodia,2021,2.86,2.7,3.01,1.82,1.68,1.95,East Asia & Pacific,Lower middle income
+LAO,Lao People's Democratic Republic,2021,3.59,3.4,3.78,2.75,2.53,2.97,East Asia & Pacific,Lower middle income
+LBN,Lebanon,2021,3.17,3.06,3.27,1.22,1.12,1.32,Middle East & North Africa,Lower middle income
+LKA,Sri Lanka,2021,4.22,4.03,4.4,1.57,1.44,1.7,South Asia,Lower middle income
+MAR,Morocco,2021,3.82,3.67,3.96,1.95,1.81,2.08,Middle East & North Africa,Lower middle income
+MEX,Mexico,2021,4.86,4.71,5.02,2.83,2.68,2.99,Latin America & Caribbean,Upper middle income
+MOZ,Mozambique,2021,3.45,3.21,3.69,1.43,1.24,1.62,Sub-Saharan Africa,Low income
+NGA,Nigeria,2021,2.7,2.51,2.89,2,1.8,2.2,Sub-Saharan Africa,Lower middle income
+NIC,Nicaragua,2021,4.03,3.87,4.19,2.78,2.6,2.97,Latin America & Caribbean,Lower middle income
+NPL,Nepal,2021,3.57,3.39,3.75,1.61,1.46,1.77,South Asia,Lower middle income
+PAK,Pakistan,2021,3.18,3.02,3.34,1.38,1.21,1.55,South Asia,Lower middle income
+PHL,Philippines,2021,3.91,3.74,4.08,3.22,3.03,3.42,East Asia & Pacific,Lower middle income
+RUS,Russian Federation,2021,3.24,3.16,3.32,2.88,2.78,2.98,Europe & Central Asia,Upper middle income
+SEN,Senegal,2021,3.61,3.4,3.82,1.67,1.51,1.83,Sub-Saharan Africa,Lower middle income
+SLE,Sierra Leone,2021,2.48,2.31,2.64,.9399999999999999,.78,1.09,Sub-Saharan Africa,Low income
+TJK,Tajikistan,2021,4.16,3.96,4.36,2.98,2.69,3.27,Europe & Central Asia,Lower middle income
+TUR,Türkiye,2021,4.24,4.07,4.41,2.02,1.86,2.18,Europe & Central Asia,Upper middle income
+TZA,United Republic of Tanzania,2021,2.88,2.7,3.06,.96,.86,1.05,Sub-Saharan Africa,Lower middle income
+UGA,Uganda,2021,3.63,3.44,3.82,1.33,1.2,1.46,Sub-Saharan Africa,Low income
+USA,United States of America,2021,4,3.87,4.14,3.26,3.1,3.43,North America,High income
+VNM,Viet Nam,2021,4.41,4.2,4.62,2.63,2.46,2.8,East Asia & Pacific,Lower middle income
+ZAF,South Africa,2021,3.29,3.08,3.5,3.24,2.97,3.51,Sub-Saharan Africa,Upper middle income

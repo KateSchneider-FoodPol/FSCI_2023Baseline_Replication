@@ -1,0 +1,102 @@
+ISO,country,year,incgrp,wb_region,UNmemberstate,childlabor,childlabor_f,childlabor_m,disp_area,UN_status_detail,UN_contregion_code,UN_continental_region,UN_subregion_code,UN_subregion,UN_intermedregion_code,UN_intermediary_region,m49_code,fsci_regions
+AFG,Afghanistan,2020,Low income,South Asia,1,9,5.0999999,12.6,NO,Member State,142,Asia,034,Southern Asia,,,004,Southern Asia
+AGO,Angola,2016,Lower middle income,Sub-Saharan Africa,1,9.6999998,10.4,8.8999996,NO,Member State,002,Africa,202,Sub-Saharan Africa,017,Middle Africa,024,Sub-Saharan Africa
+ALB,Albania,2010,Upper middle income,Europe & Central Asia,1,2.8,2.0999999,3.4000001,NO,Member State,150,Europe,039,Southern Europe,,,008,Northern America and Europe
+ARM,Armenia,2015,Upper middle income,Europe & Central Asia,1,3.9000001,2.7,4.9000001,NO,Member State,142,Asia,145,Western Asia,,,051,Northern Africa & Western Asia
+BDI,Burundi,2017,Low income,Sub-Saharan Africa,1,20.5,19.4,21.5,NO,Member State,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,108,Sub-Saharan Africa
+BEN,Benin,2018,Lower middle income,Sub-Saharan Africa,1,17,16.1,17.9,NO,Member State,002,Africa,202,Sub-Saharan Africa,011,Western Africa,204,Sub-Saharan Africa
+BFA,Burkina Faso,2010,Low income,Sub-Saharan Africa,1,35.099998,30.1,40.099998,NO,Member State,002,Africa,202,Sub-Saharan Africa,011,Western Africa,854,Sub-Saharan Africa
+BGD,Bangladesh,2019,Lower middle income,South Asia,1,5.9000001,3,8.6999998,NO,Member State,142,Asia,034,Southern Asia,,,050,Southern Asia
+BLR,Belarus,2019,Upper middle income,Europe & Central Asia,1,4,3.4000001,4.5999999,NO,Member State,150,Europe,151,Eastern Europe,,,112,Northern America and Europe
+BLZ,Belize,2013,Upper middle income,Latin America & Caribbean,1,2.2,1.2,3.2,NO,Member State,019,Americas,419,Latin America and the Caribbean,013,Central America,084,Latin America & Caribbean
+BOL,Bolivia (Plurinational State of),2019,Lower middle income,Latin America & Caribbean,1,12.3,11.7,13,NO,Member State,019,Americas,419,Latin America and the Caribbean,005,South America,068,Latin America & Caribbean
+BRA,Brazil,2015,Upper middle income,Latin America & Caribbean,1,3.4000001,2,4.5999999,NO,Member State,019,Americas,419,Latin America and the Caribbean,005,South America,076,Latin America & Caribbean
+BRB,Barbados,2012,High income,Latin America & Caribbean,1,1.2,.80000001,1.7,NO,Member State,019,Americas,419,Latin America and the Caribbean,029,Caribbean,052,Latin America & Caribbean
+BTN,Bhutan,2010,Lower middle income,South Asia,1,1.7,1.7,1.6,NO,Member State,142,Asia,034,Southern Asia,,,064,Southern Asia
+CAF,Central African Republic,2019,Low income,Sub-Saharan Africa,1,18.4,19.5,17.299999,NO,Member State,002,Africa,202,Sub-Saharan Africa,017,Middle Africa,140,Sub-Saharan Africa
+CHL,Chile,2012,High income,Latin America & Caribbean,1,2.3,1.4,3.3,NO,Member State,019,Americas,419,Latin America and the Caribbean,005,South America,152,Latin America & Caribbean
+CIV,Côte D'Ivoire,2016,Lower middle income,Sub-Saharan Africa,1,17.5,15.8,19.299999,NO,Member State,002,Africa,202,Sub-Saharan Africa,011,Western Africa,384,Sub-Saharan Africa
+CMR,Cameroon,2014,Lower middle income,Sub-Saharan Africa,1,33.400002,32.799999,38.5,NO,Member State,002,Africa,202,Sub-Saharan Africa,017,Middle Africa,120,Sub-Saharan Africa
+COD,Democratic Republic of the Congo,2018,Low income,Sub-Saharan Africa,1,9.1999998,9.1999998,9.1999998,NO,Member State,002,Africa,202,Sub-Saharan Africa,017,Middle Africa,180,Sub-Saharan Africa
+COG,Congo,2015,Lower middle income,Sub-Saharan Africa,1,10.8,11.7,9.8999996,NO,Member State,002,Africa,202,Sub-Saharan Africa,017,Middle Africa,178,Sub-Saharan Africa
+COL,Colombia,2020,Upper middle income,Latin America & Caribbean,1,4.6999998,3.8,5.5,NO,Member State,019,Americas,419,Latin America and the Caribbean,005,South America,170,Latin America & Caribbean
+COM,Comoros,2012,Lower middle income,Sub-Saharan Africa,1,20.4,20.1,20.6,NO,Member State,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,174,Sub-Saharan Africa
+CRI,Costa Rica,2018,Upper middle income,Latin America & Caribbean,1,3.4000001,2.7,4,NO,Member State,019,Americas,419,Latin America and the Caribbean,013,Central America,188,Latin America & Caribbean
+DOM,Dominican Republic,2019,Upper middle income,Latin America & Caribbean,1,3.0999999,2,4.0999999,NO,Member State,019,Americas,419,Latin America and the Caribbean,029,Caribbean,214,Latin America & Caribbean
+DZA,Algeria,2019,Lower middle income,Middle East & North Africa,1,1.9,1.3,2.5,NO,Member State,002,Africa,015,Northern Africa,,,012,Northern Africa & Western Asia
+ECU,Ecuador,2019,Upper middle income,Latin America & Caribbean,1,5.0999999,4.3000002,5.8000002,NO,Member State,019,Americas,419,Latin America and the Caribbean,005,South America,218,Latin America & Caribbean
+EGY,Egypt,2014,Lower middle income,Middle East & North Africa,1,3.5999999,1.4,5.5999999,NO,Member State,002,Africa,015,Northern Africa,,,818,Northern Africa & Western Asia
+ETH,Ethiopia,2015,Low income,Sub-Saharan Africa,1,40.5,32.099998,48.299999,NO,Member State,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,231,Sub-Saharan Africa
+GAB,Gabon,2012,Upper middle income,Sub-Saharan Africa,1,14.5,13.7,16.1,NO,Member State,002,Africa,202,Sub-Saharan Africa,017,Middle Africa,266,Sub-Saharan Africa
+GEO,Georgia,2015,Upper middle income,Europe & Central Asia,1,1.5,.89999998,2.0999999,NO,Member State,142,Asia,145,Western Asia,,,268,Northern Africa & Western Asia
+GHA,Ghana,2018,Lower middle income,Sub-Saharan Africa,1,14.8,15.2,14.5,NO,Member State,002,Africa,202,Sub-Saharan Africa,011,Western Africa,288,Sub-Saharan Africa
+GIN,Guinea,2016,Low income,Sub-Saharan Africa,1,19.5,17.799999,21.1,NO,Member State,002,Africa,202,Sub-Saharan Africa,011,Western Africa,324,Sub-Saharan Africa
+GMB,Gambia (Republic of The),2018,Low income,Sub-Saharan Africa,1,13.6,11.9,15.5,NO,Member State,002,Africa,202,Sub-Saharan Africa,011,Western Africa,270,Sub-Saharan Africa
+GNB,Guinea-Bissau,2019,Low income,Sub-Saharan Africa,1,14.9,12.9,16.9,NO,Member State,002,Africa,202,Sub-Saharan Africa,011,Western Africa,624,Sub-Saharan Africa
+GTM,Guatemala,2013,Upper middle income,Latin America & Caribbean,1,8.1000004,4.5999999,11.4,NO,Member State,019,Americas,419,Latin America and the Caribbean,013,Central America,320,Latin America & Caribbean
+GUY,Guyana,2020,Upper middle income,Latin America & Caribbean,1,4.9000001,4.5999999,5.0999999,NO,Member State,019,Americas,419,Latin America and the Caribbean,005,South America,328,Latin America & Caribbean
+HND,Honduras,2019,Lower middle income,Latin America & Caribbean,1,12.2,7.9000001,16.200001,NO,Member State,019,Americas,419,Latin America and the Caribbean,013,Central America,340,Latin America & Caribbean
+HTI,Haiti,2012,Lower middle income,Latin America & Caribbean,1,21.6,20.200001,22.4,NO,Member State,019,Americas,419,Latin America and the Caribbean,029,Caribbean,332,Latin America & Caribbean
+IND,India,2012,Lower middle income,South Asia,1,4.3000002,3.0999999,5.3000002,NO,Member State,142,Asia,034,Southern Asia,,,356,Southern Asia
+IRQ,Iraq,2018,Upper middle income,Middle East & North Africa,1,3.0999999,1.9,4.3000002,NO,Member State,142,Asia,145,Western Asia,,,368,Northern Africa & Western Asia
+JAM,Jamaica,2016,Upper middle income,Latin America & Caribbean,1,2.7,2.2,3.0999999,NO,Member State,019,Americas,419,Latin America and the Caribbean,029,Caribbean,388,Latin America & Caribbean
+JOR,Jordan,2016,Upper middle income,Middle East & North Africa,1,1.2,.2,2.2,NO,Member State,142,Asia,145,Western Asia,,,400,Northern Africa & Western Asia
+KEN,Kenya,2019,Lower middle income,Sub-Saharan Africa,1,18.799999,16.4,20.9,NO,Member State,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,404,Sub-Saharan Africa
+KGZ,Kyrgyzstan,2018,Lower middle income,Europe & Central Asia,1,20.1,15.6,24.200001,NO,Member State,142,Asia,143,Central Asia,,,417,Central Asia
+KHM,Cambodia,2012,Lower middle income,East Asia & Pacific,1,11.5,12.2,10.8,NO,Member State,142,Asia,035,South-eastern Asia,,,116,South-eastern Asia
+KIR,Kiribati,2019,Lower middle income,East Asia & Pacific,1,7.0999999,5.5,8.6000004,NO,Member State,009,Oceania,057,Micronesia,,,296,Oceania
+LAO,Lao People's Democratic Republic,2017,Lower middle income,East Asia & Pacific,1,26.299999,26.200001,26.299999,NO,Member State,142,Asia,035,South-eastern Asia,,,418,South-eastern Asia
+LBR,Liberia,2020,Low income,Sub-Saharan Africa,1,21.1,22.4,19.9,NO,Member State,002,Africa,202,Sub-Saharan Africa,011,Western Africa,430,Sub-Saharan Africa
+LCA,Saint Lucia,2012,Upper middle income,Latin America & Caribbean,1,1.9,1.4,2.4000001,NO,Member State,019,Americas,419,Latin America and the Caribbean,029,Caribbean,662,Latin America & Caribbean
+LKA,Sri Lanka,2016,Lower middle income,South Asia,1,.80000001,.60000002,.89999998,NO,Member State,142,Asia,034,Southern Asia,,,144,Southern Asia
+LSO,Lesotho,2018,Lower middle income,Sub-Saharan Africa,1,8.1999998,5.4000001,11.1,NO,Member State,002,Africa,202,Sub-Saharan Africa,018,Southern Africa,426,Sub-Saharan Africa
+MDG,Madagascar,2018,Low income,Sub-Saharan Africa,1,29.799999,26.200001,33.400002,NO,Member State,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,450,Sub-Saharan Africa
+MEX,Mexico,2019,Upper middle income,Latin America & Caribbean,1,5,3.5,1.9,NO,Member State,019,Americas,419,Latin America and the Caribbean,013,Central America,484,Latin America & Caribbean
+MKD,North Macedonia,2019,Upper middle income,Europe & Central Asia,1,2.4000001,1.6,3.4000001,NO,Member State,150,Europe,039,Southern Europe,,,807,Northern America and Europe
+MLI,Mali,2017,Low income,Sub-Saharan Africa,1,10.4,7.6999998,12.9,NO,Member State,002,Africa,202,Sub-Saharan Africa,011,Western Africa,466,Sub-Saharan Africa
+MMR,Myanmar,2015,Lower middle income,East Asia & Pacific,1,8.1000004,7.5999999,8.6999998,NO,Member State,142,Asia,035,South-eastern Asia,,,104,South-eastern Asia
+MNE,Montenegro,2018,Upper middle income,Europe & Central Asia,1,7.6999998,6.9000001,8.3999996,NO,Member State,150,Europe,039,Southern Europe,,,499,Northern America and Europe
+MNG,Mongolia,2018,Lower middle income,East Asia & Pacific,1,7.9000001,6.5,9.1000004,NO,Member State,142,Asia,030,Eastern Asia,,,496,Eastern Asia
+MRT,Mauritania,2015,Lower middle income,Sub-Saharan Africa,1,12.6,10.4,14.8,NO,Member State,002,Africa,202,Sub-Saharan Africa,011,Western Africa,478,Sub-Saharan Africa
+MWI,Malawi,2020,Low income,Sub-Saharan Africa,1,10,8,11.9,NO,Member State,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,454,Sub-Saharan Africa
+NER,Niger,2012,Low income,Sub-Saharan Africa,1,28.799999,27.299999,29.9,NO,Member State,002,Africa,202,Sub-Saharan Africa,011,Western Africa,562,Sub-Saharan Africa
+NGA,Nigeria,2017,Lower middle income,Sub-Saharan Africa,1,28.700001,27.5,29.9,NO,Member State,002,Africa,202,Sub-Saharan Africa,011,Western Africa,566,Sub-Saharan Africa
+NIC,Nicaragua,2012,Lower middle income,Latin America & Caribbean,1,25.9,17.9,33.299999,NO,Member State,019,Americas,419,Latin America and the Caribbean,013,Central America,558,Latin America & Caribbean
+NPL,Nepal,2014,Lower middle income,South Asia,1,19,19.299999,19.200001,NO,Member State,142,Asia,034,Southern Asia,,,524,Southern Asia
+PAK,Pakistan,2018,Lower middle income,South Asia,1,9,5.0999999,12.4,NO,Member State,142,Asia,034,Southern Asia,,,586,Southern Asia
+PAN,Panama,2016,High income,Latin America & Caribbean,1,2.2,1.2,3.2,NO,Member State,019,Americas,419,Latin America and the Caribbean,013,Central America,591,Latin America & Caribbean
+PER,Peru,2020,Upper middle income,Latin America & Caribbean,1,12.2,11.3,13.2,NO,Member State,019,Americas,419,Latin America and the Caribbean,005,South America,604,Latin America & Caribbean
+PHL,Philippines,2020,Lower middle income,East Asia & Pacific,1,1,.69999999,1.2,NO,Member State,142,Asia,035,South-eastern Asia,,,608,South-eastern Asia
+PRK,Dem People's Rep of Korea,2017,Low income,East Asia & Pacific,1,4,3.7,4.3000002,NO,Member State,142,Asia,030,Eastern Asia,,,408,Eastern Asia
+PRY,Paraguay,2016,Upper middle income,Latin America & Caribbean,1,15.5,11.5,19.4,NO,Member State,019,Americas,419,Latin America and the Caribbean,005,South America,600,Latin America & Caribbean
+PSE,"Palestine, State of",2020,Lower middle income,Middle East & North Africa,0,6.3000002,3.3,9.1999998,NO,Occupied Palestinian Territory,142,Asia,145,Western Asia,,,275,Northern Africa & Western Asia
+RWA,Rwanda,2017,Low income,Sub-Saharan Africa,1,3.5,3.2,3.9000001,NO,Member State,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,646,Sub-Saharan Africa
+SDN,Sudan,2014,Low income,Sub-Saharan Africa,1,15.3,15.2,19.299999,NO,Member State,002,Africa,015,Northern Africa,,,729,Northern Africa & Western Asia
+SEN,Senegal,2016,Lower middle income,Sub-Saharan Africa,1,17.1,8.6000004,25.700001,NO,Member State,002,Africa,202,Sub-Saharan Africa,011,Western Africa,686,Sub-Saharan Africa
+SLB,Solomon Islands,2015,Lower middle income,East Asia & Pacific,1,13.8,13.8,13.8,NO,Member State,009,Oceania,054,Melanesia,,,090,Oceania
+SLE,Sierra Leone,2017,Low income,Sub-Saharan Africa,1,21,19.6,22.5,NO,Member State,002,Africa,202,Sub-Saharan Africa,011,Western Africa,694,Sub-Saharan Africa
+SLV,El Salvador,2020,Lower middle income,Latin America & Caribbean,1,3.5999999,1.5,5.5999999,NO,Member State,019,Americas,419,Latin America and the Caribbean,013,Central America,222,Latin America & Caribbean
+SRB,Serbia,2019,Upper middle income,Europe & Central Asia,1,9.1000004,6.8000002,11.1,NO,Member State,150,Europe,039,Southern Europe,,,688,Northern America and Europe
+STP,Sao Tome and Principe,2019,Lower middle income,Sub-Saharan Africa,1,6.6999998,7.4000001,6.0999999,NO,Member State,002,Africa,202,Sub-Saharan Africa,017,Middle Africa,678,Sub-Saharan Africa
+SUR,Suriname,2018,Upper middle income,Latin America & Caribbean,1,3.4000001,2.4000001,4.4000001,NO,Member State,019,Americas,419,Latin America and the Caribbean,005,South America,740,Latin America & Caribbean
+SWZ,Eswatini,2010,Lower middle income,Sub-Saharan Africa,1,6.0999999,5.6999998,6.5,NO,Member State,002,Africa,202,Sub-Saharan Africa,018,Southern Africa,748,Sub-Saharan Africa
+TCA,Turks and Caicos Islands,2020,High income,Latin America & Caribbean,0,4.0999999,2.2,5.6999998,NO,UK Non-Self-Governing Territory,019,Americas,419,Latin America and the Caribbean,029,Caribbean,796,Latin America & Caribbean
+TCD,Chad,2019,Low income,Sub-Saharan Africa,1,30.9,27.799999,33.799999,NO,Member State,002,Africa,202,Sub-Saharan Africa,017,Middle Africa,148,Sub-Saharan Africa
+TGO,Togo,2017,Low income,Sub-Saharan Africa,1,32.900002,31.200001,34.5,NO,Member State,002,Africa,202,Sub-Saharan Africa,011,Western Africa,768,Sub-Saharan Africa
+TKM,Turkmenistan,2016,Upper middle income,Europe & Central Asia,1,.30000001,.1,.40000001,NO,Member State,142,Asia,143,Central Asia,,,795,Central Asia
+TLS,Timor-Leste,2016,Lower middle income,East Asia & Pacific,1,7.1999998,6.9000001,7.5999999,NO,Member State,142,Asia,035,South-eastern Asia,,,626,South-eastern Asia
+TON,Tonga,2019,Upper middle income,East Asia & Pacific,1,25.9,18.5,32.900002,NO,Member State,009,Oceania,061,Polynesia,,,776,Oceania
+TTO,Trinidad and Tobago,2011,High income,Latin America & Caribbean,1,.69999999,.80000001,.69999999,NO,Member State,019,Americas,419,Latin America and the Caribbean,029,Caribbean,780,Latin America & Caribbean
+TUN,Tunisia,2012,Lower middle income,Middle East & North Africa,1,1.8,1.1,2.4000001,NO,Member State,002,Africa,015,Northern Africa,,,788,Northern Africa & Western Asia
+TUR,Türkiye,2019,Upper middle income,Europe & Central Asia,1,1.9,.80000001,2.9000001,NO,Member State,142,Asia,145,Western Asia,,,792,Northern Africa & Western Asia
+TUV,Tuvalu,2020,Upper middle income,East Asia & Pacific,1,3.7,4,3.4000001,NO,Member State,009,Oceania,061,Polynesia,,,798,Oceania
+TZA,United Republic of Tanzania,2014,Lower middle income,Sub-Saharan Africa,1,22.799999,21.299999,24.200001,NO,Member State,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,834,Sub-Saharan Africa
+UGA,Uganda,2017,Low income,Sub-Saharan Africa,1,13.2,11.8,14.7,NO,Member State,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,800,Sub-Saharan Africa
+UKR,Ukraine,2012,Lower middle income,Europe & Central Asia,1,2.2,2.0999999,2.2,NO,Member State,150,Europe,151,Eastern Europe,,,804,Northern America and Europe
+URY,Uruguay,2010,High income,Latin America & Caribbean,1,3.7,2.3,5.0999999,NO,Member State,019,Americas,419,Latin America and the Caribbean,005,South America,858,Latin America & Caribbean
+VNM,Viet Nam,2021,Lower middle income,East Asia & Pacific,1,5.4000001,,,NO,Member State,142,Asia,035,South-eastern Asia,,,704,South-eastern Asia
+VUT,Vanuatu,2013,Lower middle income,East Asia & Pacific,1,15,15.8,14.2,NO,Member State,009,Oceania,054,Melanesia,,,548,Oceania
+WSM,Samoa,2020,Lower middle income,East Asia & Pacific,1,13,10.8,14.9,NO,Member State,009,Oceania,061,Polynesia,,,882,Oceania
+ZAF,South Africa,2015,Upper middle income,Sub-Saharan Africa,1,1.9,1.3,2.4000001,NO,Member State,002,Africa,202,Sub-Saharan Africa,018,Southern Africa,710,Sub-Saharan Africa
+ZMB,Zambia,2012,Low income,Sub-Saharan Africa,1,20.200001,20.1,20.200001,NO,Member State,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,894,Sub-Saharan Africa
+ZWE,Zimbabwe,2019,Lower middle income,Sub-Saharan Africa,1,25.6,19,31.799999,NO,Member State,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,716,Sub-Saharan Africa

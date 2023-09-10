@@ -1,0 +1,195 @@
+ISO,righttofood,country,wb_region,incgrp,multiple_policies,UNmemberstate,ISO_governing,m49_code,UN_continental_region,UN_subregion,UN_intermediary_region,UN_contregion_code,UN_subregion_code,UN_intermedregion_code,year
+AFG,2,Afghanistan,6,Low income,1,1,,004,Asia,Southern Asia,,142,034,,2021
+ALB,2,Albania,2,Upper middle income,1,1,,008,Europe,Southern Europe,,150,039,,2021
+DZA,2,Algeria,4,Lower middle income,1,1,,012,Africa,Northern Africa,,002,015,,2021
+AND,2,Andorra,2,High income,1,1,,020,Europe,Southern Europe,,150,039,,2021
+AGO,2,Angola,7,Lower middle income,1,1,,024,Africa,Sub-Saharan Africa,Middle Africa,002,202,017,2021
+ATG,3,Antigua and Barbuda,3,High income,0,1,,028,Americas,Latin America and the Caribbean,Caribbean,019,419,029,2021
+ARG,2,Argentina,3,Upper middle income,1,1,,032,Americas,Latin America and the Caribbean,South America,019,419,005,2021
+ARM,2,Armenia,2,Upper middle income,1,1,,051,Asia,Western Asia,,142,145,,2021
+AUS,3,Australia,1,High income,0,1,,036,Oceania,Australia and New Zealand,,009,053,,2021
+AUT,2,Austria,2,High income,0,1,,040,Europe,Western Europe,,150,155,,2021
+AZE,2,Azerbaijan,2,Upper middle income,1,1,,031,Asia,Western Asia,,142,145,,2021
+BHS,3,Bahamas,3,High income,0,1,,044,Americas,Latin America and the Caribbean,Caribbean,019,419,029,2021
+BHR,2,Bahrain,4,High income,0,1,,048,Asia,Western Asia,,,145,,2021
+BGD,1,Bangladesh,6,Lower middle income,0,1,,050,Asia,Southern Asia,,142,034,,2021
+BRB,3,Barbados,3,High income,0,1,,052,Americas,Latin America and the Caribbean,Caribbean,019,419,029,2021
+BLR,1,Belarus,2,Upper middle income,1,1,,112,Europe,Eastern Europe,,150,151,,2021
+BEL,2,Belgium,2,High income,0,1,,056,Europe,Western Europe,,150,155,,2021
+BLZ,2,Belize,3,Upper middle income,0,1,,084,Americas,Latin America and the Caribbean,Central America,019,419,013,2021
+BEN,2,Benin,7,Lower middle income,1,1,,204,Africa,Sub-Saharan Africa,Western Africa,002,202,011,2021
+BTN,2,Bhutan,6,Lower middle income,0,1,,064,Asia,Southern Asia,,142,034,,2021
+BOL,1,Bolivia (Plurinational State of),3,Lower middle income,1,1,,068,Americas,Latin America and the Caribbean,South America,019,419,005,2021
+BIH,2,Bosnia and Herzegovina,2,Upper middle income,1,1,,070,Europe,Southern Europe,,150,039,,2021
+BWA,3,Botswana,7,Upper middle income,0,1,,072,Africa,Sub-Saharan Africa,Southern Africa,002,202,018,2021
+BRA,1,Brazil,3,Upper middle income,1,1,,076,Americas,Latin America and the Caribbean,South America,019,419,005,2021
+BRN,3,Brunei Darussalam,1,High income,0,1,,096,Asia,South-eastern Asia,,142,035,,2021
+BGR,2,Bulgaria,2,Upper middle income,1,1,,100,Europe,Eastern Europe,,150,151,,2021
+BFA,2,Burkina Faso,7,Low income,1,1,,854,Africa,Sub-Saharan Africa,Western Africa,002,202,011,2021
+BDI,1,Burundi,7,Low income,0,1,,108,Africa,Sub-Saharan Africa,Eastern Africa,002,202,014,2021
+CPV,2,Cabo Verde,7,Lower middle income,1,1,,132,Africa,Sub-Saharan Africa,Western Africa,002,202,011,2021
+KHM,2,Cambodia,1,Lower middle income,1,1,,116,Asia,South-eastern Asia,,142,035,,2021
+CMR,2,Cameroon,7,Lower middle income,1,1,,120,Africa,Sub-Saharan Africa,Middle Africa,002,202,017,2021
+CAN,3,Canada,5,High income,0,1,,124,Americas,Northern America,,019,021,,2021
+CAF,2,Central African Republic,7,Low income,1,1,,140,Africa,Sub-Saharan Africa,Middle Africa,002,202,017,2021
+TCD,2,Chad,7,Low income,1,1,,148,Africa,Sub-Saharan Africa,Middle Africa,002,202,017,2021
+CHL,2,Chile,3,High income,0,1,,152,Americas,Latin America and the Caribbean,South America,019,419,005,2021
+CHN,2,China,1,Upper middle income,0,1,,156,Asia,Eastern Asia,,142,030,,2021
+COL,1,Colombia,3,Upper middle income,0,1,,170,Americas,Latin America and the Caribbean,South America,019,419,005,2021
+COM,2,Comoros,7,Lower middle income,0,1,,174,Africa,Sub-Saharan Africa,Eastern Africa,002,202,014,2021
+COG,2,Congo,7,Lower middle income,1,1,,178,Africa,Sub-Saharan Africa,Middle Africa,002,202,017,2021
+CRI,1,Costa Rica,3,Upper middle income,1,1,,188,Americas,Latin America and the Caribbean,Central America,019,419,013,2021
+HRV,2,Croatia,2,High income,1,1,,191,Europe,Southern Europe,,150,039,,2021
+CUB,1,Cuba,3,Upper middle income,0,1,,192,Americas,Latin America and the Caribbean,Caribbean,019,419,029,2021
+CYP,2,Cyprus,2,High income,1,1,,196,Asia,Western Asia,,142,145,,2021
+CZE,2,Czechia,2,High income,1,1,,203,Europe,Eastern Europe,,150,151,,2021
+CIV,2,Côte D'Ivoire,7,Lower middle income,1,1,,384,Africa,Sub-Saharan Africa,Western Africa,002,202,011,2021
+PRK,1,Dem People's Rep of Korea,1,Low income,1,1,,408,Asia,Eastern Asia,,142,030,,2021
+COD,1,Democratic Republic of the Congo,7,Low income,1,1,,180,Africa,Sub-Saharan Africa,Middle Africa,002,202,017,2021
+DNK,2,Denmark,2,High income,0,1,,208,Europe,Northern Europe,,150,154,,2021
+DJI,2,Djibouti,4,Lower middle income,0,1,,262,Africa,Sub-Saharan Africa,Eastern Africa,002,202,014,2021
+DMA,2,Dominica,3,Upper middle income,0,1,,212,Americas,Latin America and the Caribbean,Caribbean,019,419,029,2021
+DOM,2,Dominican Republic,3,Upper middle income,1,1,,214,Americas,Latin America and the Caribbean,Caribbean,019,419,029,2021
+ECU,1,Ecuador,3,Upper middle income,1,1,,218,Americas,Latin America and the Caribbean,South America,019,419,005,2021
+EGY,1,Egypt,4,Lower middle income,1,1,,818,Africa,Northern Africa,,002,015,,2021
+SLV,2,El Salvador,3,Lower middle income,1,1,,222,Americas,Latin America and the Caribbean,Central America,019,419,013,2021
+GNQ,2,Equatorial Guinea,7,Upper middle income,1,1,,226,Africa,Sub-Saharan Africa,Middle Africa,002,202,017,2021
+ERI,2,Eritrea,7,Low income,0,1,,232,Africa,Sub-Saharan Africa,Eastern Africa,002,202,014,2021
+EST,2,Estonia,2,High income,0,1,,233,Europe,Northern Europe,,150,154,,2021
+SWZ,2,Eswatini,7,Lower middle income,0,1,,748,Africa,Sub-Saharan Africa,Southern Africa,002,202,018,2021
+ETH,1,Ethiopia,7,Low income,1,1,,231,Africa,Sub-Saharan Africa,Eastern Africa,002,202,014,2021
+FJI,1,Fiji,1,Upper middle income,0,1,,242,Oceania,Melanesia,,009,054,,2021
+FIN,2,Finland,2,High income,0,1,,246,Europe,Northern Europe,,150,154,,2021
+FRA,2,France,2,High income,0,1,,250,Europe,Western Europe,,150,155,,2021
+GUF,3,French Guiana,,,0,1,,254,Americas,Latin America and the Caribbean,South America,019,419,005,2021
+GAB,2,Gabon,7,Upper middle income,0,1,,266,Africa,Sub-Saharan Africa,Middle Africa,002,202,017,2021
+GMB,1,Gambia (Republic of The),7,Low income,0,1,,270,Africa,Sub-Saharan Africa,Western Africa,002,202,011,2021
+GEO,2,Georgia,2,Upper middle income,1,1,,268,Asia,Western Asia,,142,145,,2021
+DEU,2,Germany,2,High income,1,1,,276,Europe,Western Europe,,150,155,,2021
+GHA,2,Ghana,7,Lower middle income,1,1,,288,Africa,Sub-Saharan Africa,Western Africa,002,202,011,2021
+GRC,2,Greece,2,High income,1,1,,300,Europe,Southern Europe,,150,039,,2021
+GRD,3,Grenada,3,Upper middle income,0,1,,308,Americas,Latin America and the Caribbean,Caribbean,019,419,029,2021
+GTM,1,Guatemala,3,Upper middle income,1,1,,320,Americas,Latin America and the Caribbean,Central America,019,419,013,2021
+GIN,2,Guinea,7,Low income,1,1,,324,Africa,Sub-Saharan Africa,Western Africa,002,202,011,2021
+GNB,2,Guinea-Bissau,7,Low income,1,1,,624,Africa,Sub-Saharan Africa,Western Africa,002,202,011,2021
+GUY,1,Guyana,3,Upper middle income,0,1,,328,Americas,Latin America and the Caribbean,South America,019,419,005,2021
+HTI,1,Haiti,3,Lower middle income,1,1,,332,Americas,Latin America and the Caribbean,Caribbean,019,419,029,2021
+HND,1,Honduras,3,Lower middle income,1,1,,340,Americas,Latin America and the Caribbean,Central America,019,419,013,2021
+HUN,2,Hungary,2,High income,1,1,,348,Europe,Eastern Europe,,150,151,,2021
+ISL,2,Iceland,2,High income,0,1,,352,Europe,Northern Europe,,150,154,,2021
+IND,1,India,6,Lower middle income,0,1,,356,Asia,Southern Asia,,142,034,,2021
+IDN,2,Indonesia,1,Lower middle income,1,1,,360,Asia,South-eastern Asia,,142,035,,2021
+IRN,1,Iran (Islamic Republic of),4,Lower middle income,0,1,,364,Asia,Southern Asia,,142,034,,2021
+IRQ,2,Iraq,4,Upper middle income,0,1,,368,Asia,Western Asia,,142,145,,2021
+IRL,1,Ireland,2,High income,0,1,,372,Europe,Northern Europe,,150,154,,2021
+ISR,3,Israel,4,High income,0,1,,376,Asia,Western Asia,,142,145,,2021
+ITA,2,Italy,2,High income,1,1,,380,Europe,Southern Europe,,150,039,,2021
+JAM,3,Jamaica,3,Upper middle income,0,1,,388,Americas,Latin America and the Caribbean,Caribbean,019,419,029,2021
+JPN,2,Japan,1,High income,1,1,,392,Asia,Eastern Asia,,142,030,,2021
+JOR,3,Jordan,4,Upper middle income,0,1,,400,Asia,Western Asia,,142,145,,2021
+KAZ,2,Kazakhstan,2,Upper middle income,1,1,,398,Asia,Central Asia,,142,143,,2021
+KEN,1,Kenya,7,Lower middle income,1,1,,404,Africa,Sub-Saharan Africa,Eastern Africa,002,202,014,2021
+KIR,3,Kiribati,1,Lower middle income,0,1,,296,Oceania,Micronesia,,009,057,,2021
+KWT,2,Kuwait,4,High income,1,1,,414,Asia,Western Asia,,142,145,,2021
+KGZ,2,Kyrgyzstan,2,Lower middle income,1,1,,417,Asia,Central Asia,,142,143,,2021
+LAO,2,Lao People's Democratic Republic,1,Lower middle income,0,1,,418,Asia,South-eastern Asia,,142,035,,2021
+LVA,2,Latvia,2,High income,0,1,,428,Europe,Northern Europe,,150,154,,2021
+LBN,3,Lebanon,4,Lower middle income,0,1,,422,Asia,Western Asia,,142,145,,2021
+LSO,2,Lesotho,7,Lower middle income,0,1,,426,Africa,Sub-Saharan Africa,Southern Africa,002,202,018,2021
+LBR,2,Liberia,7,Low income,0,1,,430,Africa,Sub-Saharan Africa,Western Africa,002,202,011,2021
+LBY,2,Libya,4,Upper middle income,0,1,,434,Africa,Northern Africa,,002,015,,2021
+LIE,3,Liechtenstein,2,High income,0,1,,438,Europe,Western Europe,,150,155,,2021
+LTU,2,Lithuania,2,High income,1,1,,440,Europe,Northern Europe,,150,154,,2021
+LUX,2,Luxembourg,2,High income,1,1,,442,Europe,Western Europe,,150,155,,2021
+MDG,2,Madagascar,7,Low income,1,1,,450,Africa,Sub-Saharan Africa,Eastern Africa,002,202,014,2021
+MWI,1,Malawi,7,Low income,1,1,,454,Africa,Sub-Saharan Africa,Eastern Africa,002,202,014,2021
+MYS,3,Malaysia,1,Upper middle income,0,1,,458,Asia,South-eastern Asia,,142,035,,2021
+MDV,1,Maldives,6,Upper middle income,0,1,,462,Asia,Southern Asia,,142,034,,2021
+MLI,2,Mali,7,Low income,1,1,,466,Africa,Sub-Saharan Africa,Western Africa,002,202,011,2021
+MLT,3,Malta,4,High income,0,1,,470,Europe,Southern Europe,,150,039,,2021
+MHL,2,Marshall Islands,1,Upper middle income,0,1,,584,Oceania,Micronesia,,009,057,,2021
+MRT,2,Mauritania,7,Lower middle income,0,1,,478,Africa,Sub-Saharan Africa,Western Africa,002,202,011,2021
+MUS,3,Mauritius,7,Upper middle income,0,1,,480,Africa,Sub-Saharan Africa,Eastern Africa,002,202,014,2021
+MEX,1,Mexico,3,Upper middle income,1,1,,484,Americas,Latin America and the Caribbean,Central America,019,419,013,2021
+FSM,3,Micronesia (Federated States of),1,Lower middle income,0,1,,583,Oceania,Micronesia,,009,057,,2021
+MCO,3,Monaco,2,High income,0,1,,492,Europe,Western Europe,,150,155,,2021
+MNG,2,Mongolia,1,Lower middle income,1,1,,496,Asia,Eastern Asia,,142,030,,2021
+MNE,2,Montenegro,2,Upper middle income,0,1,,499,Europe,Southern Europe,,150,039,,2021
+MAR,2,Morocco,4,Lower middle income,0,1,,504,Africa,Northern Africa,,002,015,,2021
+MOZ,2,Mozambique,7,Low income,1,1,,508,Africa,Sub-Saharan Africa,Eastern Africa,002,202,014,2021
+MMR,1,Myanmar,1,Lower middle income,0,1,,104,Asia,South-eastern Asia,,142,035,,2021
+NAM,1,Namibia,7,Upper middle income,0,1,,516,Africa,Sub-Saharan Africa,Southern Africa,002,202,018,2021
+NRU,3,Nauru,1,High income,0,1,,520,Oceania,Micronesia,,009,057,,2021
+NPL,1,Nepal,6,Lower middle income,1,1,,524,Asia,Southern Asia,,142,034,,2021
+NLD,2,Netherlands,2,High income,1,1,,528,Europe,Western Europe,,150,155,,2021
+NZL,3,New Zealand,1,High income,0,1,,554,Oceania,Australia and New Zealand,,009,053,,2021
+NIC,1,Nicaragua,3,Lower middle income,1,1,,558,Americas,Latin America and the Caribbean,Central America,019,419,013,2021
+NER,1,Niger,7,Low income,1,1,,562,Africa,Sub-Saharan Africa,Western Africa,002,202,011,2021
+NGA,1,Nigeria,7,Lower middle income,0,1,,566,Africa,Sub-Saharan Africa,Western Africa,002,202,011,2021
+MKD,2,North Macedonia,2,Upper middle income,1,1,,807,Europe,Southern Europe,,150,039,,2021
+NOR,2,Norway,2,High income,0,1,,578,Europe,Northern Europe,,150,154,,2021
+OMN,2,Oman,4,High income,1,1,,512,Asia,Western Asia,,142,145,,2021
+PAK,1,Pakistan,6,Lower middle income,0,1,,586,Asia,Southern Asia,,142,034,,2021
+PLW,2,Palau,1,Upper middle income,0,1,,585,Oceania,Micronesia,,009,057,,2021
+PAN,1,Panama,3,High income,1,1,,591,Americas,Latin America and the Caribbean,Central America,019,419,013,2021
+PNG,1,Papua New Guinea,1,Lower middle income,0,1,,598,Oceania,Melanesia,,009,054,,2021
+PRY,1,Paraguay,3,Upper middle income,1,1,,600,Americas,Latin America and the Caribbean,South America,019,419,005,2021
+PER,2,Peru,3,Upper middle income,1,1,,604,Americas,Latin America and the Caribbean,South America,019,419,005,2021
+PHL,1,Philippines,1,Lower middle income,0,1,,608,Asia,South-eastern Asia,,142,035,,2021
+POL,2,Poland,2,High income,1,1,,616,Europe,Eastern Europe,,150,151,,2021
+PRT,2,Portugal,2,High income,1,1,,620,Europe,Southern Europe,,150,039,,2021
+QAT,2,Qatar,4,High income,1,1,,634,Asia,Western Asia,,142,145,,2021
+KOR,2,Republic of Korea,1,High income,1,1,,410,Asia,Eastern Asia,,142,030,,2021
+MDA,1,Republic of Moldova,2,Upper middle income,1,1,,498,Europe,Eastern Europe,,150,151,,2021
+ROU,2,Romania,2,High income,1,1,,642,Europe,Eastern Europe,,150,151,,2021
+RUS,2,Russian Federation,2,Upper middle income,1,1,,643,Europe,Eastern Europe,,150,151,,2021
+RWA,2,Rwanda,7,Low income,1,1,,646,Africa,Sub-Saharan Africa,Eastern Africa,002,202,014,2021
+KNA,3,Saint Kitts and Nevis,3,High income,0,1,,659,Americas,Latin America and the Caribbean,Caribbean,019,419,029,2021
+LCA,3,Saint Lucia,3,Upper middle income,0,1,,662,Americas,Latin America and the Caribbean,Caribbean,019,419,029,2021
+VCT,3,Saint Vincent and the Grenadines,3,Upper middle income,0,1,,670,Americas,Latin America and the Caribbean,Caribbean,019,419,029,2021
+WSM,3,Samoa,1,Lower middle income,0,1,,882,Oceania,Polynesia,,009,061,,2021
+SMR,2,San Marino,2,High income,0,1,,674,Europe,Southern Europe,,150,039,,2021
+STP,2,Sao Tome and Principe,7,Lower middle income,0,1,,678,Africa,Sub-Saharan Africa,Middle Africa,002,202,017,2021
+SAU,2,Saudi Arabia,4,High income,1,1,,682,Asia,Western Asia,,142,145,,2021
+SEN,2,Senegal,7,Lower middle income,1,1,,686,Africa,Sub-Saharan Africa,Western Africa,002,202,011,2021
+SRB,2,Serbia,2,Upper middle income,1,1,,688,Europe,Southern Europe,,150,039,,2021
+SYC,2,Seychelles,7,High income,1,1,,690,Africa,Sub-Saharan Africa,Eastern Africa,002,202,014,2021
+SLE,2,Sierra Leone,7,Low income,0,1,,694,Africa,Sub-Saharan Africa,Western Africa,002,202,011,2021
+SGP,3,Singapore,1,High income,0,1,,702,Asia,South-eastern Asia,,142,035,,2021
+SVK,2,Slovakia,2,High income,1,1,,703,Europe,Eastern Europe,,150,151,,2021
+SVN,2,Slovenia,2,High income,0,1,,705,Europe,Southern Europe,,150,039,,2021
+SLB,3,Solomon Islands,1,Lower middle income,0,1,,090,Oceania,Melanesia,,009,054,,2021
+SOM,2,Somalia,7,Low income,0,1,,706,Africa,Sub-Saharan Africa,Eastern Africa,002,202,014,2021
+ZAF,1,South Africa,7,Upper middle income,1,1,,710,Africa,Sub-Saharan Africa,Southern Africa,002,202,018,2021
+SSD,1,South Sudan,7,Low income,1,1,,728,Africa,Sub-Saharan Africa,Eastern Africa,002,202,014,2021
+ESP,2,Spain,2,High income,1,1,,724,Europe,Southern Europe,,150,039,,2021
+LKA,1,Sri Lanka,6,Lower middle income,0,1,,144,Asia,Southern Asia,,142,034,,2021
+SDN,2,Sudan,7,Low income,1,1,,729,Africa,Northern Africa,,002,015,,2021
+SUR,1,Suriname,3,Upper middle income,0,1,,740,Americas,Latin America and the Caribbean,South America,019,419,005,2021
+SWE,2,Sweden,2,High income,0,1,,752,Europe,Northern Europe,,150,154,,2021
+CHE,1,Switzerland,2,High income,1,1,,756,Europe,Western Europe,,150,155,,2021
+SYR,2,Syrian Arab Republic,4,Low income,0,1,,760,Asia,Western Asia,,142,145,,2021
+TJK,2,Tajikistan,2,Lower middle income,1,1,,762,Asia,Central Asia,,142,143,,2021
+THA,2,Thailand,1,Upper middle income,0,1,,764,Asia,South-eastern Asia,,142,035,,2021
+TLS,2,Timor-Leste,1,Lower middle income,1,1,,626,Asia,South-eastern Asia,,142,035,,2021
+TGO,2,Togo,7,Low income,1,1,,768,Africa,Sub-Saharan Africa,Western Africa,002,202,011,2021
+TON,3,Tonga,1,Upper middle income,0,1,,776,Oceania,Polynesia,,009,061,,2021
+TTO,3,Trinidad and Tobago,3,High income,0,1,,780,Americas,Latin America and the Caribbean,Caribbean,019,419,029,2021
+TUN,2,Tunisia,4,Lower middle income,1,1,,788,Africa,Northern Africa,,002,015,,2021
+TKM,2,Turkmenistan,2,Upper middle income,1,1,,795,Asia,Central Asia,,142,143,,2021
+TUV,2,Tuvalu,1,Upper middle income,0,1,,798,Oceania,Polynesia,,009,061,,2021
+TUR,2,Türkiye,2,Upper middle income,1,1,,792,Asia,Western Asia,,142,145,,2021
+UGA,1,Uganda,7,Low income,0,1,,800,Africa,Sub-Saharan Africa,Eastern Africa,002,202,014,2021
+UKR,1,Ukraine,2,Lower middle income,1,1,,804,Europe,Eastern Europe,,150,151,,2021
+ARE,2,United Arab Emirates,4,High income,0,1,,784,Asia,Western Asia,,142,145,,2021
+GBR,3,United Kingdom of Great Britain and Northern Ireland,2,High income,0,1,,826,Europe,Northern Europe,,150,154,,2021
+TZA,1,United Republic of Tanzania,7,Lower middle income,0,1,,834,Africa,Sub-Saharan Africa,Eastern Africa,002,202,014,2021
+USA,3,United States of America,5,High income,0,1,,840,Americas,Northern America,,019,021,,2021
+URY,2,Uruguay,3,High income,0,1,,858,Americas,Latin America and the Caribbean,South America,019,419,005,2021
+UZB,2,Uzbekistan,2,Lower middle income,0,1,,860,Asia,Central Asia,,142,143,,2021
+VUT,3,Vanuatu,1,Lower middle income,0,1,,548,Oceania,Melanesia,,009,054,,2021
+VEN,1,"Venezuela, Bolivarian Republic of",3,,1,1,,862,Americas,Latin America and the Caribbean,South America,019,419,005,2021
+VNM,2,Viet Nam,1,Lower middle income,0,1,,704,Asia,South-eastern Asia,,142,035,,2021
+YEM,2,Yemen,4,Low income,0,1,,887,Asia,Western Asia,,142,145,,2021
+ZMB,2,Zambia,7,Low income,0,1,,894,Africa,Sub-Saharan Africa,Eastern Africa,002,202,014,2021
+ZWE,1,Zimbabwe,7,Lower middle income,1,1,,716,Africa,Sub-Saharan Africa,Eastern Africa,002,202,014,2021
