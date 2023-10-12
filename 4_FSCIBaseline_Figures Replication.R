@@ -60,13 +60,13 @@
 # Load dataset #################################################################
   
    # Baseline dataset:
-  fsci_latest <- read_dta(file.path(data_in, "Supplementary Data - Appendix F - Baseline dataset.dta"))
+  fsci_latest <- read_dta("Supplementary Data - Appendix F - Baseline dataset.dta")
   
   # Baseline dataset + weighting variables for weighted means
   fsci_data_weights <- read_dta(file.path(data_in, "FSCI_2022_latestyear_withweightvars.dta"))
   
   # Metadata file used for labels, weighting by classification, and desirable direction of change
-  metadata <- read_excel(("Supplementary Data - Appendix E - Metadata and Codebook.xlsx"),
+  metadata <- read_excel(("FSCI Baseline_Supplementary Data - Appendix E - Metadata and Codebook.xlsx"),
                          sheet = "Coverage + Labels") %>%
     select(-c(15:16))
   
@@ -3954,7 +3954,7 @@ ggsave(file.path(fig_out, "Figure 3.png"), width = 11, height = 8.5, dpi = 300, 
   # Map
      food_map <-tm_shape(fooddata_simple) + tm_polygons("foodsafety",
                                                        style="cont",
-                                                       breaks=c(0,20,40,60,80,100, 1000),
+                                                       breaks=c(0,20,40,60,80,100),
                                                        palette= color10,
                                                        title="% Food safety attributes attained by country",
                                                        legend.is.portrait=FALSE,

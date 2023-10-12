@@ -4307,6 +4307,11 @@ tab2 country fsci_regions
 	save FSCI_2022_latestyear_withweightvars, replace
 	export delimited using FSCI_2022_latestyear_withweightvars, replace
 	
+	* Reorder variables
+	order country country ISO incgrp fsci_regions, first
+	save "Supplementary Data - Appendix F - Baseline dataset.dta", replace
+	export excel using "Supplementary Data - Appendix F - Baseline dataset", firstrow(varlabels) replace
+	
 // Create dataset with weighting variables for all years
 use FSCI_2022_timeseries, clear
 	preserve
