@@ -1,10 +1,18 @@
 ################################################################################ 
-## FSCI 2022 FIGURE REPLICATION SCRIPT ######################################### 
-## Created by: FSCI Data team
-## Last revised: 10 July 2023
+## FSCI 2022 FIGURE REPLICATION SCRIPT #########################################
+## Replicates all figures in:
+##   "The state of food systems worldwide in the countdown to 2030"
+## Created by: Kate Schneider
+## Last revised: 29 October 2023
 ## Contact: Kate Schneider, kschne29@jhu.edu
-## Input datasets: See Metadata and Codebook
+## Input datasets: See Metadata and Codebook, and Stata Data Management replication code
+##      Baseline dataset: https://github.com/KateSchneider-FoodPol/FSCI_2023Baseline_Replication/blob/552a860f9f3fda4e0116d42690f6b9c86773f458/Supplementary%20Data%20-%20Appendix%20F%20-%20Baseline%20dataset.xlsx
+##          (and labeled in Stata format: https://github.com/KateSchneider-FoodPol/FSCI_2023Baseline_Replication/blob/552a860f9f3fda4e0116d42690f6b9c86773f458/Supplementary%20Data%20-%20Appendix%20F%20-%20Baseline%20dataset.dta)
+##      Time series and indicator-specific datasets available here:
+##          https://github.com/KateSchneider-FoodPol/FSCI_2023Baseline_Replication/tree/552a860f9f3fda4e0116d42690f6b9c86773f458/FSCI%20analysis%20datasets
 ## Metadata and codebook: Supplementary Material - Appendix E - Metadata and Codebook
+##    Available here: 
+##      https://github.com/KateSchneider-FoodPol/FSCI_2023Baseline_Replication/blob/552a860f9f3fda4e0116d42690f6b9c86773f458/FSCI%20Baseline_Supplementary%20Data%20-%20Appendix%20E%20-%20Metadata%20and%20Codebook.xlsx
 ################################################################################ 
 
 ################################################################################ 

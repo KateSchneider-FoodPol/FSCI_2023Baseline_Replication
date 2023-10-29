@@ -1,14 +1,14 @@
 /* 
-Food Systems Countdown to 2030 Initiative 2022 Data Management
+Replication of data management for: The state of food systems worldwide in the countdown to 2030
 Created: 29 June 2022
-Last modified: 1 November 2022
+Last modified: 29 October 2023
 Kate Schneider, kschne29@jhu.edu
 
 Purpose: this script ingests raw datasets and extracts, reshapes, and calculates the selected FSCI indicators. 
-Input data and metadata can be found here: [link to metadata spreadsheet]
-Output datasets can be found here: [link to Harvard Dataverse datasets]
+Input data and metadata can be found here: 
+https://github.com/KateSchneider-FoodPol/FSCI_2023Baseline_Replication/blob/552a860f9f3fda4e0116d42690f6b9c86773f458/FSCI%20Baseline_Supplementary%20Data%20-%20Appendix%20E%20-%20Metadata%20and%20Codebook.xlsx
+Output datasets can be found here: https://github.com/KateSchneider-FoodPol/FSCI_2023Baseline_Replication/tree/552a860f9f3fda4e0116d42690f6b9c86773f458/FSCI%20analysis%20datasets
 */
-*stop // breaks code to prevent accidental Ctrl+D running full do file
 * Date
 display "$S_DATE"
 

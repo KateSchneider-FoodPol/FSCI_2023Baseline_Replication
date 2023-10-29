@@ -1,10 +1,10 @@
 # FSCI_2023Baseline_Replication
-Replication files for Schneider et al (2023) "The State of the World's Food Systems: Countding Down to 2030"
+Replication files for Schneider et al (2023) "The state of food systems worldwide in the countdown to 2030"
 
 FSCI Replication Workflow
 Creator: Kate Schneider
-Purpose: Replicate the workflow to create the dataset and analyses for Schneider et al (2023), "The State of the World's Food Systems: Counting Down to 2030"
-Last updated: 10 September 2023
+Purpose: Replicate the workflow to create the dataset and analyses for Schneider et al (2023), "The state of food systems worldwide in the countdown to 2030"
+Last updated: 29 October 2023
 
 1. Metadata spreadsheet lists original source and download instructions for all raw datasets.
 2. Raw data saved in "Raw data"
