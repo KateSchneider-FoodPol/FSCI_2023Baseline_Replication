@@ -5,6 +5,8 @@ FSCI Replication Workflow
 Creator: Kate Schneider
 Purpose: Replicate the workflow to create the dataset and analyses for Schneider et al (2023), "The state of food systems worldwide in the countdown to 2030"
 Last updated: 29 October 2023
+License: CC-BY-SA-ND-4.0 (see LICENSE document for more information)
+Archived Dataset DOI: 
 
 1. Metadata spreadsheet lists original source and download instructions for all raw datasets.
 2. Raw data saved in "Raw data"
@@ -25,4 +27,4 @@ Explanation of analysis datasets: This folder contains individual data frames (i
 - FSCI_2022_timeseries: the time series compiled dataset
 - FSCI_2022_timeseries_withweightvars: the time series compiled dataset, also including the additional variables needed for the weighted means
 
-Send any questions to: kschne29@jhu.edu
+Send any questions to: kschne29 {at} jhu.edu or kateschneider.phd {at} gmail.com

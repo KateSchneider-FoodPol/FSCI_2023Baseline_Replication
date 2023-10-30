@@ -166,28 +166,31 @@
                  fill = value)) +
     geom_tile(colour="white", size=0.2) +
     facet_wrap(~theme, ncol = 1, scales = "free_y", strip.position = "right",
-               labeller = label_wrap_gen(width = 25, multi_line = TRUE)) +
+               labeller = label_wrap_gen(width = 35, multi_line = TRUE)) +
     scale_fill_gradientn(colors = grayblue, na.value="white",
                         breaks=c(1,5,10,15,20,23), labels=c(1,5,10,15,20,23),
                         limits=c(1,23)) + 
     labs(x = "", y = "") + 
     scale_y_discrete(limits=rev) +
-    theme(axis.text.x  = element_text(angle=90, size=4, hjust=1,vjust=0.2), 
-          axis.text.y  = element_text(size=6, vjust=0.2, hjust=0.95),
-          strip.text = element_text(size = 7)) +
-    guides(fill = guide_colourbar(title = "Number of years with data")) +
+    theme(axis.text.x  = element_text(angle=90, size=3, hjust=1,vjust=0.2), 
+          axis.text.y  = element_text(size=5, vjust=0.2, hjust=0.95),
+          strip.text = element_text(size = 5)) +
+    guides(fill = guide_colourbar(title = "Number of years with data",
+                                  title.theme = element_text(size = 5),
+                                  label.theme = element_text(size = 5))) +
     theme(legend.position = "bottom",
-          legend.margin=margin(t=-50),
-          legend.justification=c(0,1))
+          legend.margin=margin(t=-47),
+          legend.justification=c(0,1),
+          plot.margin=grid::unit(c(0,0,0,-4), "mm"))
   
-  ggsave(file.path(fig_out, "Figure 2.png"), 
-         width = 11, height = 8, dpi = 300, units = "in")
+  ggsave(file.path(fig_out, "Figure 2.pdf"), 
+         width = 185, height = 180, dpi = 300, units = "mm")
 
 #########
 ## HISTOGRAMS FOR TABLE 1
-df <- fsci_latest %>% select(c(1:5, 25:97)) %>%
+df <- fsci_latest %>% select(c(1:77)) %>%
     select(-c("unemp_tot", "unemp_u", "underemp_tot", "underemp_u"))
-vars <- names(df[6:74])
+vars <- names(df[5:73])
 for (var in vars) {
   pltName <- paste( '/hist', var, ".png", sep = '' )
   g <- ggplot(df, aes(x=get(var))) + 
@@ -238,20 +241,20 @@ for (var in vars) {
   }
   
   # Loop over indicators
-  fsci_data_torank <- fsci_latest %>% select(c(1:5, 25:97)) %>%
+  fsci_data_torank <- fsci_latest %>% select(c(1:77)) %>%
     select(-c("unemp_tot", "unemp_u", "underemp_tot", "underemp_u"))
   sapply(fsci_data_torank, class)
-  columns_to_rank <- c(6:74)
+  columns_to_rank <- c(5:73)
   df_ranked_asc <- addRankColumns_asc(fsci_data_torank, columns_to_rank)
   df_ranked_desc <- addRankColumns_desc(fsci_data_torank, columns_to_rank)
-  df_ranked_asc <- df_ranked_asc %>% select(-c(6:74))
-  df_ranked_desc <- df_ranked_desc %>% select(-c(6:74))
+  df_ranked_asc <- df_ranked_asc %>% select(-c(5:73))
+  df_ranked_desc <- df_ranked_desc %>% select(-c(5:73))
   
   # Reshape long and merge in metadata
-  df_ranked_asc <- df_ranked_asc %>% pivot_longer(6:74, names_to = "indicator", values_to = "rank")
+  df_ranked_asc <- df_ranked_asc %>% pivot_longer(5:73, names_to = "indicator", values_to = "rank")
   df_ranked_asc$indicator <- sub("^rank_", "", df_ranked_asc$indicator)
   df_ranked_asc <- df_ranked_asc %>% left_join(x = df_ranked_asc, y = metadata2, by = "indicator")
-  df_ranked_desc <- df_ranked_desc %>% pivot_longer(6:74, names_to = "indicator", values_to = "rank")
+  df_ranked_desc <- df_ranked_desc %>% pivot_longer(5:73, names_to = "indicator", values_to = "rank")
   df_ranked_desc$indicator <- sub("^rank_", "", df_ranked_desc$indicator)
   df_ranked_desc <- df_ranked_desc %>% left_join(x = df_ranked_desc, y = metadata2, by = "indicator")
   
@@ -281,8 +284,8 @@ for (var in vars) {
     stringsAsFactors = FALSE
   )
   
-  # Loop over columns 6 to 70
-  for (col_index in 6:70) {
+  # Loop over columns 5 to 69
+  for (col_index in 5:69) {
     col_name <- colnames(df)[col_index]
     
     # Get the top 5 and bottom 5 observations for the current column
@@ -354,7 +357,7 @@ for (var in vars) {
         
         ### RANKINGS for TABLE 1
         write.xlsx(top_bottom,
-                   "C:\\Users\\Kate S\\OneDrive - Johns Hopkins\\FSCI\\FSCI Data team\\Baseline - Data Analysis Workstream\\Analysis results\\FSCI2022_Ranking results.xlsx", 
+                   "Analysis results\\FSCI2022_Ranking results.xlsx", 
                    colNames = TRUE, sheetName="Rankings")
 
   # Calculate the average rank for each country by domain
@@ -371,7 +374,7 @@ for (var in vars) {
   # Calculate the average rank for each country by theme
   rank_meanbytheme <- df_ranked %>% 
     select(-c(domain)) %>%
-    group_by(ISO, m49_code, country, incgrp, fsci_regions, theme) %>%
+    group_by(ISO, country, incgrp, fsci_regions, theme) %>%
     summarise(rank_mean = mean(rank, na.rm = TRUE))
   rank_meanbytheme <- rank_meanbytheme %>%
     mutate(rank_mean = round(rank_mean, digits = 0))
@@ -382,9 +385,7 @@ for (var in vars) {
   
   
   ### Stacked bar chart for each income group
-  data <- rank_meanbytheme %>% ungroup() %>%
-    #filter(incgrp == "Low income") %>%
-    select(-c(2:3,5))
+  data <- rank_meanbytheme %>% ungroup() 
   tot <- data %>% group_by(ISO) %>% summarise(tot=sum(rank_mean))
   data <- left_join(x = data, y = tot, by = "ISO") %>%
     filter(incgrp != "") %>%
@@ -412,9 +413,10 @@ for (var in vars) {
 
    plot<- ggplot(data, aes(x = as.factor(country), y = rank_mean, fill = theme)) +
     geom_bar(stat = "identity") +
-    geom_text(aes(label = country), y = (data$tot+21), size = 2.25, color = "black", angle = 90) +
     facet_wrap(incgrp ~ ., scales = "free_x") +
-    labs(title="", x="", y="") + 
+     geom_text(aes(label = country), y = (data$tot+10), size = 1.5, 
+               color = "black", angle = 90) +
+     labs(title="", x="", y="") + 
     scale_fill_manual(values = Blues) +
     geom_hline(yintercept = 404) +
     theme(legend.position = 'bottom', 
@@ -422,45 +424,45 @@ for (var in vars) {
       axis.ticks.x=element_blank(),
       axis.text.y=element_blank(),
       axis.ticks.y=element_blank(),
-      axis.title=element_text(size=10),
-      legend.text=element_text(size=10),
+      axis.title=element_text(size=5),
+      legend.text=element_text(size=5),
       legend.title = element_blank(),
       strip.background = element_blank(),
       panel.background = element_blank()) +
     guides(fill = guide_legend(nrow = 2)) 
   
-plottext <- plot + geom_text(x = 5, y = 415, aes(label = label), data = f_labels, size = 3)
-
+plottext <- plot + geom_text(x = 6.75, y = 420, aes(label = label), 
+                             data = f_labels, size = 3)
     # Add label
     text1 <- ggplot() +
       annotate("text", x = 1,  y = 1,
-               size = 4, color = "black",
+               size = 3, color = "black",
                label = "Bottom ranking",
-               angle=90, hjust = -.05) + theme_void()
+               angle=90, hjust = -.25) + theme_void()
     arrow1 <- ggplot() +
       annotate("segment", x = 0, xend = 0, y = 1, yend = 1.1,
-               colour = "black", size = .5, arrow = arrow()) + theme_void()
+               colour = "black", size = .35, arrow = arrow()) + theme_void()
     space <- ggplot() +
       annotate("text", x = 1,  y = 1,
-               size = 5, color = "black",
+               size = 1, color = "black",
                label = "         ",
                angle=90, hjust = -.05) + theme_void()
     text2 <- ggplot() +
       annotate("text", x = 1,  y = 1,
-               size = 4, color = "black",
+               size = 3, color = "black",
                label = "Top ranking",
-               angle=90, hjust = 1.2) + theme_void()
+               angle=90, hjust = 1.5) + theme_void()
     arrow2 <- ggplot() +
       annotate("segment", x = 0, xend = 0, y = 1.1, yend = 1,
-               colour = "black", size = .5, arrow = arrow()) + theme_void() 
+               colour = "black", size = .35, arrow = arrow()) + theme_void() 
     p1 <- plot_grid(arrow1, text1, nrow = 2, ncol = 1, rel_heights = c(1,4))
     p2 <- plot_grid(text2, arrow2, nrow = 2, ncol = 1, rel_heights = c(4,1))
     p1s <- plot_grid(space, p1, nrow = 2, ncol = 1, rel_heights = c(1,4))
-    p2s <- plot_grid(p2, space, nrow = 2, ncol = 1, rel_heights = c(3,1))
+    p2s <- plot_grid(p2, space, nrow = 2, ncol = 1, rel_heights = c(4,1))
     left <- plot_grid(p1s, p2s, nrow = 2, ncol = 1)
-    plot_grid(left, plottext, nrow = 1, ncol = 2, rel_widths = c(1,20))
+    plot_grid(left, plottext, nrow = 1, ncol = 2, rel_widths = c(1,30))
     
-ggsave(file.path(fig_out, "Figure 3.png"), width = 11, height = 8.5, dpi = 300, units = "in")
+ggsave(file.path(fig_out, "Figure 3.pdf"), width = 185, height = 185, dpi = 300, units = "mm")
     
 ############
 ## Figure 4
@@ -604,7 +606,7 @@ ggsave(file.path(fig_out, "Figure 3.png"), width = 11, height = 8.5, dpi = 300, 
     scale_x_discrete(limits=rev) +
     facet_grid(theme ~ ., scales = "free_y", space = "free_y", switch = "y", 
                labeller = label_wrap_gen(width = 20, multi_line = TRUE)) +
-    theme_classic() + theme(strip.text = element_text(size = 10),
+    theme_classic() + theme(strip.text = element_text(size = 7),
                             strip.placement = "outside",
                             legend.position="none",
                             # remove background colour from facet labels
@@ -612,10 +614,10 @@ ggsave(file.path(fig_out, "Figure 3.png"), width = 11, height = 8.5, dpi = 300, 
                             # remove border from facet label
                             panel.border = element_blank(),
                             # make continent names horizontal
-                            axis.text=element_text(size=10),
-                            axis.title=element_text(size=10),
-                            legend.text=element_text(size=12),
-                            legend.title = element_text(size = 12)) + 
+                            axis.text=element_text(size=7),
+                            axis.title=element_text(size=7),
+                            legend.text=element_text(size=7),
+                            legend.title = element_text(size = 7)) + 
     ylab("") +
     grids(axis = c("y"), linetype = "solid", color = "gray")
   plota
@@ -630,7 +632,7 @@ ggsave(file.path(fig_out, "Figure 3.png"), width = 11, height = 8.5, dpi = 300, 
     scale_y_continuous(limits = c(-1,1)) +
     scale_x_discrete(limits=rev) +
     facet_grid(theme ~ ., scales = "free_y", space = "free_y", switch = "y") + 
-    theme_classic() + theme(strip.text = element_text(size = 10),
+    theme_classic() + theme(strip.text = element_text(size = 7),
                             strip.placement = "outside",
                             legend.position="none",
                             # remove background colour from facet labels
@@ -638,10 +640,10 @@ ggsave(file.path(fig_out, "Figure 3.png"), width = 11, height = 8.5, dpi = 300, 
                             # remove border from facet label
                             panel.border = element_blank(),
                             # make continent names horizontal
-                            axis.text=element_text(size=10),
-                            axis.title=element_text(size=10),
-                            legend.text=element_text(size=12),
-                            legend.title = element_text(size = 12)) + 
+                            axis.text=element_text(size=7),
+                            axis.title=element_text(size=7),
+                            legend.text=element_text(size=7),
+                            legend.title = element_text(size = 7)) + 
     ylab("") +
     grids(axis = c("y"), linetype = "solid", color = "gray")
   plotb
@@ -660,7 +662,7 @@ ggsave(file.path(fig_out, "Figure 3.png"), width = 11, height = 8.5, dpi = 300, 
     scale_y_continuous(limits = c(-1,1)) +
     scale_x_discrete(limits=rev) +
     facet_grid(theme ~ ., scales = "free_y", space = "free_y", switch = "y") +
-    theme_classic() + theme(strip.text = element_text(size = 10),
+    theme_classic() + theme(strip.text = element_text(size = 7),
                             strip.placement = "bottom",
                             legend.position="bottom",
                             # remove background colour from facet labels
@@ -668,18 +670,18 @@ ggsave(file.path(fig_out, "Figure 3.png"), width = 11, height = 8.5, dpi = 300, 
                             # remove border from facet label
                             panel.border = element_blank(),
                             # make continent names horizontal
-                            axis.text=element_text(size=10),
-                            axis.title=element_text(size=10),
-                            legend.text=element_text(size=10),
-                            legend.title = element_text(size = 10, face = "bold")) + 
+                            axis.text=element_text(size=7),
+                            axis.title=element_text(size=7),
+                            legend.text=element_text(size=7),
+                            legend.title = element_text(size = 7, face = "bold")) + 
     ylab("Normalized distance to global mean, sign aligned to desirable direction") 
   plotlegend <- get_legend(legend)
   step1 <- plot_grid(plota, plotb) 
-  step2 <- ggdraw(add_sub(step1,"Normalized distance to global mean (max-min scaling relative to global country-level values).\n Black vertical line indicates global mean, centered at 0. Sign aligned to desirable direction.",
-                          size = 10))
+  step2 <- ggdraw(add_sub(step1,"Normalized distance to global mean (max-min scaling relative to global country-level values). Black vertical line indicates global mean, centered at 0.\nSign aligned to desirable direction.",
+                          size = 7))
   plotfig3 <- plot_grid(step2, NULL, plotlegend, nrow = 3, rel_heights = c(1,0,.1))
   plotfig3
-  ggsave(file.path(fig_out, "Figure 4.png"), width = 11, height = 8.5, dpi = 300, units = "in")
+  ggsave(file.path(fig_out, "Figure 4.pdf"), width = 185, height = 185, dpi = 300, units = "mm")
   # Figure footnote:
   # Normalized distance to global mean (weighted means following weights defined in Table 1) is calculated relative to the global mean and scaled to the minimum and maximum of income group mean, per indicator (global mean centered at 0).  The sign of the normalized distance has been reversed for all indicators where a lower value is more desirable, such that -1 can be interpreted as "worse than" and 1 can be interpreted as “better than" the global mean. Number of people who cannot afford a healthy diet and Degree of legal recognition of the right to food not shown. Product mix in aggregate categories of emissions intensities (cereals) and yields (cereals, citrus, fruit, pulses, roots and tubers, and vegetables) differ across countries.
   
@@ -1238,6 +1240,14 @@ ggsave(file.path(fig_out, "Figure 3.png"), width = 11, height = 8.5, dpi = 300, 
       data$year <- factor(data$year, levels=c("2017", "2018", "2019", "2020"))
       data <- data %>% mutate(fsci_regions = as.factor(fsci_regions))
       
+      summary(data)
+      Nyear <- data %>% group_by(year, fsci_regions) %>% 
+        summarise(sample_size = n()) %>%
+        pivot_wider(names_from = year, values_from = sample_size)
+      table <- kable(Nyear, format = "html", align = "c") %>%
+        kable_styling(bootstrap_options = "striped", full_width = FALSE)
+      table 
+      
       cohd <- ggplot(data, aes(x=year, y=cohd, color = fsci_regions, fill = fsci_regions)) +
         geom_violin(trim = FALSE) +
         scale_color_manual(values = regions) + scale_fill_manual(values = regions) +
@@ -1267,6 +1277,15 @@ ggsave(file.path(fig_out, "Figure 3.png"), width = 11, height = 8.5, dpi = 300, 
       # Reorder and factor 
       data$year <- factor(data$year, levels=c("2017", "2018", "2019", "2020"))
 
+      # Sample size
+      summary(data)
+      Nyear <- data %>% group_by(year, incgrp) %>% 
+        summarise(sample_size = n()) %>%
+        pivot_wider(names_from = year, values_from = sample_size)
+      table <- kable(Nyear, format = "html", align = "c") %>%
+        kable_styling(bootstrap_options = "striped", full_width = FALSE)
+      table 
+      
       cohd <- ggplot(data, aes(x=year, y=cohd, color = incgrp, fill = incgrp)) +
         geom_violin(trim = FALSE) +
         scale_color_manual(values = incomescol) + scale_fill_manual(values = incomescol) +
@@ -1410,7 +1429,16 @@ ggsave(file.path(fig_out, "Figure 3.png"), width = 11, height = 8.5, dpi = 300, 
      #reorder by year 
      retaildata <- retaildata %>% mutate(fsci_regions = as.factor(fsci_regions),
                                          year = as.factor(year))
-       
+     
+     # Sample size
+     summary(retaildata)
+     Nyear <- retaildata %>% group_by(year, fsci_regions) %>% 
+       summarise(sample_size = n()) %>%
+       pivot_wider(names_from = year, values_from = sample_size)
+     table <- kable(Nyear, format = "html", align = "c") %>%
+       kable_styling(bootstrap_options = "striped", full_width = FALSE)
+     table 
+     
      upf <- ggplot(retaildata, aes(x=year, y=UPFretailval_percap, 
                              color = fsci_regions, fill = fsci_regions)) +
        geom_violin(trim = FALSE) +
@@ -1601,6 +1629,15 @@ ggsave(file.path(fig_out, "Figure 3.png"), width = 11, height = 8.5, dpi = 300, 
       data$fies_yearrange <- as.factor(data$fies_yearrange)
       data <- data %>% mutate(fsci_regions = as.factor(fsci_regions))
       
+      # Sample size
+      summary(data)
+      Nyear <- data %>% group_by(fies_yearrange, fsci_regions) %>% 
+        summarise(sample_size = n()) %>%
+        pivot_wider(names_from = fies_yearrange, values_from = sample_size)
+      table <- kable(Nyear, format = "html", align = "c") %>%
+        kable_styling(bootstrap_options = "striped", full_width = FALSE)
+      table 
+      
       fies <- ggplot(data, aes(x=fies_yearrange, y=fies_modsev, 
                                     color = fsci_regions, fill = fsci_regions)) +
         geom_boxplot(width=0.5)+ ylim(0, 100) +
@@ -1628,6 +1665,16 @@ ggsave(file.path(fig_out, "Figure 3.png"), width = 11, height = 8.5, dpi = 300, 
       data <- fsci_data %>%
         select(c("incgrp", "fies_yearrange", "fies_modsev", "country", "fsci_regions")) %>%
         drop_na()
+      
+      # Sample size
+      summary(data)
+      Nyear <- data %>% group_by(fies_yearrange, incgrp) %>% 
+        summarise(sample_size = n()) %>%
+        pivot_wider(names_from = fies_yearrange, values_from = sample_size)
+      table <- kable(Nyear, format = "html", align = "c") %>%
+        kable_styling(bootstrap_options = "striped", full_width = FALSE)
+      table 
+      
       
       fies <- ggplot(data, aes(x=fies_yearrange, y=fies_modsev, 
                                color = incgrp, fill = incgrp)) +
@@ -1660,6 +1707,14 @@ ggsave(file.path(fig_out, "Figure 3.png"), width = 11, height = 8.5, dpi = 300, 
     #reorder by year 
     costofdiet <- costofdiet %>% mutate(fsci_regions = as.factor(fsci_regions),
                                         year = as.factor(year))
+    # Sample size
+    summary(costofdiet)
+    Nyear <- costofdiet %>% group_by(year, fsci_regions) %>% 
+      summarise(sample_size = n()) %>%
+      pivot_wider(names_from = year, values_from = sample_size)
+    table <- kable(Nyear, format = "html", align = "c") %>%
+      kable_styling(bootstrap_options = "striped", full_width = FALSE)
+    table 
     
     costofdiet <- ggplot(costofdiet, aes(x=year, y=pctcantafford, 
                                   color = fsci_regions, fill = fsci_regions)) +
@@ -1684,6 +1739,16 @@ ggsave(file.path(fig_out, "Figure 3.png"), width = 11, height = 8.5, dpi = 300, 
     costofdiet<- select(fsci_data, c("country", "fsci_regions", "incgrp", "pctcantafford", "year")) %>%
       filter(!is.na(pctcantafford)) %>%
       mutate(year = as.factor(year))
+    
+    # Sample size
+    summary(costofdiet)
+    Nyear <- costofdiet %>% group_by(year, incgrp) %>% 
+      summarise(sample_size = n()) %>%
+      pivot_wider(names_from = year, values_from = sample_size)
+    table <- kable(Nyear, format = "html", align = "c") %>%
+      kable_styling(bootstrap_options = "striped", full_width = FALSE)
+    table 
+    
    
      costofdiet <- ggplot(costofdiet, aes(x=year, y=pctcantafford, 
                                          color = incgrp, fill = incgrp)) +
@@ -2348,6 +2413,14 @@ ggsave(file.path(fig_out, "Figure 3.png"), width = 11, height = 8.5, dpi = 300, 
     
     agwaterd <- agwaterd %>% mutate(fsci_regions = as.factor(fsci_regions),
                                         year = as.factor(year))
+    # Sample size
+    summary(agwaterd)
+    Nyear <- agwaterd %>% group_by(year, fsci_regions) %>% 
+      summarise(sample_size = n()) %>%
+      pivot_wider(names_from = year, values_from = sample_size)
+    table <- kable(Nyear, format = "html", align = "c") %>%
+      kable_styling(bootstrap_options = "striped", full_width = FALSE)
+    table 
     
     ggplot(agwaterd, aes(x=year, y=agwaterdraw, 
                                          color = fsci_regions, fill = fsci_regions)) +
@@ -2372,7 +2445,16 @@ ggsave(file.path(fig_out, "Figure 3.png"), width = 11, height = 8.5, dpi = 300, 
        drop_na(agwaterdraw, incgrp) %>%
        mutate(year = as.factor(year)) %>%
        filter(incgrp!="")
-
+     
+     # Sample size
+     summary(awwdata)
+     Nyear <- awwdata %>% group_by(year, incgrp) %>% 
+       summarise(sample_size = n()) %>%
+       pivot_wider(names_from = year, values_from = sample_size)
+     table <- kable(Nyear, format = "html", align = "c") %>%
+       kable_styling(bootstrap_options = "striped", full_width = FALSE)
+     table 
+     
      ggplot(awwdata, aes(x=year, y=agwaterdraw, 
                           color = incgrp, fill = incgrp)) +
        geom_boxplot(trim = FALSE) + ylim(0,100) +
@@ -2839,9 +2921,14 @@ ggsave(file.path(fig_out, "Figure 3.png"), width = 11, height = 8.5, dpi = 300, 
                                   '3' = "Undefined")  
       udata <- udata %>% filter(geog != "Undefined")
       #set up variable for year 2020
-      data <- filter(udata, year == "2020")
+      data <- filter(udata, year == 2020)
       data <- filter(udata, unemp!= "")
       
+      # Sample size in 2020
+      data2 <- data %>% filter(year == 2020)
+      unique_countries <- unique(data2$country)
+      num_unique_countries <- length(unique_countries)
+      print(num_unique_countries)
 
       #set up variables for sex
       totalpop <- filter(udata, agegroup == "Total population age 15+")
@@ -2911,6 +2998,15 @@ ggsave(file.path(fig_out, "Figure 3.png"), width = 11, height = 8.5, dpi = 300, 
         empdata$year <- as.factor(empdata$year)
         empdata <- empdata %>% mutate(fsci_regions = as.factor(fsci_regions))
         
+        # Sample size
+        summary(empdata)
+        Nyear <- empdata %>% group_by(year, fsci_regions) %>% 
+          summarise(sample_size = n()) %>%
+          pivot_wider(names_from = year, values_from = sample_size)
+        table <- kable(Nyear, format = "html", align = "c") %>%
+          kable_styling(bootstrap_options = "striped", full_width = FALSE)
+        table 
+        
         ggplot(empdata, aes(x=year, y=unemp, color = fsci_regions, fill = fsci_regions)) +
           geom_violin(trim = FALSE) +
           ylim(0,50) +
@@ -2937,6 +3033,16 @@ ggsave(file.path(fig_out, "Figure 3.png"), width = 11, height = 8.5, dpi = 300, 
           rename(underemp = underemp_tot) %>%
           mutate(fsci_regions = as.factor(fsci_regions),
                  year = as.factor(year))
+        
+        # Sample size
+        summary(empdata)
+        Nyear <- empdata %>% group_by(year, fsci_regions) %>% 
+          summarise(sample_size = n()) %>%
+          pivot_wider(names_from = year, values_from = sample_size)
+        table <- kable(Nyear, format = "html", align = "c") %>%
+          kable_styling(bootstrap_options = "striped", full_width = FALSE)
+        table 
+        
 
         ggplot(empdata, aes(x=year, y=underemp, color = fsci_regions, fill = fsci_regions)) +
           geom_violin(trim = FALSE) +
@@ -2962,6 +3068,16 @@ ggsave(file.path(fig_out, "Figure 3.png"), width = 11, height = 8.5, dpi = 300, 
           filter(year >= "2010") %>% drop_na(unemp_tot, incgrp) %>%
           rename(unemp = unemp_tot) %>%
           mutate(year = as.factor(year))
+        
+        # Sample size
+        summary(empdata)
+        Nyear <- empdata %>% group_by(year, incgrp) %>% 
+          summarise(sample_size = n()) %>%
+          pivot_wider(names_from = year, values_from = sample_size)
+        table <- kable(Nyear, format = "html", align = "c") %>%
+          kable_styling(bootstrap_options = "striped", full_width = FALSE)
+        table 
+        
 
         ggplot(empdata, aes(x=year, y=unemp, color = incgrp, fill = incgrp)) +
           geom_violin(trim = FALSE) +
@@ -2986,6 +3102,16 @@ ggsave(file.path(fig_out, "Figure 3.png"), width = 11, height = 8.5, dpi = 300, 
         filter(year >= "2010") %>% 
         drop_na(underemp_tot, incgrp) %>% rename(underemp = underemp_tot) %>%
         mutate(year = as.factor(year))
+      
+      # Sample size
+      summary(empdata)
+      Nyear <- empdata %>% group_by(year, incgrp) %>% 
+        summarise(sample_size = n()) %>%
+        pivot_wider(names_from = year, values_from = sample_size)
+      table <- kable(Nyear, format = "html", align = "c") %>%
+        kable_styling(bootstrap_options = "striped", full_width = FALSE)
+      table 
+      
       
       ggplot(empdata, aes(x=year, y=underemp, color = incgrp, fill = incgrp)) +
         geom_violin(trim = FALSE) +
@@ -4124,6 +4250,15 @@ ggsave(file.path(fig_out, "Figure 3.png"), width = 11, height = 8.5, dpi = 300, 
         drop_na(open_budget_index) %>% filter(incgrp != "") %>%
         mutate(year = as.factor(year))
       
+      # Sample size
+      summary(obidata)
+      Nyear <- obidata %>% group_by(year, incgrp) %>% 
+        summarise(sample_size = n()) %>%
+        pivot_wider(names_from = year, values_from = sample_size)
+      table <- kable(Nyear, format = "html", align = "c") %>%
+        kable_styling(bootstrap_options = "striped", full_width = FALSE)
+      table 
+      
       ggplot(obidata, aes(x=year, y=open_budget_index,
                              color = incgrp, fill = incgrp)) +
         geom_violin(trim = FALSE) + ylim(0,100) +
@@ -4304,6 +4439,11 @@ ggsave(file.path(fig_out, "Figure 3.png"), width = 11, height = 8.5, dpi = 300, 
 
       #convert the multiple columns/variables into one column 
       dsfi1_long <- melt(dsfi1)
+      
+      # Sample size
+      unique_countries <- unique(dsfi1_long$country)
+      num_unique_countries <- length(unique_countries)
+      print(num_unique_countries)
 
       # Plot the figure
       ggplot(dsfi1_long, aes(x=variable, y=value, fill=incgrp)) + ylab('Dietary sourcing flexibility index') +
