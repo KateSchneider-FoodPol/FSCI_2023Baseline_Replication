@@ -5,7 +5,7 @@ FSCI Replication Workflow
 Creator: Kate Schneider
 Purpose: Replicate the workflow to create the dataset and analyses for Schneider et al (2023), "The state of food systems worldwide in the countdown to 2030"
 Last updated: 29 October 2023
-License: CC-BY-SA-ND-4.0 (see LICENSE document for more information)
+License: CC-BY-NC-SA-4.0 (see LICENSE document for more information)
 Archived Dataset DOI: 
 
 1. Metadata spreadsheet lists original source and download instructions for all raw datasets.
