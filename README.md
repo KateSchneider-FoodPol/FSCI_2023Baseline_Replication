@@ -24,7 +24,7 @@ Explanation of analysis datasets: This folder contains individual data frames (i
 - FSCI_2022_latestyear: synonomyous with the baseline dataset found in the root folder, with the only difference being that there is some additional formatting to the baseline dataset labelled as "Supplementary Data - Appendix F - Baseline dataset" as an excel workbook so that it is a standalone human readable file.
 - FSCI_2022_latestyear_withweightvars: includes the additional variables needed to compute the weighted means
 - FSCI_2022_ltsyr_metadata: records the year of the latest year per country-indicator, and is copied as a sheet into the file "FSCI Baseline_Supplementary Data - Appendix E - Metadata and Codebook"
-- FSCI_2022_timeseries: the time series compiled dataset
+- FSCI 2023_Time series: the time series compiled dataset (synonymous with FSCI_2022_timeseries in the final analysis datasets folder)
 - FSCI_2022_timeseries_withweightvars: the time series compiled dataset, also including the additional variables needed for the weighted means
 
 Send any questions to: kschne29 {at} jhu.edu or kateschneider.phd {at} gmail.com
