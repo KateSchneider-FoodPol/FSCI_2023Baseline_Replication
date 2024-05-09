@@ -3702,7 +3702,7 @@ tab2 country fsci_regions
 				// Unit root tests
 					* Key features of the data that define most appropriate test:
 						* Unbalanced panel
-						* assumption that all panels share the same autoregressive parameter so that ρi = ρ for all i does not holdings
+						* assumption that all panels share the same autoregressive parameter so that ρi = ρ for all i does not hold
 						** --> only fisher-type and Im–Pesaran–Shin tests can be used
 					xtunitroot ips CPI_food, demean 
 					xtunitroot ips CPI_food, trend 
