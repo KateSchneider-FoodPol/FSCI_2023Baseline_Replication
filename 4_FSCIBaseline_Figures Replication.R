@@ -6,13 +6,13 @@
 ## Last revised: 29 October 2023
 ## Contact: Kate Schneider, kschne29@jhu.edu
 ## Input datasets: See Metadata and Codebook, and Stata Data Management replication code
-##      Baseline dataset: https://github.com/KateSchneider-FoodPol/FSCI_2023Baseline_Replication/blob/552a860f9f3fda4e0116d42690f6b9c86773f458/Supplementary%20Data%20-%20Appendix%20F%20-%20Baseline%20dataset.xlsx
-##          (and labeled in Stata format: https://github.com/KateSchneider-FoodPol/FSCI_2023Baseline_Replication/blob/552a860f9f3fda4e0116d42690f6b9c86773f458/Supplementary%20Data%20-%20Appendix%20F%20-%20Baseline%20dataset.dta)
+##      Baseline dataset: https://github.com/KateSchneider-FoodPol/FSCI_2023Baseline_Replication/blob/552a860f9f3fda4e0116d42690f6b9c86773f458/Supplementary%20Data%202%20-%20Baseline%20dataset.xlsx
+##          (and labeled in Stata format: https://github.com/KateSchneider-FoodPol/FSCI_2023Baseline_Replication/blob/552a860f9f3fda4e0116d42690f6b9c86773f458/Supplementary%20Data%202%20-%20Baseline%20dataset.dta)
 ##      Time series and indicator-specific datasets available here:
 ##          https://github.com/KateSchneider-FoodPol/FSCI_2023Baseline_Replication/tree/552a860f9f3fda4e0116d42690f6b9c86773f458/FSCI%20analysis%20datasets
-## Metadata and codebook: Supplementary Material - Appendix E - Metadata and Codebook
+## Metadata and codebook: Supplementary Data 1 - Metadata and Codebook
 ##    Available here: 
-##      https://github.com/KateSchneider-FoodPol/FSCI_2023Baseline_Replication/blob/552a860f9f3fda4e0116d42690f6b9c86773f458/FSCI%20Baseline_Supplementary%20Data%20-%20Appendix%20E%20-%20Metadata%20and%20Codebook.xlsx
+##      https://github.com/KateSchneider-FoodPol/FSCI_2023Baseline_Replication/blob/552a860f9f3fda4e0116d42690f6b9c86773f458/FSCI%20Baseline_Supplementary%20Data%201%20-%20Metadata%20and%20Codebook.xlsx
 ################################################################################ 
 
 ################################################################################ 
@@ -68,13 +68,13 @@
 # Load dataset #################################################################
   
    # Baseline dataset:
-  fsci_latest <- read_dta("Supplementary Data - Appendix F - Baseline dataset.dta")
+  fsci_latest <- read_dta("Supplementary Data 2 - Baseline dataset.dta")
   
   # Baseline dataset + weighting variables for weighted means
   fsci_data_weights <- read_dta(file.path(data_in, "FSCI_2022_latestyear_withweightvars.dta"))
   
   # Metadata file used for labels, weighting by classification, and desirable direction of change
-  metadata <- read_excel(("FSCI Baseline_Supplementary Data - Appendix E - Metadata and Codebook.xlsx"),
+  metadata <- read_excel(("FSCI Baseline_Supplementary Data 1 - Metadata and Codebook.xlsx"),
                          sheet = "Coverage + Labels") %>%
     select(-c(15:16))
   
@@ -693,7 +693,7 @@ ggsave(file.path(fig_out, "Figure 3.pdf"), width = 185, height = 185, dpi = 300,
 # SUPPLEMENTARY MATERIALS
 
 #########################################################################################################################################
-## APPENDIX A - SUPPLEMENTARY ANALYSIS
+## APPENDIX 1 - SUPPLEMENTARY ANALYSIS
 #########################################################################################################################################  
 ################################################################################ 
 

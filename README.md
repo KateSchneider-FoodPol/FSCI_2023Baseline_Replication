@@ -21,9 +21,9 @@ Archived Dataset DOI: https://doi.org/10.7910/DVN/A1H2SH
 
 
 Explanation of analysis datasets: This folder contains individual data frames (in .dta and .csv formats) for each indicator and supplementary data created in the Stata .do file. The complete dataset with time series is also found in this folder. There are multiple versions, indicated by the filename and explained here:
-- FSCI_2022_latestyear: synonomyous with the baseline dataset found in the root folder, with the only difference being that there is some additional formatting to the baseline dataset labelled as "Supplementary Data - Appendix F - Baseline dataset" as an excel workbook so that it is a standalone human readable file.
+- FSCI_2022_latestyear: synonomyous with the baseline dataset found in the root folder, with the only difference being that there is some additional formatting to the baseline dataset labelled as "Supplementary Data 2 - Baseline dataset" as an excel workbook so that it is a standalone human readable file.
 - FSCI_2022_latestyear_withweightvars: includes the additional variables needed to compute the weighted means
-- FSCI_2022_ltsyr_metadata: records the year of the latest year per country-indicator, and is copied as a sheet into the file "FSCI Baseline_Supplementary Data - Appendix E - Metadata and Codebook"
+- FSCI_2022_ltsyr_metadata: records the year of the latest year per country-indicator, and is copied as a sheet into the file "FSCI Baseline_Supplementary Data 1 - Metadata and Codebook"
 - FSCI 2023_Time series: the time series compiled dataset (synonymous with FSCI_2022_timeseries in the final analysis datasets folder)
 - FSCI_2022_timeseries_withweightvars: the time series compiled dataset, also including the additional variables needed for the weighted means
 
